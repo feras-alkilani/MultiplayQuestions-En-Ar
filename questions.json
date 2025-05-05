@@ -320,12 +320,21 @@
         "answer": "ركض سريع"
     },
     {
-        "question": " 'spring'",
+        "question": " 'Spring'",
         "options": [
             "ربيع",
             "خريف",
             "شتاء",
             "صيف"
+        ],
+        "answer": "ربيع"
+    },{
+        "question": " 'spring'",
+        "options": [
+            "نابض",
+            "خروف",
+            "دجاجة",
+            "نمر"
         ],
         "answer": "ربيع"
     },

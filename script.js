@@ -1,4 +1,4 @@
-// دالة لخلط الإجابات عشوائيًا
+// to make the randomly answers
 function shuffleArray(array) {
   for (let i = array.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -6,12 +6,12 @@ function shuffleArray(array) {
   }
 }
 
-// قراءة الأسئلة من ملف JSON
+// Reading the questions from JSON file
 fetch("questions.json")
   .then((response) => response.json())
   .then((questions) => renderQuiz(questions));
 
-// دالة لعرض الأسئلة
+// Function to show the question
 function renderQuiz(questions) {
   const quizContainer = document.getElementById("quiz-container");
   quizContainer.innerHTML = "";
@@ -22,10 +22,10 @@ function renderQuiz(questions) {
 
     const questionText = document.createElement("p");
     questionText.classList.add("question");
-    questionText.innerText = q.question;
+    questionText.innerText = `${index + 1} - ${q.question}`;
     questionDiv.appendChild(questionText);
 
-    // خلط الخيارات عشوائيًا
+    // mix the options
     const shuffledOptions = [...q.options];
     shuffleArray(shuffledOptions);
 
@@ -42,16 +42,21 @@ function renderQuiz(questions) {
 }
 
 function selectAnswer(answerDiv, correctAnswer, selectedAnswer) {
-  // تعطيل النقر على الإجابات بعد اختيار أحدها
+  // prevent clicking after selecting the option
   const allAnswers = answerDiv.parentElement.querySelectorAll(".answer");
   allAnswers.forEach((ans) => {
-    ans.style.pointerEvents = "none"; // تعطيل النقر
+    ans.style.pointerEvents = "none"; // prevent clicking
   });
 
-  // تحديد ما إذا كانت الإجابة صحيحة أو خطأ بناءً على اللون
+  // select the answer if it is true or false depending on the color
   if (selectedAnswer === correctAnswer) {
     answerDiv.classList.add("correct");
   } else {
     answerDiv.classList.add("incorrect");
+    allAnswers.forEach((ans) => {
+      ans.innerText === correctAnswer
+        ? ans.classList.add("correct")
+        : undefined;
+    });
   }
 }

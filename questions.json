@@ -1,6 +1,6 @@
 [
     {
-        "question": "ما معنى كلمة 'mandated'؟",
+        "question": " 'mandated'",
         "options": [
             "مفروض",
             "اختياري",
@@ -10,7 +10,7 @@
         "answer": "مفروض"
     },
     {
-        "question": "ما معنى كلمة 'emphasize'؟",
+        "question": " 'emphasize'",
         "options": [
             "يؤكد",
             "يخفي",
@@ -20,7 +20,7 @@
         "answer": "يؤكد"
     },
     {
-        "question": "ما معنى كلمة 'significant'؟",
+        "question": " 'significant'",
         "options": [
             "مهم",
             "غير مهم",
@@ -30,7 +30,7 @@
         "answer": "مهم"
     },
     {
-        "question": "ما معنى كلمة 'evaluate'؟",
+        "question": " 'evaluate'",
         "options": [
             "تقييم",
             "رفض",
@@ -40,7 +40,7 @@
         "answer": "تقييم"
     },
     {
-        "question": "ما معنى كلمة 'objectively'؟",
+        "question": " 'objectively'",
         "options": [
             "موضوعيًا",
             "شخصيًا",
@@ -50,7 +50,7 @@
         "answer": "موضوعيًا"
     },
     {
-        "question": "ما معنى كلمة 'frustrating'؟",
+        "question": " 'frustrating'",
         "options": [
             "محبط",
             "مفرح",
@@ -60,7 +60,7 @@
         "answer": "محبط"
     },
     {
-        "question": "ما معنى كلمة 'fair'؟",
+        "question": " 'fair'",
         "options": [
             "عادل",
             "غش",
@@ -70,7 +70,7 @@
         "answer": "عادل"
     },
     {
-        "question": "ما معنى كلمة 'concerns'؟",
+        "question": " 'concerns'",
         "options": [
             "هموم",
             "فرح",
@@ -80,7 +80,7 @@
         "answer": "هموم"
     },
     {
-        "question": "ما معنى كلمة 'convenience'؟",
+        "question": " 'convenience'",
         "options": [
             "راحة",
             "مشكلة",
@@ -90,7 +90,7 @@
         "answer": "راحة"
     },
     {
-        "question": "ما معنى كلمة 'surfaced'؟",
+        "question": " 'surfaced'",
         "options": [
             "ظهرت",
             "اختفت",
@@ -100,7 +100,7 @@
         "answer": "ظهرت"
     },
     {
-        "question": "ما معنى كلمة 'iterative'؟",
+        "question": " 'iterative'",
         "options": [
             "تكراري",
             "مستمر",
@@ -110,7 +110,7 @@
         "answer": "تكراري"
     },
     {
-        "question": "ما معنى كلمة 'Ethos'؟",
+        "question": " 'Ethos'",
         "options": [
             "روح المجتمع",
             "عقل الفرد",
@@ -120,7 +120,7 @@
         "answer": "روح المجتمع"
     },
     {
-        "question": "ما معنى كلمة 'pathos'؟",
+        "question": " 'pathos'",
         "options": [
             "شعور عاطفي",
             "رؤية فكرية",
@@ -130,7 +130,7 @@
         "answer": "شعور عاطفي"
     },
     {
-        "question": "ما معنى كلمة 'flickering'؟",
+        "question": " 'flickering'",
         "options": [
             "وميض",
             "مستقر",
@@ -140,7 +140,7 @@
         "answer": "وميض"
     },
     {
-        "question": "ما معنى كلمة 'rare'؟",
+        "question": " 'rare'",
         "options": [
             "نادر",
             "معتاد",
@@ -150,7 +150,7 @@
         "answer": "نادر"
     },
     {
-        "question": "ما معنى كلمة 'genetic'؟",
+        "question": " 'genetic'",
         "options": [
             "وراثي",
             "بيئي",
@@ -160,7 +160,7 @@
         "answer": "وراثي"
     },
     {
-        "question": "ما معنى كلمة 'overtaken'؟",
+        "question": " 'overtaken'",
         "options": [
             "مغطي",
             "متفوق",
@@ -170,7 +170,7 @@
         "answer": "مغطي"
     },
     {
-        "question": "ما معنى كلمة 'milestone'؟",
+        "question": " 'milestone'",
         "options": [
             "محطة هامة",
             "خطوة صغيرة",
@@ -180,7 +180,7 @@
         "answer": "محطة هامة"
     },
     {
-        "question": "ما معنى كلمة 'expect'؟",
+        "question": " 'expect'",
         "options": [
             "يتوقع",
             "يؤجل",
@@ -190,7 +190,7 @@
         "answer": "يتوقع"
     },
     {
-        "question": "ما معنى كلمة 'clarity'؟",
+        "question": " 'clarity'",
         "options": [
             "وضوح",
             "غموض",
@@ -200,7 +200,7 @@
         "answer": "وضوح"
     },
     {
-        "question": "ما معنى كلمة 'release'؟",
+        "question": " 'release'",
         "options": [
             "إطلاق",
             "احتجاز",
@@ -210,7 +210,7 @@
         "answer": "إطلاق"
     },
     {
-        "question": "ما معنى كلمة 'agility'؟",
+        "question": " 'agility'",
         "options": [
             "رشاقة",
             "تأخر",
@@ -220,7 +220,7 @@
         "answer": "رشاقة"
     },
     {
-        "question": "ما معنى كلمة 'examine'؟",
+        "question": " 'examine'",
         "options": [
             "يفحص",
             "يترك",
@@ -230,7 +230,7 @@
         "answer": "يفحص"
     },
     {
-        "question": "ما معنى كلمة 'ceremonies'؟",
+        "question": " 'ceremonies'",
         "options": [
             "احتفالات",
             "مقابلات",
@@ -240,7 +240,7 @@
         "answer": "احتفالات"
     },
     {
-        "question": "ما معنى كلمة 'foundation'؟",
+        "question": " 'foundation'",
         "options": [
             "أساس",
             "سطح",
@@ -250,7 +250,7 @@
         "answer": "أساس"
     },
     {
-        "question": "ما معنى كلمة 'facilitate'؟",
+        "question": " 'facilitate'",
         "options": [
             "يسهل",
             "يعقد",
@@ -260,7 +260,7 @@
         "answer": "يسهل"
     },
     {
-        "question": "ما معنى كلمة 'flexible'؟",
+        "question": " 'flexible'",
         "options": [
             "مرن",
             "قاسي",
@@ -270,7 +270,7 @@
         "answer": "مرن"
     },
     {
-        "question": "ما معنى كلمة 'refinements'؟",
+        "question": " 'refinements'",
         "options": [
             "تحسينات",
             "تعديلات",
@@ -280,7 +280,7 @@
         "answer": "تحسينات"
     },
     {
-        "question": "ما معنى كلمة 'desired'؟",
+        "question": " 'desired'",
         "options": [
             "مرغوب",
             "مرفوض",
@@ -290,7 +290,7 @@
         "answer": "مرغوب"
     },
     {
-        "question": "ما معنى كلمة 'negotiable'؟",
+        "question": " 'negotiable'",
         "options": [
             "قابل للتفاوض",
             "غير قابل للتفاوض",
@@ -300,7 +300,7 @@
         "answer": "قابل للتفاوض"
     },
     {
-        "question": "ما معنى كلمة 'estimable'؟",
+        "question": " 'estimable'",
         "options": [
             "مستحق التقدير",
             "غير مرئي",
@@ -310,7 +310,7 @@
         "answer": "مستحق التقدير"
     },
     {
-        "question": "ما معنى كلمة 'sprint'؟",
+        "question": " 'sprint'",
         "options": [
             "ركض سريع",
             "خطوة بطيئة",
@@ -320,7 +320,7 @@
         "answer": "ركض سريع"
     },
     {
-        "question": "ما معنى كلمة 'spring'؟",
+        "question": " 'spring'",
         "options": [
             "ربيع",
             "خريف",
@@ -330,7 +330,7 @@
         "answer": "ربيع"
     },
     {
-        "question": "ما معنى كلمة 'definition'؟",
+        "question": " 'definition'",
         "options": [
             "تعريف",
             "اختصار",
@@ -340,7 +340,7 @@
         "answer": "تعريف"
     },
     {
-        "question": "ما معنى كلمة 'refinement'؟",
+        "question": " 'refinement'",
         "options": [
             "تحسين",
             "إصلاح",
@@ -350,7 +350,7 @@
         "answer": "تحسين"
     },
     {
-        "question": "ما معنى كلمة 'relieved'؟",
+        "question": " 'relieved'",
         "options": [
             "مستراح",
             "مضغوط",
@@ -360,7 +360,7 @@
         "answer": "مستراح"
     },
     {
-        "question": "ما معنى كلمة 'out of curiosity'؟",
+        "question": " 'out of curiosity'",
         "options": [
             "بدافع الفضول",
             "بدافع الكره",
@@ -370,7 +370,7 @@
         "answer": "بدافع الفضول"
     },
     {
-        "question": "ما معنى كلمة 'sufficient'؟",
+        "question": " 'sufficient'",
         "options": [
             "كاف",
             "غير كاف",
@@ -380,7 +380,7 @@
         "answer": "كاف"
     },
     {
-        "question": "ما معنى كلمة 'conduct'؟",
+        "question": " 'conduct'",
         "options": [
             "تصرف",
             "تجاهل",
@@ -390,7 +390,7 @@
         "answer": "تصرف"
     },
     {
-        "question": "ما معنى كلمة 'smooth'؟",
+        "question": " 'smooth'",
         "options": [
             "أملس",
             "خشن",
@@ -400,7 +400,7 @@
         "answer": "أملس"
     },
     {
-        "question": "ما معنى كلمة 'blended'؟",
+        "question": " 'blended'",
         "options": [
             "مخلوط",
             "مفصول",
@@ -410,7 +410,7 @@
         "answer": "مخلوط"
     },
     {
-        "question": "ما معنى كلمة 'opportunity'؟",
+        "question": " 'opportunity'",
         "options": [
             "فرصة",
             "عائق",
@@ -420,7 +420,7 @@
         "answer": "فرصة"
     },
     {
-        "question": "ما معنى كلمة 'secondment'؟",
+        "question": " 'secondment'",
         "options": [
             "إعارة",
             "دائم",
@@ -430,7 +430,7 @@
         "answer": "إعارة"
     },
     {
-        "question": "ما معنى كلمة 'aspiration'؟",
+        "question": " 'aspiration'",
         "options": [
             "طموح",
             "تسليم",
@@ -440,7 +440,7 @@
         "answer": "طموح"
     },
     {
-        "question": "ما معنى كلمة 'refugee'؟",
+        "question": " 'refugee'",
         "options": [
             "لاجئ",
             "مهاجم",
@@ -450,7 +450,7 @@
         "answer": "لاجئ"
     },
     {
-        "question": "ما معنى كلمة 'importance'؟",
+        "question": " 'importance'",
         "options": [
             "أهمية",
             "قليل الأهمية",

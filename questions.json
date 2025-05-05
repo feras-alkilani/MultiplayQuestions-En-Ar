@@ -528,7 +528,47 @@
     "question": "eagerness",
     "options": ["حماسة", "ملل", "تردد", "استهزاء"],
     "answer": "حماسة"
-  }
+  },
+ {
+        "question": "further",
+        "options": [
+            "أبعد",
+            "أقرب",
+            "لاحقًا",
+            "قصير"
+        ],
+        "answer": "أبعد"
+    },
+    {
+        "question": "enhance",
+        "options": [
+            "يعزز",
+            "يضعف",
+            "يحذف",
+            "يتجاهل"
+        ],
+        "answer": "يعزز"
+    },
+    {
+        "question": "reflecting",
+        "options": [
+            "يعكس",
+            "يبتلع",
+            "يخفي",
+            "يشوه"
+        ],
+        "answer": "يعكس"
+    },
+    {
+        "question": "enrolled",
+        "options": [
+            "مسجّل",
+            "متخرج",
+            "مستبعد",
+            "مؤجل"
+        ],
+        "answer": "مسجّل"
+    }
 
 
 ]

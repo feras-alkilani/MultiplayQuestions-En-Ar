@@ -458,5 +458,68 @@
             "مهمل"
         ],
         "answer": "أهمية"
-    }
+    },
+[
+  {
+    "question": "strives",
+    "options": ["يسعى", "ينام", "يستسلم", "يضحك"],
+    "answer": "يسعى"
+  },
+  {
+    "question": "former",
+    "options": ["سابق", "لاحق", "عادي", "مستقبلي"],
+    "answer": "سابق"
+  },
+  {
+    "question": "mentorship",
+    "options": ["إرشاد", "صداقة", "تسوق", "مشاجرة"],
+    "answer": "إرشاد"
+  },
+  {
+    "question": "combination",
+    "options": ["مزيج", "فصل", "قفل", "مفتاح"],
+    "answer": "مزيج"
+  },
+  {
+    "question": "insights",
+    "options": ["رؤى", "أوهام", "أحلام", "نكات"],
+    "answer": "رؤى"
+  },
+  {
+    "question": "assertiveness",
+    "options": ["الحزم", "التردد", "الكسل", "التوتر"],
+    "answer": "الحزم"
+  },
+  {
+    "question": "conducted",
+    "options": ["أُجريت", "أُهملت", "أُلغيت", "تُركت"],
+    "answer": "أُجريت"
+  },
+  {
+    "question": "ongoing",
+    "options": ["جارٍ", "منتهي", "قديم", "مؤجل"],
+    "answer": "جارٍ"
+  },
+  {
+    "question": "expenses",
+    "options": ["نفقات", "أرباح", "ديون", "دخل"],
+    "answer": "نفقات"
+  },
+  {
+    "question": "proficiency",
+    "options": ["إتقان", "جهل", "ضعف", "كسل"],
+    "answer": "إتقان"
+  },
+  {
+    "question": "affinity",
+    "options": ["أُلفة", "كراهية", "منافسة", "غربة"],
+    "answer": "أُلفة"
+  },
+  {
+    "question": "eagerness",
+    "options": ["حماسة", "ملل", "تردد", "استهزاء"],
+    "answer": "حماسة"
+  }
+]
+
 ]

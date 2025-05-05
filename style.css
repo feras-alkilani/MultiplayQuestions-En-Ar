@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+.quiz-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+.question-container {
+  width: 45%;
+  margin: 20px 0;
+  box-sizing: border-box;
+}
+.question {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.answer {
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  border-radius: 5px;
+  display: block;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.correct {
+  background-color: #4caf50;
+  color: white;
+}
+.incorrect {
+  background-color: #f44336;
+  color: white;
+}
+
+/* تحجيم أفضل للأجهزة الصغيرة */
+@media (max-width: 768px) {
+  .question-container {
+    width: 100%; /* سؤال واحد في كل مرة على الشاشات الصغيرة */
+  }
+}

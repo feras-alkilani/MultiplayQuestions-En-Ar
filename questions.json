@@ -1,4 +1,103 @@
-[
+[ {
+        "question": "Data Analytics Engineer",
+        "options": [
+            "مهندس تحليل البيانات",
+            "محلل مالي",
+            "مبرمج قواعد بيانات",
+            "مدير مشاريع"
+        ],
+        "answer": "مهندس تحليل البيانات"
+    },
+    {
+        "question": "enthusiasm",
+        "options": [
+            "حماس",
+            "ملل",
+            "كسل",
+            "تردد"
+        ],
+        "answer": "حماس"
+    },
+    {
+        "question": "willingness",
+        "options": [
+            "استعداد",
+            "رفض",
+            "تكاسل",
+            "مماطلة"
+        ],
+        "answer": "استعداد"
+    },
+    {
+        "question": "individuals",
+        "options": [
+            "أفراد",
+            "جماعات",
+            "مؤسسات",
+            "قوانين"
+        ],
+        "answer": "أفراد"
+    },
+    {
+        "question": "genuinely",
+        "options": [
+            "بصدق",
+            "بخداع",
+            "بصعوبة",
+            "بتردد"
+        ],
+        "answer": "بصدق"
+    },
+    {
+        "question": "endeavors",
+        "options": [
+            "مساعٍ",
+            "استراحات",
+            "انسحابات",
+            "خمول"
+        ],
+        "answer": "مساعٍ"
+    },
+    {
+        "question": "ambitions",
+        "options": [
+            "طموحات",
+            "قيود",
+            "عقبات",
+            "مخاوف"
+        ],
+        "answer": "طموحات"
+    },
+    {
+        "question": "significance",
+        "options": [
+            "أهمية",
+            "سطحية",
+            "تشويش",
+            "إهمال"
+        ],
+        "answer": "أهمية"
+    },
+    {
+        "question": "diminish",
+        "options": [
+            "يقلل",
+            "يزيد",
+            "يؤكد",
+            "يكرر"
+        ],
+        "answer": "يقلل"
+    },
+    {
+        "question": "demonstrable",
+        "options": [
+            "قابل للإثبات",
+            "مبهم",
+            "مشوش",
+            "افتراضي"
+        ],
+        "answer": "قابل للإثبات"
+    },
     {
         "question": " 'mandated'",
         "options": [

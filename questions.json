@@ -648,6 +648,111 @@
         "question": "honestly",
         "options": ["بصدق", "بكذب", "بتهكم", "بغرور"],
         "answer": "بصدق"
+    },
+{
+        "question": "no hard feelings",
+        "options": ["لا مشاعر سلبية", "فرح شديد", "غضب عارم", "اكتئاب"],
+        "answer": "لا مشاعر سلبية"
+    },
+    {
+        "question": "elaborate",
+        "options": ["يفصّل", "يختصر", "يتجاهل", "يقرر"],
+        "answer": "يفصّل"
+    },
+    {
+        "question": "materials",
+        "options": ["مواد", "أشخاص", "أفكار", "مشاعر"],
+        "answer": "مواد"
+    },
+    {
+        "question": "clarification",
+        "options": ["توضيح", "تشويش", "تلميح", "إخفاء"],
+        "answer": "توضيح"
+    },
+    {
+        "question": "I just wonder",
+        "options": ["أنا فقط أتساءل", "أنا أقرر", "أنا أنسى", "أنا أرفض"],
+        "answer": "أنا فقط أتساءل"
+    },
+    {
+        "question": "greyed out",
+        "options": ["غير نشط", "ملون", "ظاهر بوضوح", "مضيء"],
+        "answer": "غير نشط"
+    },
+    {
+        "question": "typically",
+        "options": ["عادةً", "نادراً", "بشكل غريب", "بشكل عشوائي"],
+        "answer": "عادةً"
+    },
+    {
+        "question": "Instructor",
+        "options": ["مدرّس", "طالب", "حارس", "محاسب"],
+        "answer": "مدرّس"
+    },
+    {
+        "question": "discretion",
+        "options": ["تقدير شخصي", "صرامة", "إهمال", "قانونية"],
+        "answer": "تقدير شخصي"
+    },
+    {
+        "question": "remain",
+        "options": ["يبقى", "يختفي", "يتغير", "يتنقل"],
+        "answer": "يبقى"
+    },
+    {
+        "question": "permits",
+        "options": ["تصاريح", "قيود", "قوانين", "عقوبات"],
+        "answer": "تصاريح"
+    },
+    {
+        "question": "exclusively",
+        "options": ["حصريًا", "جزئيًا", "تقريبًا", "عشوائيًا"],
+        "answer": "حصريًا"
+    },
+    {
+        "question": "explicitly",
+        "options": ["بوضوح", "غموض", "بشكل غير مباشر", "تلميح"],
+        "answer": "بوضوح"
+    },
+    {
+        "question": "restrictions",
+        "options": ["قيود", "خيارات", "حريات", "مكافآت"],
+        "answer": "قيود"
+    },
+    {
+        "question": "encountering",
+        "options": ["مواجهة", "هروب", "تجنب", "نسيان"],
+        "answer": "مواجهة"
+    },
+    {
+        "question": "troubleshooting",
+        "options": ["استكشاف الأخطاء", "تصعيد المشكلة", "إهمال الأعطال", "إغلاق البرنامج"],
+        "answer": "استكشاف الأخطاء"
+    },
+    {
+        "question": "Verify",
+        "options": ["تحقق", "تخمين", "تغيير", "حذف"],
+        "answer": "تحقق"
+    },
+    {
+        "question": "persist",
+        "options": ["يستمر", "ينسحب", "يتوقف", "يتجاهل"],
+        "answer": "يستمر"
+    },
+    {
+        "question": "exemption",
+        "options": ["إعفاء", "عقوبة", "إلزام", "إضافة"],
+        "answer": "إعفاء"
+    },
+    {
+        "question": "commitment",
+        "options": ["التزام", "تردد", "إهمال", "انسحاب"],
+        "answer": "التزام"
+    },
+    {
+        "question": "vaccine",
+        "options": ["لقاح", "دواء مسكن", "مضاد حيوي", "مرض"],
+        "answer": "لقاح"
     }
 
 

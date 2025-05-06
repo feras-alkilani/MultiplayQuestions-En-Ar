@@ -8,6 +8,76 @@
         ],
         "answer": "مهندس تحليل البيانات"
     },
+        {
+        "question": "beyond",
+        "options": [
+            "ما وراء",
+            "قليل الأهمية",
+            "خارج",
+            "داخل"
+        ],
+        "answer": "ما وراء"
+    },
+    {
+        "question": "contribute",
+        "options": [
+            "يساهم",
+            "يتنازل",
+            "يتراجع",
+            "يتخلى"
+        ],
+        "answer": "يساهم"
+    },
+    {
+        "question": "pivotal",
+        "options": [
+            "محوري",
+            "عادي",
+            "ثانوي",
+            "غير مهم"
+        ],
+        "answer": "محوري"
+    },
+    {
+        "question": "gratitude",
+        "options": [
+            "امتنان",
+            "غضب",
+            "حزن",
+            "تفاؤل"
+        ],
+        "answer": "امتنان"
+    },
+    {
+        "question": "encouragement",
+        "options": [
+            "تشجيع",
+            "تحفيز",
+            "إحباط",
+            "انتقاد"
+        ],
+        "answer": "تشجيع"
+    },
+    {
+        "question": "instrumental",
+        "options": [
+            "أساسي",
+            "ثانوي",
+            "غير مهم",
+            "جزئي"
+        ],
+        "answer": "أساسي"
+    },
+    {
+        "question": "incredibly",
+        "options": [
+            "بشكل مذهل",
+            "بشكل بسيط",
+            "بشكل عادي",
+            "بشكل ضعيف"
+        ],
+        "answer": "بشكل مذهل"
+    },
     {
         "question": "enthusiasm",
         "options": [

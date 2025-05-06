@@ -568,6 +568,86 @@
             "مؤجل"
         ],
         "answer": "مسجّل"
+    },
+{
+        "question": "chill out",
+        "options": ["استرخي", "تجمد", "غضب", "ركض"],
+        "answer": "استرخي"
+    },
+    {
+        "question": "perhaps",
+        "options": ["ربما", "أكيد", "مستحيل", "أبداً"],
+        "answer": "ربما"
+    },
+    {
+        "question": "artistically",
+        "options": ["بشكل فني", "بشكل علمي", "بشكل رياضي", "بشكل تجاري"],
+        "answer": "بشكل فني"
+    },
+    {
+        "question": "bashfully",
+        "options": ["بخجل", "بغضب", "بسرعة", "بفخر"],
+        "answer": "بخجل"
+    },
+    {
+        "question": "hopelessly in love",
+        "options": ["واقع في الحب بشكل ميؤوس", "يكره بشدة", "غير مهتم", "مستقر عاطفياً"],
+        "answer": "واقع في الحب بشكل ميؤوس"
+    },
+    {
+        "question": "to sleep in",
+        "options": ["ينام لفترة أطول", "ينام في الخارج", "يأخذ قيلولة", "لا ينام"],
+        "answer": "ينام لفترة أطول"
+    },
+    {
+        "question": "obvious",
+        "options": ["واضح", "غامض", "غير مرئي", "صعب"],
+        "answer": "واضح"
+    },
+    {
+        "question": "mess",
+        "options": ["فوضى", "نظام", "هدوء", "نظافة"],
+        "answer": "فوضى"
+    },
+    {
+        "question": "apparently",
+        "options": ["على ما يبدو", "سراً", "قطعاً", "لا شك فيه"],
+        "answer": "على ما يبدو"
+    },
+    {
+        "question": "hunting",
+        "options": ["الصيد", "الركض", "اللعب", "الزراعة"],
+        "answer": "الصيد"
+    },
+    {
+        "question": "I am apartment hunting",
+        "options": ["أبحث عن شقة", "أرتب شقتي", "أعيش في شقة", "أبيع شقتي"],
+        "answer": "أبحث عن شقة"
+    },
+    {
+        "question": "I am nailing the difference down",
+        "options": ["أحدد الفرق بدقة", "أتجاهل الفرق", "أزيد الفرق", "أخترع فرق"],
+        "answer": "أحدد الفرق بدقة"
+    },
+    {
+        "question": "nail",
+        "options": ["مسمار", "مطرقة", "خشب", "جدار"],
+        "answer": "مسمار"
+    },
+    {
+        "question": "nailing",
+        "options": ["يثبت", "يكسر", "يحرق", "يسحب"],
+        "answer": "يثبت"
+    },
+    {
+        "question": "polyglots",
+        "options": ["متعددي اللغات", "مترجمين", "كتّاب", "سياسيين"],
+        "answer": "متعددي اللغات"
+    },
+    {
+        "question": "honestly",
+        "options": ["بصدق", "بكذب", "بتهكم", "بغرور"],
+        "answer": "بصدق"
     }
 
 

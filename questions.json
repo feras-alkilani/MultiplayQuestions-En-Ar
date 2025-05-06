@@ -753,7 +753,105 @@
         "question": "vaccine",
         "options": ["لقاح", "دواء مسكن", "مضاد حيوي", "مرض"],
         "answer": "لقاح"
-    }
+    }و{
+    "question": "'analogy'",
+    "options": ["تشابه", "تناقض", "خرافة", "مبالغة"],
+    "answer": "تشابه"
+  },
+  {
+    "question": "'mill'",
+    "options": ["مطحنة", "مصنع سيارات", "مزرعة", "مكتبة"],
+    "answer": "مطحنة"
+  },
+  {
+    "question": "'Unified'",
+    "options": ["موحد", "مشتت", "مكرر", "مخفي"],
+    "answer": "موحد"
+  },
+  {
+    "question": "'conventions'",
+    "options": ["اتفاقيات", "مخالفات", "حروب", "أزمات"],
+    "answer": "اتفاقيات"
+  },
+  {
+    "question": "'fractional part'",
+    "options": ["جزء كسري", "عدد زوجي", "قيمة سالبة", "مضاعف"],
+    "answer": "جزء كسري"
+  },{
+    "question": "'reserved'",
+    "options": ["محجوز", "مفتوح", "مهمل", "عشوائي"],
+    "answer": "محجوز"
+  },
+  {
+    "question": "'adheres'",
+    "options": ["يلتزم", "يتجاهل", "ينكر", "يخالف"],
+    "answer": "يلتزم"
+  },
+  {
+    "question": "'asterisk'",
+    "options": ["علامة النجمة", "قوس", "خط مائل", "رمز الدولار"],
+    "answer": "علامة النجمة"
+  },
+  {
+    "question": "'constructive'",
+    "options": ["بنّاء", "هدّام", "سطحي", "غامض"],
+    "answer": "بنّاء"
+  },
+  {
+    "question": "'transparent'",
+    "options": ["شفاف", "غامق", "مغلق", "مختلط"],
+    "answer": "شفاف"
+  },
+  {
+    "question": "'concerning'",
+    "options": ["بخصوص", "بعيد عن", "ضد", "بعد"],
+    "answer": "بخصوص"
+  },
+  {
+    "question": "'individually'",
+    "options": ["بشكل فردي", "جماعياً", "عشوائياً", "دفعة واحدة"],
+    "answer": "بشكل فردي"
+  },
+  {
+    "question": "'exponentiation'",
+    "options": ["الأسس", "الجمع", "القسمة", "المقارنة"],
+    "answer": "الأسس"
+  },
+  {
+    "question": "'discarded'",
+    "options": ["مهمل", "مختار", "مستخدم", "مطلوب"],
+    "answer": "مهمل"
+  },
+  {
+    "question": "'thus'",
+    "options": ["لذا", "لكن", "رغم ذلك", "سابقاً"],
+    "answer": "لذا"
+  },
+  {
+    "question": "'approximation errors'",
+    "options": ["أخطاء التقريب", "نتائج صحيحة", "مضاعفات رياضية", "عمليات حسابية"],
+    "answer": "أخطاء التقريب"
+  },
+  {
+    "question": "'altogether'",
+    "options": ["تمامًا", "جزئيًا", "نادرًا", "مؤقتًا"],
+    "answer": "تمامًا"
+  },
+  {
+    "question": "'indistinct'",
+    "options": ["غير واضح", "محدّد", "ظاهر", "مرئي بوضوح"],
+    "answer": "غير واضح"
+  },
+  {
+    "question": "'enclose'",
+    "options": ["يُرفق", "يحذف", "ينفي", "يفصل"],
+    "answer": "يُرفق"
+  },
+  {
+    "question": "'hands-on'",
+    "options": ["عملي", "نظري", "افتراضي", "غامض"],
+    "answer": "عملي"
+  }
 
 
 ]

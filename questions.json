@@ -1090,6 +1090,86 @@
             "يؤخر"
         ],
         "answer": "يشجع"
+    },
+ {
+        "question": "obvoice",
+        "options": ["يُعلّق", "يُصرّح", "يُعقّب", "يُعبّر بوضوح"],
+        "answer": "يُعبّر بوضوح"
+    },
+    {
+        "question": "fire up",
+        "options": ["يُشعل", "يُطفئ", "يُبرّد", "يُهدئ"],
+        "answer": "يُشعل"
+    },
+    {
+        "question": "formula",
+        "options": ["معادلة", "نتيجة", "تجربة", "وسيلة"],
+        "answer": "معادلة"
+    },
+    {
+        "question": "respectively",
+        "options": ["على التوالي", "تقريبًا", "نوعًا ما", "بالتأكيد"],
+        "answer": "على التوالي"
+    },
+    {
+        "question": "sharpen",
+        "options": ["يبري", "يكسر", "يلون", "يُفسد"],
+        "answer": "يبري"
+    },
+    {
+        "question": "Lacks credibility",
+        "options": ["يفتقر للمصداقية", "موثوق", "صادق", "مؤكد"],
+        "answer": "يفتقر للمصداقية"
+    },
+    {
+        "question": "exaggerated",
+        "options": ["مبالغ فيه", "واقعي", "مُعتدل", "مُناسب"],
+        "answer": "مبالغ فيه"
+    },
+    {
+        "question": "Recruiters",
+        "options": ["الموظِّفون", "المستثمرون", "الطلاب", "المحاسبون"],
+        "answer": "الموظِّفون"
+    },
+    {
+        "question": "doubt",
+        "options": ["شك", "ثقة", "يقين", "إيمان"],
+        "answer": "شك"
+    },
+    {
+        "question": "Weakens",
+        "options": ["يُضعف", "يُقوّي", "يُثبت", "يُدعم"],
+        "answer": "يُضعف"
+    },
+    {
+        "question": "vague",
+        "options": ["غامض", "واضح", "دقيق", "مفهوم"],
+        "answer": "غامض"
+    },
+    {
+        "question": "Overwhelms",
+        "options": ["يغمر", "يهمل", "يُهدئ", "يُنسي"],
+        "answer": "يغمر"
+    },
+    {
+        "question": "perspectives",
+        "options": ["وجهات نظر", "أحداث", "أشخاص", "أماكن"],
+        "answer": "وجهات نظر"
+    },
+    {
+        "question": "demonstrate",
+        "options": ["يُظهر", "يُخفي", "يمنع", "يُنكر"],
+        "answer": "يُظهر"
+    },
+    {
+        "question": "approximates",
+        "options": ["يُقارب", "يُبعِد", "يُفرّق", "يُخالف"],
+        "answer": "يُقارب"
+    },
+    {
+        "question": "exaggerate",
+        "options": ["يُبالغ", "يُقلل", "يُخفف", "يُسكت"],
+        "answer": "يُبالغ"
     }
 
 

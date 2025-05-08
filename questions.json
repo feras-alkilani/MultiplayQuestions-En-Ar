@@ -98,6 +98,36 @@
         ],
         "answer": "استعداد"
     },
+        {
+        "question": " 'identical'",
+        "options": [
+            "مطابق",
+            "مختلف",
+            "مكرر",
+            "تقليدي"
+        ],
+        "answer": "مطابق"
+    },
+    {
+        "question": " 'indented'",
+        "options": [
+            "بارز",
+            "داخلي (مزاح للداخل)",
+            "مستقيم",
+            "مقطوع"
+        ],
+        "answer": "داخلي (مزاح للداخل)"
+    },
+    {
+        "question": " 'indicate'",
+        "options": [
+            "يشير",
+            "يخفي",
+            "يلغي",
+            "يمنع"
+        ],
+        "answer": "يشير"
+    },
     {
         "question": "individuals",
         "options": [

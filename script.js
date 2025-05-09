@@ -1,9 +1,19 @@
 // to make the randomly answers
-function shuffleArray(array) {
+function shuffleOptions(array) {
   for (let i = array.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [array[i], array[j]] = [array[j], array[i]];
   }
+}
+
+// to make the randomly questions
+function shuffleArray(array) {
+  const arr = [...array]; // copy to avoid mutating the original
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]]; // swap
+  }
+  return arr;
 }
 
 // Reading the questions from JSON file
@@ -13,10 +23,13 @@ fetch("questions.json")
 
 // Function to show the question
 function renderQuiz(questions) {
+  // Getting the random questions
+  const shuffledQuestions = shuffleArray(questions);
+
   const quizContainer = document.getElementById("quiz-container");
   quizContainer.innerHTML = "";
 
-  questions.forEach((q, index) => {
+  shuffledQuestions.forEach((q, index) => {
     const questionDiv = document.createElement("div");
     questionDiv.classList.add("question-container");
 
@@ -27,7 +40,7 @@ function renderQuiz(questions) {
 
     // mix the options
     const shuffledOptions = [...q.options];
-    shuffleArray(shuffledOptions);
+    shuffleOptions(shuffledOptions);
 
     shuffledOptions.forEach((option) => {
       const answerDiv = document.createElement("div");

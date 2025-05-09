@@ -1,4 +1,43 @@
-[
+[{
+        "question": "obvious",
+        "options": [
+            "واضح",
+            "غامض",
+            "صعب الفهم",
+            "مبهم"
+        ],
+        "answer": "واضح"
+    },
+    {
+        "question": "invoke",
+        "options": [
+            "يستدعي",
+            "يتجاهل",
+            "يحذف",
+            "ينسى"
+        ],
+        "answer": "يستدعي"
+    },
+    {
+        "question": "eloquent",
+        "options": [
+            "بليغ",
+            "صامت",
+            "مشتت",
+            "ضعيف التعبير"
+        ],
+        "answer": "بليغ"
+    },
+    {
+        "question": "vocal",
+        "options": [
+            "صوتي",
+            "كتابي",
+            "مرئي",
+            "صامت"
+        ],
+        "answer": "صوتي"
+    },
     {
         "question": "Data Analytics Engineer",
         "options": [

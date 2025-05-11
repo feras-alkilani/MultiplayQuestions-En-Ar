@@ -1,4 +1,168 @@
 [{
+    "question": "cooking up stories",
+    "options": ["يختلق القصص", "يطبخ الأكل", "يروي القصص الواقعية", "يؤلف الكتب"],
+    "answer": "يختلق القصص"
+  },
+  {
+    "question": "assertive",
+    "options": ["حازم", "متردد", "عنيف", "خجول"],
+    "answer": "حازم"
+  },
+  {
+    "question": "staircase",
+    "options": ["سلم", "شباك", "باب", "ممر"],
+    "answer": "سلم"
+  },
+  {
+    "question": "accused",
+    "options": ["متهم", "قاضي", "محامٍ", "شاهد"],
+    "answer": "متهم"
+  },
+  {
+    "question": "administered",
+    "options": ["أدار", "رفض", "تجاهل", "فشل"],
+    "answer": "أدار"
+  },
+  {
+    "question": "optimize",
+    "options": ["يُحسّن", "يُهمل", "يُخفض", "يُدمر"],
+    "answer": "يُحسّن"
+  },
+  {
+    "question": "crucial",
+    "options": ["حاسم", "ثانوي", "غير مهم", "هامشي"],
+    "answer": "حاسم"
+  },
+  {
+    "question": "custody",
+    "options": ["احتجاز", "حرية", "هروب", "تحقيق"],
+    "answer": "احتجاز"
+  },
+  {
+    "question": "her recent release",
+    "options": ["إفراجها الأخير", "اعتقالها الأخير", "مقالها الأخير", "مغامرتها الأخيرة"],
+    "answer": "إفراجها الأخير"
+  },
+  {
+    "question": "immutable",
+    "options": ["غير قابل للتغيير", "مؤقت", "مرن", "قابل للتفاوض"],
+    "answer": "غير قابل للتغيير"
+  },
+  {
+    "question": "modifications",
+    "options": ["تعديلات", "مشاكل", "تعقيدات", "مخاوف"],
+    "answer": "تعديلات"
+  },
+  {
+    "question": "lined up",
+    "options": ["اصطف", "تراجع", "انهار", "تفرق"],
+    "answer": "اصطف"
+  },
+  {
+    "question": "span",
+    "options": ["يمتد", "يقصر", "يتوقف", "يختصر"],
+    "answer": "يمتد"
+  },
+  {
+    "question": "monetize",
+    "options": ["يُحقق دخلًا", "ينفق المال", "يهدر الموارد", "يُقرض"],
+    "answer": "يُحقق دخلًا"
+  },
+  {
+    "question": "flat ",
+    "options": ["مُسطّح", "مرتفع", "منحني", "بارز"],
+    "answer": "مُسطّح"
+  },
+  {
+    "question": "consonant",
+    "options": ["حرف ساكن", "حرف متحرك", "كلمة", "صوت"],
+    "answer": "حرف ساكن"
+  },
+  {
+    "question": "delegation",
+    "options": ["وفد", "جماعة", "قبيلة", "قافلة"],
+    "answer": "وفد"
+  },
+  {
+    "question": "heritage",
+    "options": ["تراث", "تقليد", "اختراع", "اكتشاف"],
+    "answer": "تراث"
+  },
+  {
+    "question": "broader restoration projects",
+    "options": ["مشاريع ترميم أوسع", "مبادرات هندسية ضيقة", "خطط سياحية", "برامج تعليمية"],
+    "answer": "مشاريع ترميم أوسع"
+  },
+  {
+    "question": "citadel",
+    "options": ["قلعة", "قرية", "خندق", "حظيرة"],
+    "answer": "قلعة"
+  },
+  {
+    "question": "a fortified fortress",
+    "options": ["قلعة محصنة", "سور مهدم", "حامية ضعيفة", "قرية صغيرة"],
+    "answer": "قلعة محصنة"
+  },
+  {
+    "question": "medieval",
+    "options": ["عصور وسطى", "عصرية", "قديمة جدًا", "حديثة"],
+    "answer": "عصور وسطى"
+  },
+  {
+    "question": "glorious past",
+    "options": ["ماضٍ مجيد", "مستقبل واعد", "حاضر مظلم", "ذكرى عادية"],
+    "answer": "ماضٍ مجيد"
+  },
+  {
+    "question": "bypass",
+    "options": ["يتجاوز", "يقترب", "يتوقف", "يؤخر"],
+    "answer": "يتجاوز"
+  },
+  {
+    "question": "boundaries",
+    "options": ["حدود", "أماكن", "صعوبات", "أزمات"],
+    "answer": "حدود"
+  },
+  {
+    "question": "vital",
+    "options": ["أساسي", "هامشي", "ضعيف", "بلا قيمة"],
+    "answer": "أساسي"
+  },
+  {
+    "question": "blackout",
+    "options": ["انقطاع الكهرباء", "توهج", "حريق", "فيضان"],
+    "answer": "انقطاع الكهرباء"
+  },
+  {
+    "question": "tortured",
+    "options": ["معذّب", "مرتاح", "ناجٍ", "ساخر"],
+    "answer": "معذّب"
+  },
+  {
+    "question": "profound",
+    "options": ["عميق", "سطحي", "سريع", "مؤقت"],
+    "answer": "عميق"
+  },
+  {
+    "question": "commitment",
+    "options": ["التزام", "تهاون", "تردد", "رفض"],
+    "answer": "التزام"
+  },
+  {
+    "question": "commit",
+    "options": ["يرتكب", "يهرب", "ينسى", "يتجاهل"],
+    "answer": "يرتكب"
+  },
+  {
+    "question": "courage",
+    "options": ["شجاعة", "خوف", "تردد", "ضعف"],
+    "answer": "شجاعة"
+  },
+  {
+    "question": "selflessness",
+    "options": ["إيثار", "أنانية", "طمع", "حب الذات"],
+    "answer": "إيثار"
+  },{
   "question": "mutable",
   "options": [
     "ثابت",

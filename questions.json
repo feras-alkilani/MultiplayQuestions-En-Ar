@@ -1,4 +1,113 @@
 [  {
+        "question": "anticipated",
+        "options": [
+            "متوقع",
+            "غير متوقع",
+            "غامض",
+            "قيد التنفيذ"
+        ],
+        "answer": "متوقع"
+    },
+    {
+        "question": "implement",
+        "options": [
+            "ينفذ",
+            "يعلق",
+            "يرفض",
+            "يؤجل"
+        ],
+        "answer": "ينفذ"
+    },
+    {
+        "question": "perspective",
+        "options": [
+            "وجهة نظر",
+            "التصور",
+            "الزاوية",
+            "الفهم"
+        ],
+        "answer": "وجهة نظر"
+    },
+    {
+        "question": "worth doing",
+        "options": [
+            "يستحق القيام به",
+            "ليس له قيمة",
+            "مضيعة للوقت",
+            "مؤجل"
+        ],
+        "answer": "يستحق القيام به"
+    },
+    {
+        "question": "whether",
+        "options": [
+            "إذا كان",
+            "متى",
+            "كيف",
+            "لماذا"
+        ],
+        "answer": "إذا كان"
+    },
+    {
+        "question": "Appraisal",
+        "options": [
+            "تقييم",
+            "تصنيف",
+            "تحليل",
+            "اختبار"
+        ],
+        "answer": "تقييم"
+    },
+    {
+        "question": "break even",
+        "options": [
+            "التعادل المالي",
+            "الخسارة",
+            "الربح",
+            "التوقف"
+        ],
+        "answer": "التعادل المالي"
+    },
+    {
+        "question": "subsequent",
+        "options": [
+            "لاحق",
+            "مسبق",
+            "قديم",
+            "مؤجل"
+        ],
+        "answer": "لاحق"
+    },
+    {
+        "question": "expense",
+        "options": [
+            "نفقة",
+            "دخل",
+            "مورد",
+            "عائد"
+        ],
+        "answer": "نفقة"
+    },
+    {
+        "question": "streamline",
+        "options": [
+            "تبسيط",
+            "تعقيد",
+            "تشويش",
+            "إلغاء"
+        ],
+        "answer": "تبسيط"
+    },
+    {
+        "question": "clarification",
+        "options": [
+            "توضيح",
+            "غموض",
+            "إبهام",
+            "تفسير"
+        ],
+        "answer": "توضيح"
+    }, {
     "question": "commie",
     "options": ["شيوعي", "رأسمالي", "متشائم", "فضولي"],
     "answer": "شيوعي"

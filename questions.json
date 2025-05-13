@@ -1,5 +1,174 @@
-[ 
-    {
+[  {
+    "question": "Far fewer",
+    "options": ["أقل بكثير", "أكثر بكثير", "نفس العدد", "لا شيء"],
+    "answer": "أقل بكثير"
+  },
+  {
+    "question": "Struggle",
+    "options": ["صراع", "راحة", "نجاح", "سهولة"],
+    "answer": "صراع"
+  },
+  {
+    "question": "Tutoring",
+    "options": ["دروس خصوصية", "تسلية", "سفر", "رياضة"],
+    "answer": "دروس خصوصية"
+  },
+  {
+    "question": "Affiliate",
+    "options": ["تابع", "رئيس", "عدو", "منافس"],
+    "answer": "تابع"
+  },
+  {
+    "question": "Retailers",
+    "options": ["تجار تجزئة", "مصنعين", "مستهلكين", "مزارعين"],
+    "answer": "تجار تجزئة"
+  },
+  {
+    "question": "Institution",
+    "options": ["مؤسسة", "فرد", "قبيلة", "مزرعة"],
+    "answer": "مؤسسة"
+  },
+  {
+    "question": "Tier",
+    "options": ["طبقة", "حافة", "مكان", "شخص"],
+    "answer": "طبقة"
+  },
+  {
+    "question": "Crowdfunding",
+    "options": ["تمويل جماعي", "قرض مصرفي", "خصم تجاري", "تهرب ضريبي"],
+    "answer": "تمويل جماعي"
+  },
+  {
+    "question": "Partnerships",
+    "options": ["شراكات", "خلافات", "تنافس", "خسارات"],
+    "answer": "شراكات"
+  },
+  {
+    "question": "Venture",
+    "options": ["مشروع", "عطلة", "مهمة", "مزحة"],
+    "answer": "مشروع"
+  },
+  {
+    "question": "Investors",
+    "options": ["مستثمرون", "مدينون", "سائحون", "معلمون"],
+    "answer": "مستثمرون"
+  },
+  {
+    "question": "Comprehensive",
+    "options": ["شامل", "بسيط", "ناقص", "مختصر"],
+    "answer": "شامل"
+  },
+  {
+    "question": "Curriculum",
+    "options": ["منهج دراسي", "مدرسة", "اختبار", "شهادة"],
+    "answer": "منهج دراسي"
+  },
+  {
+    "question": "Executive summary",
+    "options": ["ملخص تنفيذي", "خاتمة شخصية", "مقال عشوائي", "سيرة ذاتية"],
+    "answer": "ملخص تنفيذي"
+  },
+  {
+    "question": "Mental well-being",
+    "options": ["الصحة النفسية", "اللياقة البدنية", "الثراء", "الطاقة"],
+    "answer": "الصحة النفسية"
+  },
+  {
+    "question": "Proposition",
+    "options": ["عرض / قيمة مقترحة", "رفض", "طلب بسيط", "اتهام"],
+    "answer": "عرض / قيمة مقترحة"
+  },
+  {
+    "question": "Anxiety",
+    "options": ["قلق", "راحة", "نشوة", "سعادة"],
+    "answer": "قلق"
+  },
+  {
+    "question": "Fatigue",
+    "options": ["إرهاق", "نشاط", "راحة", "حماس"],
+    "answer": "إرهاق"
+  },
+  {
+    "question": "Burnout",
+    "options": ["احتراق ذهني", "راحة تامة", "تحفيز", "نجاح"],
+    "answer": "احتراق ذهني"
+  },
+  {
+    "question": "Accomplishment",
+    "options": ["إنجاز", "فشل", "تردد", "انسحاب"],
+    "answer": "إنجاز"
+  },
+  {
+    "question": "Prioritization",
+    "options": ["تحديد الأولويات", "تأجيل", "رفض", "نسيان"],
+    "answer": "تحديد الأولويات"
+  },
+  {
+    "question": "Encouragement",
+    "options": ["تشجيع", "إحباط", "سخرية", "انتقاد"],
+    "answer": "تشجيع"
+  },
+  {
+    "question": "Competitor",
+    "options": ["منافس", "صديق", "شريك", "مساعد"],
+    "answer": "منافس"
+  },
+  {
+    "question": "Differentiation",
+    "options": ["تمييز", "تشابه", "دمج", "رفض"],
+    "answer": "تمييز"
+  },
+  {
+    "question": "Freemium model",
+    "options": ["نموذج مجاني بمزايا مدفوعة", "مجاني تمامًا", "مدفوع فقط", "دون إنترنت"],
+    "answer": "نموذج مجاني بمزايا مدفوعة"
+  },
+  {
+    "question": "Institutional licensing",
+    "options": ["ترخيص مؤسساتي", "رخصة فردية", "شهادة مهنية", "عقد عمل"],
+    "answer": "ترخيص مؤسساتي"
+  },
+  {
+    "question": "Referral program",
+    "options": ["برنامج إحالة", "برنامج تعليم", "برنامج سياحي", "خطة طبية"],
+    "answer": "برنامج إحالة"
+  },
+  {
+    "question": "Promotion",
+    "options": ["ترقية / ترويج", "إقالة", "إلغاء", "تجميد"],
+    "answer": "ترقية / ترويج"
+  },
+  {
+    "question": "Campaign",
+    "options": ["حملة", "مهمة", "حادثة", "جريمة"],
+    "answer": "حملة"
+  },
+  {
+    "question": "Expansion",
+    "options": ["توسع", "انكماش", "تراجع", "توقف"],
+    "answer": "توسع"
+  },
+  {
+    "question": "Revenue",
+    "options": ["إيرادات", "خسائر", "ديون", "مصاريف"],
+    "answer": "إيرادات"
+  },
+  {
+    "question": "Net profit",
+    "options": ["صافي الربح", "صافي الخسارة", "الضرائب", "رأس المال"],
+    "answer": "صافي الربح"
+  },
+  {
+    "question": "Wellness",
+    "options": ["العافية", "المرض", "الفقر", "الضعف"],
+    "answer": "العافية"
+  },
+  {
+    "question": "Potential",
+    "options": ["إمكانات", "عقبات", "ضعف", "خطر"],
+    "answer": "إمكانات"
+  }
+    ,{
         "question": "reimbursed",
         "options": ["مُعوَّض", "مطالب", "خاسر", "مدفوع"],
         "answer": "مُعوَّض"

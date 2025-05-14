@@ -1,4 +1,182 @@
 [ {
+    "question": "disaster",
+    "options": ["كارثة", "نجاح", "مفاجأة", "فرصة"],
+    "answer": "كارثة"
+  },
+  {
+    "question": "cessation",
+    "options": ["استمرار", "بدء", "توقف", "إعادة"],
+    "answer": "توقف"
+  },
+  {
+    "question": "sanctions",
+    "options": ["قيود", "مكافآت", "عقوبات", "حوافز"],
+    "answer": "عقوبات"
+  },
+  {
+    "question": "I will be ordering",
+    "options": ["سأستفسر", "سأطلب", "سأنتظر", "سأدفع"],
+    "answer": "سأطلب"
+  },
+  {
+    "question": "in order to",
+    "options": ["على الرغم من", "لكي", "بينما", "حتى لو"],
+    "answer": "لكي"
+  },
+  {
+    "question": "Backlog",
+    "options": ["خلفية", "أولوية", "تراكم", "سجل"],
+    "answer": "تراكم"
+  },
+  {
+    "question": "modified",
+    "options": ["محسَّن", "ثابت", "مقلد", "معدَّل"],
+    "answer": "معدَّل"
+  },
+  {
+    "question": "arrange",
+    "options": ["يُلغي", "يُرتب", "يؤجل", "يُنهي"],
+    "answer": "يُرتب"
+  },
+  {
+    "question": "violation",
+    "options": ["التزام", "مخالفة", "حماية", "تسوية"],
+    "answer": "مخالفة"
+  },
+  {
+    "question": "efficiency",
+    "options": ["كفاءة", "ضعف", "إهدار", "مجهود"],
+    "answer": "كفاءة"
+  },
+  {
+    "question": "competitive",
+    "options": ["تعاوني", "تنافسي", "ضعيف", "سلبي"],
+    "answer": "تنافسي"
+  },
+  {
+    "question": "competitiveness",
+    "options": ["الروح الرياضية", "القدرة التنافسية", "العداوة", "الاعتماد"],
+    "answer": "القدرة التنافسية"
+  },
+  {
+    "question": "nomination",
+    "options": ["تعيين", "إقالة", "ترشيح", "اختيار عشوائي"],
+    "answer": "ترشيح"
+  },
+  {
+    "question": "pricing",
+    "options": ["التوزيع", "التسعير", "التسويق", "العرض"],
+    "answer": "التسعير"
+  },
+  {
+    "question": "sustainability",
+    "options": ["الاستدامة", "المحدودية", "المؤقت", "الزوال"],
+    "answer": "الاستدامة"
+  },
+  {
+    "question": "exhibit",
+    "options": ["يخفي", "يعرض", "ينقل", "ينكر"],
+    "answer": "يعرض"
+  },
+  {
+    "question": "boundaries",
+    "options": ["حدود", "حرية", "بوابات", "عوائق"],
+    "answer": "حدود"
+  },
+  {
+    "question": "conflict",
+    "options": ["صراع", "تفاهم", "هدنة", "اتفاق"],
+    "answer": "صراع"
+  },
+  {
+    "question": "terms",
+    "options": ["شروط", "أفكار", "وسائل", "طلبات"],
+    "answer": "شروط"
+  },
+  {
+    "question": "conditions",
+    "options": ["أوضاع", "تعديلات", "قوانين", "خدمات"],
+    "answer": "أوضاع"
+  },
+  {
+    "question": "autonomy",
+    "options": ["استقلالية", "تبعية", "اعتماد", "مشاركة"],
+    "answer": "استقلالية"
+  },
+  {
+    "question": "credibility",
+    "options": ["شك", "مصداقية", "احتمال", "أمان"],
+    "answer": "مصداقية"
+  },
+  {
+    "question": "mindset",
+    "options": ["تفكير", "أسلوب حياة", "عقلية", "نية"],
+    "answer": "عقلية"
+  },
+  {
+    "question": "resilience",
+    "options": ["مرونة", "جمود", "كسل", "تردد"],
+    "answer": "مرونة"
+  },
+  {
+    "question": "pioneers",
+    "options": ["مستكشفون", "قادة", "روّاد", "مغامرون"],
+    "answer": "روّاد"
+  },
+  {
+    "question": "recognition",
+    "options": ["تقدير", "إغفال", "نسيان", "حذف"],
+    "answer": "تقدير"
+  },
+  {
+    "question": "ethical",
+    "options": ["أخلاقي", "عملي", "سياسي", "اجتماعي"],
+    "answer": "أخلاقي"
+  },
+  {
+    "question": "executives",
+    "options": ["عمّال", "تنفيذيون", "مدراء مشاريع", "موظفون عاديون"],
+    "answer": "تنفيذيون"
+  },
+  {
+    "question": "compliance violations",
+    "options": ["مخالفات امتثال", "أخطاء إدارية", "قوانين ثابتة", "شكاوى رسمية"],
+    "answer": "مخالفات امتثال"
+  },
+  {
+    "question": "unpredictable",
+    "options": ["قابل للتوقع", "لا يمكن التنبؤ به", "منتظم", "محسوب"],
+    "answer": "لا يمكن التنبؤ به"
+  },{
+    "question": "step on it",
+    "options": ["خف رجلك", "زد السرعة", "توقف فوراً", "تراجع للخلف"],
+    "answer": "خف رجلك"
+  },
+  {
+    "question": "keynote",
+    "options": ["كلمة وداعية", "الافتتاح", "الكلمة الرئيسية (في مؤتمر)", "تعليق صوتي"],
+    "answer": "الكلمة الرئيسية (في مؤتمر)"
+  },
+  {
+    "question": "exposure",
+    "options": ["تعاطف", "تراجع", "تعرّض / انكشاف", "تأقلم"],
+    "answer": "تعرّض / انكشاف"
+  },
+  {
+    "question": "violate",
+    "options": ["يحترم", "ينفذ", "ينتهك (قوانين، حقوق...)", "يشارك"],
+    "answer": "ينتهك (قوانين، حقوق...)"
+  },
+  {
+    "question": "prestigious",
+    "options": ["عادي", "غير معروف", "مرموق / ذو مكانة", "مبتدئ"],
+    "answer": "مرموق / ذو مكانة"
+  },
+  {
+    "question": "advocate",
+    "options": ["خصم", "مدافع / مناصر (لفكرة أو قضية)", "متفرج", "مراقب"],
+    "answer": "مدافع / مناصر (لفكرة أو قضية)"
+  },{
         "question": "Apple of my eye",
         "options": ["تفاحة عيني", "شخص مميز", "محبوب جدًا", "منظر جميل"],
         "answer": "تفاحة عيني"

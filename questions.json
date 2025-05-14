@@ -1,4 +1,373 @@
 [ {
+    "question": " 'Denominator and numerator'",
+    "options": ["المقام والبسط", "موازنة", "نمو", "نقل"],
+    "answer": "المقام والبسط"
+  },
+  {
+    "question": " 'close note'",
+    "options": ["احتياط", "كلمة الختام في المؤتمر", "موقف", "موقع"],
+    "answer": "كلمة الختام في المؤتمر"
+  },
+  {
+    "question": " 'Backlog'",
+    "options": ["الأعمال المتراكمة", "مهمة", "شحنة", "تقنية"],
+    "answer": "الأعمال المتراكمة"
+  },
+  {
+    "question": " 'deliverables'",
+    "options": ["تحديث", "عقبة", "المخرجات المتوقعة للمشروع", "موقف"],
+    "answer": "المخرجات المتوقعة للمشروع"
+  },
+  {
+    "question": " 'Go/No-Go meeting'",
+    "options": ["تشويش", "اجتماع اتخاذ القرار (المتابعة أو التوقف)", "تسليم", "ميزة"],
+    "answer": "اجتماع اتخاذ القرار (المتابعة أو التوقف)"
+  },
+  {
+    "question": " 'Mitigation'",
+    "options": ["التخفيف", "مشكلة", "تخفيض", "مرحلة"],
+    "answer": "التخفيف"
+  },
+  {
+    "question": " 'Conduct'",
+    "options": ["إجراء", "تحليل", "مستخدم", "تسليم"],
+    "answer": "إجراء"
+  },
+  {
+    "question": " 'narrow'",
+    "options": ["ضيّق", "موقع", "هيكل", "مشكلة"],
+    "answer": "ضيّق"
+  },
+  {
+    "question": " 'proposal'",
+    "options": ["اقتراح", "طلب", "ميزة", "نقل"],
+    "answer": "اقتراح"
+  },
+  {
+    "question": " 'consistency'",
+    "options": ["اتساق", "أداة", "تسليم", "مهمة"],
+    "answer": "اتساق"
+  },
+  {
+    "question": " 'innovative'",
+    "options": ["مبتكر", "تحليل", "شحنة", "تشويش"],
+    "answer": "مبتكر"
+  },
+  {
+    "question": " 'constraints'",
+    "options": ["قيود", "بيانات", "نسبة", "حذف"],
+    "answer": "قيود"
+  },
+  {
+    "question": " 'lexicon'",
+    "options": ["معجم", "موقع", "أداة", "طلب"],
+    "answer": "معجم"
+  },
+  {
+    "question": " 'prototype'",
+    "options": ["نموذج أولي", "تصنيف", "مهمة", "ضغط"],
+    "answer": "نموذج أولي"
+  },
+  {
+    "question": " 'metrics'",
+    "options": ["مقاييس", "شحنة", "طلب", "بيانات"],
+    "answer": "مقاييس"
+  },
+  {
+    "question": " 'constitute'",
+    "options": ["يُشكّل", "نقل", "أداة", "إجراء"],
+    "answer": "يُشكّل"
+  },
+  {
+    "question": " 'proposition'",
+    "options": ["مقترح", "مستخدم", "مشكلة", "شحنة"],
+    "answer": "مقترح"
+  },
+  {
+    "question": " 'enterprise'",
+    "options": ["مؤسسة", "مرحلة", "ميزة", "ضغط"],
+    "answer": "مؤسسة"
+  },
+  {
+    "question": " 'satisfaction'",
+    "options": ["رضا", "طلب", "هيكل", "تصنيف"],
+    "answer": "رضا"
+  },
+  {
+    "question": " 'articulate'",
+    "options": ["يعبر بوضوح", "موقع", "شحنة", "بيانات"],
+    "answer": "يعبر بوضوح"
+  },
+  {
+    "question": " 'rationale'",
+    "options": ["الأساس المنطقي", "موقع", "تسليم", "هيكل"],
+    "answer": "الأساس المنطقي"
+  },
+  {
+    "question": " 'comprehensive'",
+    "options": ["شامل", "نمو", "تحديث", "مشكلة"],
+    "answer": "شامل"
+  },
+  {
+    "question": " 'ambiguity'",
+    "options": ["غموض", "مهمة", "موقع", "شحنة"],
+    "answer": "غموض"
+  },
+  {
+    "question": " 'feasibility'",
+    "options": ["الجدوى", "موقع", "نقل", "هيكل"],
+    "answer": "الجدوى"
+  },
+  {
+    "question": " 'endeavour'",
+    "options": ["مسعى", "هيكل", "ضغط", "مرحلة"],
+    "answer": "مسعى"
+  },
+  {
+    "question": " 'initiative'",
+    "options": ["مبادرة", "تخفيض", "طلب", "مشكلة"],
+    "answer": "مبادرة"
+  },
+  {
+    "question": " 'stakeholders'",
+    "options": ["أصحاب المصلحة", "ميزة", "نقل", "هيكل"],
+    "answer": "أصحاب المصلحة"
+  },
+  {
+    "question": " 'specialization'",
+    "options": ["تخصص", "شحنة", "ضغط", "تسليم"],
+    "answer": "تخصص"
+  },
+  {
+    "question": " 'interaction'",
+    "options": ["تفاعل", "نقل", "شحنة", "مشكلة"],
+    "answer": "تفاعل"
+  },
+  {
+    "question": " 'expectations'",
+    "options": ["توقعات", "طلب", "نقل", "شحنة"],
+    "answer": "توقعات"
+  },
+  {
+    "question": " 'measurable'",
+    "options": ["قابل للقياس", "طلب", "شحنة", "نقل"],
+    "answer": "قابل للقياس"
+  },
+  {
+    "question": " 'estimate'",
+    "options": ["تقدير", "شحنة", "موقع", "ضغط"],
+    "answer": "تقدير"
+  },
+  {
+    "question": " 'methodology'",
+    "options": ["المنهجية", "شحنة", "موقع", "ضغط"],
+    "answer": "المنهجية"
+  },
+  {
+    "question": " 'robustness'",
+    "options": ["الصلابة", "شحنة", "موقع", "طلب"],
+    "answer": "الصلابة"
+  },
+  {
+    "question": " 'invisibility'",
+    "options": ["الخفاية (استخدام مجازي في المشاريع البرمجية)", "شحنة", "موقع", "طلب"],
+    "answer": "الخفاية (استخدام مجازي في المشاريع البرمجية)"
+  },
+  {
+    "question": " 'holistic management'",
+    "options": ["إدارة شاملة", "شحنة", "موقع", "طلب"],
+    "answer": "إدارة شاملة"
+  },
+  {
+    "question": " 'continuous process improvement'",
+    "options": ["تحسين العمليات المستمر", "شحنة", "موقع", "طلب"],
+    "answer": "تحسين العمليات المستمر"
+  },
+  {
+    "question": " 'agile philosophy'",
+    "options": ["فلسفة أجايل", "شحنة", "موقع", "طلب"],
+    "answer": "فلسفة أجايل"
+  },
+  {
+    "question": " 'user satisfaction'",
+    "options": ["رضا المستخدم", "شحنة", "موقع", "طلب"],
+    "answer": "رضا المستخدم"
+  },
+  {
+    "question": " 'Standish definition'",
+    "options": ["تعريف ستاندش", "شحنة", "موقع", "طلب"],
+    "answer": "تعريف ستاندش"
+  },
+  {
+    "question": " 'legacy architecture'",
+    "options": ["الهيكلية القديمة", "شحنة", "موقع", "طلب"],
+    "answer": "الهيكلية القديمة"
+  },
+  {
+    "question": " 'feature creep'",
+    "options": ["زحف الميزات", "شحنة", "موقع", "طلب"],
+    "answer": "زحف الميزات"
+  },
+  {
+    "question": " 'cost-risk-quality tradeoff'",
+    "options": ["الموازنة بين التكلفة والمخاطرة والجودة", "شحنة", "موقع", "طلب"],
+    "answer": "الموازنة بين التكلفة والمخاطرة والجودة"
+  },
+  {
+    "question": " 'audience'",
+    "options": ["الجمهور", "شحنة", "موقع", "طلب"],
+    "answer": "الجمهور"
+  },
+  {
+    "question": " 'evidence'",
+    "options": ["دليل", "شحنة", "موقع", "طلب"],
+    "answer": "دليل"
+  },
+  {
+    "question": " 'simplified'",
+    "options": ["مبسط", "شحنة", "موقع", "طلب"],
+    "answer": "مبسط"
+  },
+  {
+    "question": " 'obstacle'",
+    "options": ["عقبة", "شحنة", "موقع", "طلب"],
+    "answer": "عقبة"
+  },
+  {
+    "question": " 'initiate'",
+    "options": ["يبدأ", "شحنة", "موقع", "طلب"],
+    "answer": "يبدأ"
+  },
+  {
+    "question": " 'deviation'",
+    "options": ["انحراف", "شحنة", "موقع", "طلب"],
+    "answer": "انحراف"
+  },
+  {
+    "question": " 'crowdfunding'",
+    "options": ["التمويل الجماعي", "شحنة", "موقع", "طلب"],
+    "answer": "التمويل الجماعي"
+  },
+  {
+    "question": " 'entrepreneurship'",
+    "options": ["ريادة الأعمال", "شحنة", "موقع", "طلب"],
+    "answer": "ريادة الأعمال"
+  },
+  {
+    "question": " 'competitor'",
+    "options": ["منافس", "شحنة", "موقع", "طلب"],
+    "answer": "منافس"
+  },
+  {
+    "question": " 'premium'",
+    "options": ["علاوة / مكافأة", "شحنة", "موقع", "طلب"],
+    "answer": "علاوة / مكافأة"
+  },
+  {
+    "question": " 'effort estimation'",
+    "options": ["تقدير الجهد", "شحنة", "موقع", "طلب"],
+    "answer": "تقدير الجهد"
+  },
+  {
+    "question": " 'discount rate'",
+    "options": ["معدل الخصم", "شحنة", "موقع", "طلب"],
+    "answer": "معدل الخصم"
+  },
+  {
+    "question": " 'requirement'",
+    "options": ["متطلبات", "شحنة", "موقع", "طلب"],
+    "answer": "متطلبات"
+  },
+  {
+    "question": " 'onboarding'",
+    "options": ["الإعداد الأولي للمستخدمين", "شحنة", "موقع", "طلب"],
+    "answer": "الإعداد الأولي للمستخدمين"
+  },
+  {
+    "question": " 'procurement'",
+    "options": ["الشراء / التوريد", "شحنة", "موقع", "طلب"],
+    "answer": "الشراء / التوريد"
+  },
+  {
+    "question": " 'burn rate'",
+    "options": ["معدل استهلاك الميزانية", "شحنة", "موقع", "طلب"],
+    "answer": "معدل استهلاك الميزانية"
+  },
+  {
+    "question": " 'expandable platforms'",
+    "options": ["منصات قابلة للتوسع", "شحنة", "موقع", "طلب"],
+    "answer": "منصات قابلة للتوسع"
+  },
+  {
+    "question": " 'interrelated activities'",
+    "options": ["أنشطة مترابطة", "شحنة", "موقع", "طلب"],
+    "answer": "أنشطة مترابطة"
+  },
+  {
+    "question": " 'infrastructure'",
+    "options": ["البنية التحتية", "شحنة", "موقع", "طلب"],
+    "answer": "البنية التحتية"
+  },
+  {
+    "question": " 'pilot customers'",
+    "options": ["العملاء التجريبيون", "شحنة", "موقع", "طلب"],
+    "answer": "العملاء التجريبيون"
+  },
+  {
+    "question": " 'net present value (NPV)'",
+    "options": ["القيمة الحالية الصافية", "شحنة", "موقع", "طلب"],
+    "answer": "القيمة الحالية الصافية"
+  },
+  {
+    "question": " 'internal rate of return (IRR)'",
+    "options": ["معدل العائد الداخلي", "شحنة", "موقع", "طلب"],
+    "answer": "معدل العائد الداخلي"
+  },
+  {
+    "question": " 'compounding'",
+    "options": ["التركيب (في الفائدة أو الخصم)", "شحنة", "موقع", "طلب"],
+    "answer": "التركيب (في الفائدة أو الخصم)"
+  },
+  {
+    "question": " 'project sponsor / board'",
+    "options": ["راعي المشروع / مجلس المشروع", "شحنة", "موقع", "طلب"],
+    "answer": "راعي المشروع / مجلس المشروع"
+  },
+  {
+    "question": " 'forecastable'",
+    "options": ["قابل للتنبؤ به", "شحنة", "موقع", "طلب"],
+    "answer": "قابل للتنبؤ به"
+  },
+  {
+    "question": " 'precedent requirements'",
+    "options": ["المتطلبات السابقة (قبل البدء)", "شحنة", "موقع", "طلب"],
+    "answer": "المتطلبات السابقة (قبل البدء)"
+  },
+  {
+    "question": " 'underestimation'",
+    "options": ["التقليل من التقدير", "شحنة", "موقع", "طلب"],
+    "answer": "التقليل من التقدير"
+  },
+  {
+    "question": " 'deliverables'",
+    "options": ["المخرجات المتوقعة للمشروع", "شحنة", "موقع", "طلب"],
+    "answer": "المخرجات المتوقعة للمشروع"
+  },
+  {
+    "question": " 'scenario choice'",
+    "options": ["اختيار السيناريو", "شحنة", "موقع", "طلب"],
+    "answer": "اختيار السيناريو"
+  },
+  {
+    "question": " 'decision lead time'",
+    "options": ["وقت اتخاذ القرار", "شحنة", "موقع", "طلب"],
+    "answer": "وقت اتخاذ القرار"
+  },
+  {
+    "question": " 'financial impact over time'",
+    "options": ["الأثر المالي بمرور الزمن", "شحنة", "موقع", "طلب"],
+    "answer": "الأثر المالي بمرور الزمن"
+  },{
     "question": "disaster",
     "options": ["كارثة", "نجاح", "مفاجأة", "فرصة"],
     "answer": "كارثة"

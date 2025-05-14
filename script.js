@@ -24,7 +24,7 @@ fetch("questions.json")
 // Function to show the question
 function renderQuiz(questions) {
   // Getting the random questions
-  const shuffledQuestions = shuffleArray(questions);
+  const shuffledQuestions = shuffleArray(questions).slice(0, 20);
 
   const quizContainer = document.getElementById("quiz-container");
   quizContainer.innerHTML = "";

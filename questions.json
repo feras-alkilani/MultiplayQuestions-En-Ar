@@ -1,4 +1,53 @@
 [ {
+        "question": "Tier",
+        "options": [
+            "طبقة",
+            "إصدار",
+            "كمية",
+            "طلب"
+        ],
+        "answer": "طبقة"
+    },
+    {
+        "question": "Projection",
+        "options": [
+            "انكماش",
+            "عرض",
+            "تقدير",
+            "توقع"
+        ],
+        "answer": "توقع"
+    },
+    {
+        "question": "Bulk",
+        "options": [
+            "ضوء",
+            "حجم ضخم",
+            "فردي",
+            "طبقة"
+        ],
+        "answer": "حجم ضخم"
+    },
+    {
+        "question": "prompted",
+        "options": [
+            "شجع",
+            "تجاهل",
+            "أخر",
+            "رفض"
+        ],
+        "answer": "شجع"
+    },
+    {
+        "question": "to issue",
+        "options": [
+            "يصدر",
+            "يخفي",
+            "يلغي",
+            "يعارض"
+        ],
+        "answer": "يصدر"
+    },{
         "question": " 'roughly'",
         "options": ["تقريبًا", "بدقة", "نهائيًا", "مطلقًا"],
         "answer": "تقريبًا"

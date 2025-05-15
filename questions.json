@@ -1,4 +1,83 @@
 [ {
+        "question": " 'roughly'",
+        "options": ["تقريبًا", "بدقة", "نهائيًا", "مطلقًا"],
+        "answer": "تقريبًا"
+    },
+    {
+        "question": " 'and so on'",
+        "options": ["وهكذا", "ولكن", "على العكس", "مع ذلك"],
+        "answer": "وهكذا"
+    },
+    {
+        "question": " 'conclusion'",
+        "options": ["خاتمة", "مقدمة", "محتوى", "ملاحظة"],
+        "answer": "خاتمة"
+    },
+    {
+        "question": " 'You're off to'",
+        "options": ["أنت في طريقك إلى", "أنت تنهي", "أنت تتراجع", "أنت تتأخر"],
+        "answer": "أنت في طريقك إلى"
+    },
+    {
+        "question": " 'blend'",
+        "options": ["يمزج", "يقطع", "يفصل", "يكسّر"],
+        "answer": "يمزج"
+    },
+    {
+        "question": " 'Financial Projections'",
+        "options": ["توقعات مالية", "تكاليف حالية", "مصروفات ثابتة", "دَين حكومي"],
+        "answer": "توقعات مالية"
+    },
+    {
+        "question": " 'psychological problem'",
+        "options": ["مشكلة نفسية", "مشكلة تقنية", "مشكلة مالية", "مشكلة عضوية"],
+        "answer": "مشكلة نفسية"
+    },
+    {
+        "question": " 'point out'",
+        "options": ["يشير إلى", "يتجاهل", "ينكر", "ينقل"],
+        "answer": "يشير إلى"
+    },
+    {
+        "question": " 'nominated'",
+        "options": ["رُشّح", "رُفِض", "أُقصي", "أُدين"],
+        "answer": "رُشّح"
+    },
+    {
+        "question": " 'a giant leap'",
+        "options": ["قفزة هائلة", "خطوة صغيرة", "تراجع كبير", "انحدار مفاجئ"],
+        "answer": "قفزة هائلة"
+    },
+    {
+        "question": " 'proposition'",
+        "options": ["اقتراح", "معلومة", "نظرية", "قانون"],
+        "answer": "اقتراح"
+    },
+    {
+        "question": " 'Contingency costs'",
+        "options": ["تكاليف طارئة", "تكاليف ثابتة", "فوائد مالية", "مصاريف ضرورية"],
+        "answer": "تكاليف طارئة"
+    },
+    {
+        "question": " 'adjusting'",
+        "options": ["تعديل", "تخريب", "إلغاء", "زيادة"],
+        "answer": "تعديل"
+    },
+    {
+        "question": " 'upfront'",
+        "options": ["مقدمًا", "لاحقًا", "نادرًا", "أحيانًا"],
+        "answer": "مقدمًا"
+    },
+    {
+        "question": " 'Takeaway'",
+        "options": ["خلاصة", "تفصيل", "مقدمة", "نقد"],
+        "answer": "خلاصة"
+    },
+    {
+        "question": " 'gave you back'",
+        "options": ["أعاد لك", "أخذ منك", "تجاهلك", "أعطاك شيئًا جديدًا"],
+        "answer": "أعاد لك"
+    },{
     "question": " 'Denominator and numerator'",
     "options": ["المقام والبسط", "موازنة", "نمو", "نقل"],
     "answer": "المقام والبسط"

@@ -16,6 +16,9 @@ function shuffleArray(array) {
   return arr;
 }
 
+let correctAnswers = 0;
+let wrongAnswers = 0;
+
 // Reading the questions from JSON file
 fetch("questions.json")
   .then((response) => response.json())
@@ -64,6 +67,13 @@ function selectAnswer(answerDiv, correctAnswer, selectedAnswer) {
   // select the answer if it is true or false depending on the color
   if (selectedAnswer === correctAnswer) {
     answerDiv.classList.add("correct");
+    correctAnswers++;
+    document.getElementById("correct-result").innerHTML = "";
+
+    const msg = document.createElement("div");
+    msg.textContent = `Correct Questions Number is: ${correctAnswers} of 20 `;
+
+    document.getElementById("correct-result").appendChild(msg);
   } else {
     answerDiv.classList.add("incorrect");
     allAnswers.forEach((ans) => {
@@ -71,5 +81,11 @@ function selectAnswer(answerDiv, correctAnswer, selectedAnswer) {
         ? ans.classList.add("correct")
         : undefined;
     });
+    wrongAnswers++;
+    document.getElementById("wrong-result").innerHTML = "";
+
+    const msg = document.createElement("div");
+    msg.textContent = `Wrong Questions Number is: ${wrongAnswers} of 20 `;
+    document.getElementById("wrong-result").appendChild(msg);
   }
 }

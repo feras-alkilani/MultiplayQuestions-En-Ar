@@ -10,7 +10,7 @@ body {
   gap: 20px;
 }
 .question-container {
-  width: 45%;
+  width: 25%;
   margin: 20px 0;
   box-sizing: border-box;
 }
@@ -19,28 +19,43 @@ body {
   margin-bottom: 10px;
 }
 .answer {
-  margin: 10px 0;
+  margin: 10px auto;
   padding: 10px;
   border: 1px solid #ccc;
   cursor: pointer;
   border-radius: 5px;
   display: block;
   width: 80%;
-  margin-left: auto;
-  margin-right: auto;
 }
 .correct {
   background-color: #4caf50;
-  color: white;
+  color: #fff;
 }
 .incorrect {
   background-color: #f44336;
-  color: white;
+  color: #fff;
+}
+#correct-result,
+#wrong-result {
+  background-color: antiquewhite;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5px 0;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-/* تحجيم أفضل للأجهزة الصغيرة */
+#enToAr,
+#arToEn {
+  height: 250px;
+  width: 250px;
+  font-size: 50px;
+  margin-top: 50px;
+  font-weight: 500;
+}
 @media (max-width: 768px) {
   .question-container {
-    width: 100%; /* سؤال واحد في كل مرة على الشاشات الصغيرة */
+    width: 100%;
   }
 }

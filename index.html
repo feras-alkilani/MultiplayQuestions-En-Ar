@@ -3,13 +3,25 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>اختبار الكلمات</title>
+    <title>Word's Test</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <h1>اختبار الكلمات</h1>
-    <div class="quiz-container" id="quiz-container"></div>
+    <h1>Word's Test</h1>
+    <h2>Please Select the test</h2>
+    <button id="enToAr" onclick="goToEnToArPage()">En - Ar</button>
+    <button id="arToEn" onclick="goToArToEnPage()">Ar - En</button>
 
-    <script src="script.js"></script>
+    <script>
+      function goToEnToArPage() {
+        window.location.href = "enToAr.html"; // ضع الرابط الذي تريده هنا
+      }
+    </script>
+
+    <script>
+      function goToArToEnPage() {
+        window.location.href = "arToEn.html"; // ضع الرابط الذي تريده هنا
+      }
+    </script>
   </body>
 </html>

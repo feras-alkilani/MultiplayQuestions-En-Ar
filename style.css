@@ -65,14 +65,14 @@ body {
   font-weight: 500;
   border: none;
   border-radius: 10px;
-  background-color: #0xFF29B6F6;
+  background-color: #87CEFA;
   color: white;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 #enToAr:hover,
 #arToEn:hover {
-  background-color: #0056b3;
+  background-color: #00BFFF; 
   color: #ffeb3b;
   cursor: pointer;
 }

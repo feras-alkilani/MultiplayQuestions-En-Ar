@@ -1,5 +1,117 @@
 [
-    {
+    [
+  {
+    "question": "التهاب / وجع حلق",
+    "options": ["ointment", "sore throat", "courageous", "prescription"],
+    "answer": "sore throat"
+  },
+  {
+    "question": "عضلات مؤلمة",
+    "options": ["sore muscles", "sovereign", "engagement", "deserve"],
+    "answer": "sore muscles"
+  },
+  {
+    "question": "جرح مفتوح",
+    "options": ["a sore (noun)", "hardship", "nail", "cooperation"],
+    "answer": "a sore (noun)"
+  },
+  {
+    "question": "موضوع حساس / مؤلم نفسيًا",
+    "options": ["sore subject", "persist", "empowering", "potentialy"],
+    "answer": "sore subject"
+  },
+  {
+    "question": "وصفة طبية",
+    "options": ["prescription", "nailing", "stability", "willing"],
+    "answer": "prescription"
+  },
+  {
+    "question": "جبناء",
+    "options": ["Cowards", "courageous", "sovereign", "conclude"],
+    "answer": "Cowards"
+  },
+  {
+    "question": "شجاع",
+    "options": ["courageous", "Cowards", "engagement", "prosperous"],
+    "answer": "courageous"
+  },
+  {
+    "question": "استقرار",
+    "options": ["stability", "exemption", "potentialy", "during"],
+    "answer": "stability"
+  },
+  {
+    "question": "سيادي",
+    "options": ["sovereign", "prescription", "willing", "hardship"],
+    "answer": "sovereign"
+  },
+  {
+    "question": "يستحق",
+    "options": ["deserve", "cooperation", "persist", "ointment"],
+    "answer": "deserve"
+  },
+  {
+    "question": "نتيجة هامة",
+    "options": ["consequntal", "empowering", "sore muscles", "nail"],
+    "answer": "consequntal"
+  },
+  {
+    "question": "مع ذلك",
+    "options": ["nonetheless", "sovereign", "a sore (noun)", "during"],
+    "answer": "nonetheless"
+  },
+  {
+    "question": "ارتباط / خطوبة",
+    "options": ["engagement", "Cowards", "persist", "hardship"],
+    "answer": "engagement"
+  },
+  {
+    "question": "تعاون",
+    "options": ["cooperation", "sore throat", "potentialy", "exemption"],
+    "answer": "cooperation"
+  },
+  {
+    "question": "تمكين",
+    "options": ["empowering", "persist", "ointment", "during"],
+    "answer": "empowering"
+  },
+  {
+    "question": "مزدهر",
+    "options": ["prosperous", "willing", "nail", "sovereign"],
+    "answer": "prosperous"
+  },
+  {
+    "question": "يختم / يستنتج",
+    "options": ["conclude", "persist", "nonetheless", "Cowards"],
+    "answer": "conclude"
+  },
+  {
+    "question": "مصاعب",
+    "options": ["hardship", "ointment", "sore subject", "engagement"],
+    "answer": "hardship"
+  },
+  {
+    "question": "مستعد",
+    "options": ["willing", "persist", "sovereign", "prescription"],
+    "answer": "willing"
+  },
+  {
+    "question": "بإمكانه",
+    "options": ["potentialy", "nail", "persist", "sore throat"],
+    "answer": "potentialy"
+  },
+  {
+    "question": "طيلة، في كل فترة الزمن، بشكل مستمر",
+    "options": ["Throughout", "During", "persist", "ointment"],
+    "answer": "Throughout"
+  },
+  {
+    "question": "خلال، في جزء من فترة الزمن",
+    "options": ["During", "Throughout", "willing", "empowering"],
+    "answer": "During"
+  }
+]
+,{
         "question": "طبقة",
         "options": [
             "'crowdfunding'",

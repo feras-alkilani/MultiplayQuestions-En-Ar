@@ -1,5 +1,223 @@
 [
-      {
+  {
+        "question": "foot the bill",
+        "options": ["يتكفل بالدفع", "يرفض الدفع", "يطلب الفاتورة", "يخسر المال"],
+        "answer": "يتكفل بالدفع"
+    },
+    {
+        "question": "rat on",
+        "options": ["يفشي السر", "يخفي الحقيقة", "يدافع عن", "يشكر"],
+        "answer": "يفشي السر"
+    },
+    {
+        "question": "hand in",
+        "options": ["يسلم", "يرفض", "يؤجل", "ينكر"],
+        "answer": "يسلم"
+    },
+    {
+        "question": "face up to",
+        "options": ["يواجه", "يهرب من", "يتجنب", "ينكر"],
+        "answer": "يواجه"
+    },
+    {
+        "question": "nose around",
+        "options": ["يتجسس / يفتش", "يتجاهل", "يتظاهر", "يختبئ"],
+        "answer": "يتجسس / يفتش"
+    },
+    {
+        "question": "head off",
+        "options": ["يمنع", "ينفذ", "ينسحب", "يتعاون"],
+        "answer": "يمنع"
+    },
+    {
+        "question": "shoulder the blame",
+        "options": ["يتحمل اللوم", "يلوم الآخرين", "ينكر الخطأ", "يتجنب المسؤولية"],
+        "answer": "يتحمل اللوم"
+    },
+    {
+        "question": "toe the line",
+        "options": ["يطيع", "يعترض", "يضحك", "يتأخر"],
+        "answer": "يطيع"
+    },
+    {
+        "question": "mouth off",
+        "options": ["يتكلم بوقاحة", "يسكت", "ينسحب", "يضحك"],
+        "answer": "يتكلم بوقاحة"
+    },
+    {
+        "question": "eye up",
+        "options": ["يُمعن النظر", "يغض البصر", "يغمض عينيه", "يبكي"],
+        "answer": "يُمعن النظر"
+    },
+    {
+        "question": "lend an ear",
+        "options": ["يصغي", "يصرخ", "يتكلم", "يضحك"],
+        "answer": "يصغي"
+    },
+    {
+        "question": "back down",
+        "options": ["يتراجع", "يصر", "يتحدى", "يتقدم"],
+        "answer": "يتراجع"
+    },
+    {
+        "question": "lip off",
+        "options": ["يرد بوقاحة", "يصمت", "يؤجل", "يتجاهل"],
+        "answer": "يرد بوقاحة"
+    },
+    {
+        "question": "skin of your teeth",
+        "options": ["بصعوبة بالغة", "بسهولة", "بثقة", "بغرور"],
+        "answer": "بصعوبة بالغة"
+    },
+    {
+        "question": "break down",
+        "options": ["يتعطل", "يتحسن", "يتسارع", "يُصلح"],
+        "answer": "يتعطل"
+    },
+    {
+        "question": "call off",
+        "options": ["يلغي", "يؤكد", "يبدأ", "يستمر"],
+        "answer": "يلغي"
+    },
+    {
+        "question": "carry on",
+        "options": ["يواصل", "يتوقف", "ينتقل", "يختبئ"],
+        "answer": "يواصل"
+    },
+    {
+        "question": "cut back",
+        "options": ["يقلل", "يزيد", "ينكر", "يحفظ"],
+        "answer": "يقلل"
+    },
+    {
+        "question": "drop by",
+        "options": ["يزور", "يهرب", "يغادر", "يتجاهل"],
+        "answer": "يزور"
+    },
+    {
+        "question": "fall through",
+        "options": ["يفشل", "ينجح", "يتحقق", "يتطور"],
+        "answer": "يفشل"
+    },
+    {
+        "question": "get across",
+        "options": ["يوصل الفكرة", "يخفي", "يكرر", "يتشتت"],
+        "answer": "يوصل الفكرة"
+    },
+    {
+        "question": "give in",
+        "options": ["يستسلم", "يهاجم", "يرفض", "يتحدى"],
+        "answer": "يستسلم"
+    },
+    {
+        "question": "go over",
+        "options": ["يراجع", "يتجاهل", "يتجاوز", "يتكاسل"],
+        "answer": "يراجع"
+    },
+    {
+        "question": "hold on",
+        "options": ["انتظر", "أغلق", "استمر", "تحرك"],
+        "answer": "انتظر"
+    },
+    {
+        "question": "keep up",
+        "options": ["يواكب", "يتراجع", "ينسى", "يتخلف"],
+        "answer": "يواكب"
+    },
+    {
+        "question": "look into",
+        "options": ["يحقق في", "ينكر", "يتشاجر", "يراقب"],
+        "answer": "يحقق في"
+    },
+    {
+        "question": "make up",
+        "options": ["يؤلف / يصالح", "يكره", "يهرب", "يتكاسل"],
+        "answer": "يؤلف / يصالح"
+    },
+    {
+        "question": "pass out",
+        "options": ["يغشى عليه", "يستفيق", "ينهض", "ينام"],
+        "answer": "يغشى عليه"
+    },
+    {
+        "question": "pick on",
+        "options": ["يضايق", "يحترم", "يدعم", "يساعد"],
+        "answer": "يضايق"
+    },
+    {
+        "question": "put off",
+        "options": ["يؤجل", "يعجل", "يتجنب", "ينهي"],
+        "answer": "يؤجل"
+    },
+    {
+        "question": "run out of",
+        "options": ["ينفد من", "يشتري", "يخزن", "يختار"],
+        "answer": "ينفد من"
+    },
+    {
+        "question": "set up",
+        "options": ["يُعد / ينظم", "يهدم", "يغلق", "يتجاهل"],
+        "answer": "يُعد / ينظم"
+    },
+    {
+        "question": "take over",
+        "options": ["يتولى", "يترك", "يهرب", "يعارض"],
+        "answer": "يتولى"
+    },
+    {
+        "question": "turn down",
+        "options": ["يرفض", "يقبل", "يفتح", "يشتري"],
+        "answer": "يرفض"
+    } , {
+        "question": "wholesome",
+        "options": ["صحي / مفيد", "سخيف", "غير ناضج", "مضلل"],
+        "answer": "صحي / مفيد"
+    },
+    {
+        "question": "carrier",
+        "options": ["ناقل", "معالج", "مُرسل", "مُستقبِل"],
+        "answer": "ناقل"
+    },
+    {
+        "question": "comparative of",
+        "options": ["صيغة المقارنة", "الفاعل", "أداة تعريف", "مبني للمجهول"],
+        "answer": "صيغة المقارنة"
+    },
+    {
+        "question": "to pose",
+        "options": ["يطرح / يعرض", "يتجاهل", "يهرب", "يقلد"],
+        "answer": "يطرح / يعرض"
+    },
+    {
+        "question": "balcony",
+        "options": ["شرفة", "مرآب", "مطبخ", "خزانة"],
+        "answer": "شرفة"
+    },
+    {
+        "question": "tidying up",
+        "options": ["ترتيب", "هدم", "صبغ", "شراء"],
+        "answer": "ترتيب"
+    },
+    {
+        "question": "impaired",
+        "options": ["ضعيف / معاق", "متمكن", "سليم", "سريع"],
+        "answer": "ضعيف / معاق"
+    },
+    {
+        "question": "intended",
+        "options": ["مقصود", "مفاجئ", "خاطئ", "غير متوقع"],
+        "answer": "مقصود"
+    },
+    {
+        "question": "Riots",
+        "options": ["أعمال شغب", "احتفالات", "عروض", "ندوات"],
+        "answer": "أعمال شغب"
+    },
+    {
+        "question": "egg on",
+        "options": ["يحث", "يتجاهل", "يمنع", "يعاقب"],
+        "answer": "يحث"
+    }  , {
     "question": "ointment",
     "options": [
       "مرهم",

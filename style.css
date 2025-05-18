@@ -46,6 +46,13 @@ body {
   margin-right: auto;
 }
 
+.lang-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 20px; /* المسافة بين العنصرين */
+  margin-top: 50px;
+}
+
 #enToAr,
 #arToEn {
   height: 250px;

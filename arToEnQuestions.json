@@ -1,6 +1,225 @@
-[
-    [
+[{
+    "question": "ينهار (عاطفيًا أو ميكانيكيًا)",
+    "options": ["break down", "fall apart", "crack up", "slow down"],
+    "answer": "break down"
+  },
   {
+    "question": "يلغي",
+    "options": ["call off", "cancel out", "put off", "shut down"],
+    "answer": "call off"
+  },
+  {
+    "question": "يواصل، يستمر",
+    "options": ["carry on", "go by", "keep out", "stay back"],
+    "answer": "carry on"
+  },
+  {
+    "question": "يقلل من (الإنفاق أو الاستخدام)",
+    "options": ["cut back", "turn down", "scale up", "push off"],
+    "answer": "cut back"
+  },
+  {
+    "question": "يزور فجأة/دون موعد",
+    "options": ["drop by", "stop over", "pass on", "show off"],
+    "answer": "drop by"
+  },
+  {
+    "question": "يفشل (مخطط أو صفقة)",
+    "options": ["fall through", "break off", "pass away", "shut off"],
+    "answer": "fall through"
+  },
+  {
+    "question": "يوصل فكرة أو رسالة بوضوح",
+    "options": ["get across", "speak up", "hand in", "bring out"],
+    "answer": "get across"
+  },
+  {
+    "question": "يستسلم، يرضخ",
+    "options": ["give in", "give up", "hand out", "turn over"],
+    "answer": "give in"
+  },
+  {
+    "question": "يراجع أو يفحص بعناية",
+    "options": ["go over", "look after", "read up", "check off"],
+    "answer": "go over"
+  },
+  {
+    "question": "ينتظر أو يتمسك",
+    "options": ["hold on", "stick to", "wait out", "cling in"],
+    "answer": "hold on"
+  },
+  {
+    "question": "يواكب، يحافظ على نفس المستوى",
+    "options": ["keep up", "stay in", "keep off", "go out"],
+    "answer": "keep up"
+  },
+  {
+    "question": "يبحث في (موضوع أو قضية)",
+    "options": ["look into", "check over", "scan through", "peer at"],
+    "answer": "look into"
+  },
+  {
+    "question": "يختلق (عذرًا، قصة، سلامًا)",
+    "options": ["make up", "come out", "think through", "set off"],
+    "answer": "make up"
+  },
+  {
+    "question": "يفقد الوعي",
+    "options": ["pass out", "black out", "fade away", "knock off"],
+    "answer": "pass out"
+  },
+  {
+    "question": "يضايق، يتنمر على",
+    "options": ["pick on", "laugh at", "take down", "nag at"],
+    "answer": "pick on"
+  },
+  {
+    "question": "يؤجل",
+    "options": ["put off", "hold up", "shut down", "drag on"],
+    "answer": "put off"
+  },
+  {
+    "question": "ينفد من",
+    "options": ["run out of", "lose out on", "drain through", "give off"],
+    "answer": "run out of"
+  },
+  {
+    "question": "يؤسس أو يجهز شيئًا",
+    "options": ["set up", "fix in", "get over", "start off"],
+    "answer": "set up"
+  },
+  {
+    "question": "يستولي على، يتولى السيطرة",
+    "options": ["take over", "bring down", "step up", "push in"],
+    "answer": "take over"
+  },
+  {
+    "question": "يرفض",
+    "options": ["turn down", "shut out", "pass up", "drop off"],
+    "answer": "turn down"
+  },{
+    "question": "كامل، نافع، صحي",
+    "options": ["wholesome", "hostile", "grim", "sickly"],
+    "answer": "wholesome"
+  },
+  {
+    "question": "ناقل، حمّال، وسيلة نقل",
+    "options": ["carrier", "courier", "truck", "loader"],
+    "answer": "carrier"
+  },
+  {
+    "question": "صيغة المقارنة",
+    "options": ["comparative of", "superlative", "equative", "positive form"],
+    "answer": "comparative of"
+  },
+  {
+    "question": "يطرح، يضع سؤالًا أو مشكلة",
+    "options": ["to pose", "to lift", "to share", "to risk"],
+    "answer": "to pose"
+  },
+  {
+    "question": "شرفة",
+    "options": ["balcony", "roof", "attic", "ledge"],
+    "answer": "balcony"
+  },
+  {
+    "question": "ترتيب، تنظيف",
+    "options": ["tidying up", "messing up", "sorting out", "sweeping out"],
+    "answer": "tidying up"
+  },
+  {
+    "question": "ضعيف، متضرر",
+    "options": ["impaired", "healthy", "alert", "improved"],
+    "answer": "impaired"
+  },
+  {
+    "question": "مُعدّ، مقصود",
+    "options": ["intended", "random", "improvised", "mistaken"],
+    "answer": "intended"
+  },
+  {
+    "question": "أعمال شغب",
+    "options": ["riots", "protests", "marches", "votes"],
+    "answer": "riots"
+  },
+  {
+    "question": "يحرّض، يشجع على فعل شيء سلبي",
+    "options": ["egg on", "cheer up", "bring up", "walk off"],
+    "answer": "egg on"
+  },
+  {
+    "question": "يدفع الفاتورة",
+    "options": ["foot the bill", "sign the check", "pay off", "cash in"],
+    "answer": "foot the bill"
+  },
+  {
+    "question": "يشي بـ، يبلّغ عن",
+    "options": ["rat on", "snitch in", "lie about", "spy over"],
+    "answer": "rat on"
+  },
+  {
+    "question": "يسلم (وظيفة، واجب...)",
+    "options": ["hand in", "give out", "put out", "send up"],
+    "answer": "hand in"
+  },
+  {
+    "question": "يواجه (شيء صعب)",
+    "options": ["face up to", "turn into", "run away from", "go around"],
+    "answer": "face up to"
+  },
+  {
+    "question": "يفتش، يفتّش بدافع الفضول",
+    "options": ["nose around", "snoop out", "dig under", "peek through"],
+    "answer": "nose around"
+  },
+  {
+    "question": "يمنع، يوقف شيء قبل حدوثه",
+    "options": ["head off", "put down", "walk off", "drive by"],
+    "answer": "head off"
+  },
+  {
+    "question": "يتحمل اللوم",
+    "options": ["shoulder the blame", "take pride", "point fingers", "deny everything"],
+    "answer": "shoulder the blame"
+  },
+  {
+    "question": "يلتزم بالقواعد",
+    "options": ["toe the line", "break the rule", "step aside", "bend the law"],
+    "answer": "toe the line"
+  },
+  {
+    "question": "يتحدث بوقاحة",
+    "options": ["mouth off", "speak up", "talk down", "whisper away"],
+    "answer": "mouth off"
+  },
+  {
+    "question": "يحدق بشخص/شيء بإعجاب أو رغبة",
+    "options": ["eye up", "look out", "stare down", "gaze off"],
+    "answer": "eye up"
+  },
+  {
+    "question": "يُصغي، يستمع بتعاطف",
+    "options": ["lend an ear", "pay attention", "hear back", "lean in"],
+    "answer": "lend an ear"
+  },
+  {
+    "question": "يتراجع عن موقف",
+    "options": ["back down", "turn back", "give up", "pull away"],
+    "answer": "back down"
+  },
+  {
+    "question": "يتكلم بوقاحة (عامية)",
+    "options": ["lip off", "talk back", "argue up", "sass off"],
+    "answer": "lip off"
+  },
+  {
+    "question": "بشق الأنفس، بالكاد",
+    "options": ["skin of your teeth", "by chance", "all of a sudden", "at ease"],
+    "answer": "skin of your teeth"
+  }
+
+    
+  ,{
     "question": "التهاب / وجع حلق",
     "options": ["ointment", "sore throat", "courageous", "prescription"],
     "answer": "sore throat"
@@ -110,7 +329,6 @@
     "options": ["During", "Throughout", "willing", "empowering"],
     "answer": "During"
   }
-]
 ,{
         "question": "طبقة",
         "options": [

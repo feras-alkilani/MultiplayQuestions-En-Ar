@@ -3869,16 +3869,7 @@
         ],
         "answer": "ongoing"
     },
-    {
-        "question": "نفقات",
-        "options": [
-            "expenses",
-            "convenience",
-            "surfaced",
-            "iterative"
-        ],
-        "answer": "expenses"
-    },
+   
     {
         "question": "إتقان",
         "options": [

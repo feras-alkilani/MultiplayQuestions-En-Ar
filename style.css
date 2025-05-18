@@ -3,21 +3,25 @@ body {
   text-align: center;
   margin-top: 50px;
 }
+
 .quiz-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
 }
+
 .question-container {
   width: 25%;
   margin: 20px 0;
   box-sizing: border-box;
 }
+
 .question {
   font-size: 20px;
   margin-bottom: 10px;
 }
+
 .answer {
   margin: 10px auto;
   padding: 10px;
@@ -27,23 +31,23 @@ body {
   display: block;
   width: 80%;
 }
+
 .correct {
   background-color: #4caf50;
   color: #fff;
 }
+
 .incorrect {
   background-color: #f44336;
   color: #fff;
 }
+
 #correct-result,
 #wrong-result {
   background-color: antiquewhite;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  margin: 5px auto;
   padding: 5px 0;
   width: 300px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .lang-buttons {
@@ -58,10 +62,9 @@ body {
   height: 250px;
   width: 250px;
   font-size: 50px;
-  margin-top: 50px;
   font-weight: 500;
-
 }
+
 @media (max-width: 768px) {
   .question-container {
     width: 100%;

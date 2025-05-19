@@ -1,5 +1,419 @@
 [
   {
+    "question": " 'assessed'",
+    "options": ["تم التقييم", "تم التجاهل", "تم التخمين", "تم الإلغاء"],
+    "answer": "تم التقييم"
+  },
+  {
+    "question": " 'against the same scale'",
+    "options": ["وفق نفس المقياس", "بمقياس مختلف", "بلا مقياس", "بمقارنة تقريبية"],
+    "answer": "وفق نفس المقياس"
+  },
+  {
+    "question": " 'prioritization'",
+    "options": ["إعطاء الأولوية", "تأجيل المهمة", "رفض المهمة", "تكرار المهمة"],
+    "answer": "إعطاء الأولوية"
+  },
+  {
+    "question": " 'drawings'",
+    "options": ["رسومات", "مخططات بيانات", "صور حقيقية", "مقاطع فيديو"],
+    "answer": "رسومات"
+  },
+  {
+    "question": " 'blend'",
+    "options": ["مزج", "فصل", "تفكيك", "إبعاد"],
+    "answer": "مزج"
+  },
+  {
+    "question": " 'entirely'",
+    "options": ["تماماً", "قليلاً", "نسبياً", "أحياناً"],
+    "answer": "تماماً"
+  },
+  {
+    "question": " 'adjust'",
+    "options": ["تعديل", "حذف", "تشويش", "نقل"],
+    "answer": "تعديل"
+  },
+  {
+    "question": " 'Notation'",
+    "options": ["ترميز", "شرح", "تعليق", "رسم"],
+    "answer": "ترميز"
+  },
+  {
+    "question": " 'cohesive'",
+    "options": ["متماسك", "متفكك", "متردد", "ضعيف"],
+    "answer": "متماسك"
+  },
+  {
+    "question": " 'inventor'",
+    "options": ["مخترع", "مستهلك", "صانع", "مطور"],
+    "answer": "مخترع"
+  },
+  {
+    "question": " 'stance'",
+    "options": ["موقف", "قانون", "موقع", "اقتراح"],
+    "answer": "موقف"
+  },
+  {
+    "question": " 'tenders'",
+    "options": ["مناقصات", "اقتراحات", "تحقيقات", "تقارير"],
+    "answer": "مناقصات"
+  },
+  {
+    "question": " 'proposals'",
+    "options": ["اقتراحات", "ملاحظات", "أوامر", "تنبيهات"],
+    "answer": "اقتراحات"
+  },
+  {
+    "question": " 'Various parties'",
+    "options": ["أطراف متعددة", "أشخاص محددون", "مجموعة واحدة", "هيئة رسمية"],
+    "answer": "أطراف متعددة"
+  },
+  {
+    "question": " 'is agreed upon'",
+    "options": ["تم الاتفاق عليه", "تم تجاهله", "قيد المراجعة", "تم تأجيله"],
+    "answer": "تم الاتفاق عليه"
+  },
+  {
+    "question": " 'inconsistent'",
+    "options": ["غير متسق", "ثابت", "متناسق", "موثوق"],
+    "answer": "غير متسق"
+  },
+  {
+    "question": " 'fatalities'",
+    "options": ["وفيات", "إصابات", "حوادث", "أمراض"],
+    "answer": "وفيات"
+  },
+  {
+    "question": " 'halted'",
+    "options": ["توقفت", "بدأت", "استمرت", "تكررت"],
+    "answer": "توقفت"
+  },
+  {
+    "question": " 'Prescribe'",
+    "options": ["يصف", "ينكر", "ينقل", "يؤجل"],
+    "answer": "يصف"
+  },
+  {
+    "question": " 'applicability'",
+    "options": ["قابلية التطبيق", "الإلزام", "الإلغاء", "الاختلاف"],
+    "answer": "قابلية التطبيق"
+  },
+  {
+    "question": " 'acceleration'",
+    "options": ["تسريع", "تباطؤ", "تأخير", "تثبيت"],
+    "answer": "تسريع"
+  },
+  {
+    "question": " 'Constrain'",
+    "options": ["يقيّد", "يسمح", "ينظم", "ينصح"],
+    "answer": "يقيّد"
+  },
+  {
+    "question": " 'such'",
+    "options": ["مثل", "ضد", "دون", "بعد"],
+    "answer": "مثل"
+  },
+  {
+    "question": " 'accuracy'",
+    "options": ["دقة", "تقدير", "احتمال", "تقريب"],
+    "answer": "دقة"
+  },
+  {
+    "question": " 'precise'",
+    "options": ["دقيق", "عشوائي", "مربك", "مبهم"],
+    "answer": "دقيق"
+  },
+  {
+    "question": " 'elicitation'",
+    "options": ["استنباط", "تخمين", "إخفاء", "تشفير"],
+    "answer": "استنباط"
+  },
+  {
+    "question": " 'elaboration'",
+    "options": ["تفصيل", "اختصار", "مقارنة", "استخدام"],
+    "answer": "تفصيل"
+  },
+  {
+    "question": " 'preliminary draft proposal'",
+    "options": ["مسودة اقتراح أولية", "خطة نهائية", "عرض رسمي", "تقرير كامل"],
+    "answer": "مسودة اقتراح أولية"
+  },
+  {
+    "question": " 'Glossary'",
+    "options": ["مسرد", "رواية", "تقرير", "مذكرة"],
+    "answer": "مسرد"
+  },
+  {
+    "question": " 'symptoms'",
+    "options": ["أعراض", "أسباب", "حلول", "أدوية"],
+    "answer": "أعراض"
+  },
+  {
+    "question": " 'causes'",
+    "options": ["أسباب", "نتائج", "حلول", "توصيات"],
+    "answer": "أسباب"
+  },
+  {
+    "question": " 'satisfying'",
+    "options": ["مرضي", "مزعج", "غير كافٍ", "غامض"],
+    "answer": "مرضي"
+  },
+  {
+    "question": " 'hypothetical'",
+    "options": ["افتراضي", "واقعي", "حتمي", "مؤكد"],
+    "answer": "افتراضي"
+  },
+  {
+    "question": " 'interaction'",
+    "options": ["تفاعل", "انعزال", "صراع", "تكرار"],
+    "answer": "تفاعل"
+  },
+  {
+    "question": " 'assumptions'",
+    "options": ["افتراضات", "حقائق", "أدلة", "نتائج"],
+    "answer": "افتراضات"
+  },
+  {
+    "question": " 'rationale'",
+    "options": ["مبرر", "سبب مجهول", "اعتراض", "معلومة زائدة"],
+    "answer": "مبرر"
+  },
+  {
+    "question": " 'variants'",
+    "options": ["متغيرات", "ثوابت", "عناصر", "نتائج"],
+    "answer": "متغيرات"
+  },
+  {
+    "question": " 'evolutions'",
+    "options": ["تطورات", "تراجعات", "نهايات", "أزمات"],
+    "answer": "تطورات"
+  },
+  {
+    "question": " 'coherent'",
+    "options": ["متماسك", "مبهم", "متفكك", "غير واضح"],
+    "answer": "متماسك"
+  },
+  {
+    "question": " 'adequate'",
+    "options": ["كافٍ", "غير كافٍ", "غير ضروري", "غير متاح"],
+    "answer": "كافٍ"
+  },
+  {
+    "question": " 'comprehensive'",
+    "options": ["شامل", "جزئي", "مبسط", "مجهول"],
+    "answer": "شامل"
+  },
+  {
+    "question": " 'perceived'",
+    "options": ["يُنظر إليه", "مُهمل", "يُنسى", "يُرفض"],
+    "answer": "يُنظر إليه"
+  },
+  {
+    "question": " 'Potential'",
+    "options": ["إمكانات", "مخاطر", "تحديات", "عوائق"],
+    "answer": "إمكانات"
+  },
+  {
+    "question": " 'relatives'",
+    "options": ["أقارب", "زملاء", "عملاء", "غرباء"],
+    "answer": "أقارب"
+  },
+  {
+    "question": " 'Artefact'",
+    "options": ["أداة", "مادة خام", "معلومة", "عملية"],
+    "answer": "أداة"
+  },
+  {
+    "question": " 'Questionnaires'",
+    "options": ["استبيانات", "تقارير", "إحصائيات", "ملاحظات"],
+    "answer": "استبيانات"
+  },
+  {
+    "question": " 'Storyboards'",
+    "options": ["لوحات قصص", "جداول", "رسومات بيانية", "مقالات"],
+    "answer": "لوحات قصص"
+  },
+  {
+    "question": " 'Prototypes'",
+    "options": ["نماذج أولية", "منتجات نهائية", "تصاميم", "أفكار"],
+    "answer": "نماذج أولية"
+  },
+  {
+    "question": " 'mockups'",
+    "options": ["نماذج تجريبية", "خطط مالية", "روايات", "تقييمات"],
+    "answer": "نماذج تجريبية"
+  },
+  {
+    "question": " 'Participative'",
+    "options": ["تشاركي", "فردي", "انعزالي", "مستقل"],
+    "answer": "تشاركي"
+  },
+  {
+    "question": " 'observation'",
+    "options": ["ملاحظة", "مقارنة", "تجريب", "رصد"],
+    "answer": "ملاحظة"
+  },
+  {
+    "question": " 'Weighting'",
+    "options": ["ترجيح", "تثبيت", "إهمال", "موازنة"],
+    "answer": "ترجيح"
+  },
+  {
+    "question": " 'qualitatively'",
+    "options": ["نوعياً", "كمياً", "عددياً", "نظرياً"],
+    "answer": "نوعياً"
+  },
+  {
+    "question": " 'quantitatively'",
+    "options": ["كمياً", "نوعياً", "تقديرياً", "نسبياً"],
+    "answer": "كمياً"
+  },
+  {
+    "question": " 'acquiring'",
+    "options": ["اكتساب", "خسارة", "إهمال", "تجنب"],
+    "answer": "اكتساب"
+  },
+  {
+    "question": " 'narratives'",
+    "options": ["سرديات", "قوانين", "مصطلحات", "نتائج"],
+    "answer": "سرديات"
+  },
+  {
+    "question": " 'snapshots'",
+    "options": ["لقطات", "صور كاملة", "رسومات", "تسجيلات"],
+    "answer": "لقطات"
+  },
+  {
+    "question": " 'sketch'",
+    "options": ["رسم تخطيطي", "رسم نهائي", "خطة", "رمز"],
+    "answer": "رسم تخطيطي"
+  },
+  {
+    "question": " 'annotations'",
+    "options": ["تعليقات", "ملاحظات داخلية", "تفسيرات", "إشارات"],
+    "answer": "تعليقات"
+  },
+  {
+    "question": " 'joint exploration'",
+    "options": ["استكشاف مشترك", "عمل فردي", "تنسيق خارجي", "مراجعة لاحقة"],
+    "answer": "استكشاف مشترك"
+  },
+  {
+    "question": " 'adequacy'",
+    "options": ["الملاءمة", "الرفض", "الضعف", "الغموض"],
+    "answer": "الملاءمة"
+  },
+  {
+    "question": " 'aspects'",
+    "options": ["جوانب", "نتائج", "تحليلات", "عوائق"],
+    "answer": "جوانب"
+  },
+  {
+    "question": " 'tendency'",
+    "options": ["ميل", "انحراف", "تردد", "استقرار"],
+    "answer": "ميل"
+  },
+  {
+    "question": " 'efficiency'",
+    "options": ["كفاءة", "تكرار", "سهولة", "خسارة"],
+    "answer": "كفاءة"
+  },
+  {
+    "question": " 'composed'",
+    "options": ["يتكون من", "يتفاعل مع", "ينتمي إلى", "ينفصل عن"],
+    "answer": "يتكون من"
+  },
+  {
+    "question": " 'characteristic'",
+    "options": ["سمة", "خطأ", "ميزة", "إشكالية"],
+    "answer": "سمة"
+  },
+  {
+    "question": " 'utilization'",
+    "options": ["استخدام", "إهدار", "إلغاء", "نقل"],
+    "answer": "استخدام"
+  },
+  {
+    "question": " 'compensated'",
+    "options": ["تم التعويض", "تم الإلغاء", "تم التجاهل", "تم الإضافة"],
+    "answer": "تم التعويض"
+  },
+  {
+    "question": " 'deemed'",
+    "options": ["يُعتبر", "يُرفض", "يُهمش", "يُنسى"],
+    "answer": "يُعتبر"
+  },
+  {
+    "question": " 'acronym'",
+    "options": ["اختصار", "مصطلح", "جملة", "معادلة"],
+    "answer": "اختصار"
+  },
+  {
+    "question": " 'payback'",
+    "options": ["عائد", "دين", "إقراض", "تقييم"],
+    "answer": "عائد"
+  },
+  {
+    "question": " 'appropriate'",
+    "options": ["مناسب", "عشوائي", "غامض", "مشكوك فيه"],
+    "answer": "مناسب"
+  },
+  {
+    "question": " 'inclusion'",
+    "options": ["إدراج", "حذف", "تقليص", "تكرار"],
+    "answer": "إدراج"
+  },
+  {
+    "question": " 'occasionally'",
+    "options": ["أحياناً", "دائماً", "نادراً", "غالباً"],
+    "answer": "أحياناً"
+  },
+  {
+    "question": " 'substituted'",
+    "options": ["استبدل", "أبقى", "نسخ", "ألغى"],
+    "answer": "استبدل"
+  },
+  {
+    "question": " 'resistance'",
+    "options": ["مقاومة", "تقبل", "تعاون", "موافقة"],
+    "answer": "مقاومة"
+  },
+  {
+    "question": " 'distinction'",
+    "options": ["تمييز", "اختلاط", "تشابه", "دمج"],
+    "answer": "تمييز"
+  },
+  {
+    "question": " 'users affected'",
+    "options": ["المستخدمون المتأثرون", "المستخدمون الجدد", "المصممون", "الفريق التقني"],
+    "answer": "المستخدمون المتأثرون"
+  },
+  {
+    "question": " 'Epic'",
+    "options": ["ملحمة", "مشكلة", "ميزة", "عنصر"],
+    "answer": "ملحمة"
+  },
+  {
+    "question": " 'accomodation'",
+    "options": ["تكيّف", "مخالفة", "تعارض", "رفض"],
+    "answer": "تكيّف"
+  },
+  {
+    "question": " 'perform'",
+    "options": ["ينفّذ", "يطلب", "يتجاهل", "يخطط"],
+    "answer": "ينفّذ"
+  },
+  {
+    "question": " 'apprication'",
+    "options": ["تقدير", "تحذير", "تساؤل", "تجنب"],
+    "answer": "تقدير"
+  },
+  {
+    "question": " 'convenient'",
+    "options": ["مناسب", "صعب", "مرهق", "غير ضروري"],
+    "answer": "مناسب"
+  },{
         "question": "foot the bill",
         "options": ["يتكفل بالدفع", "يرفض الدفع", "يطلب الفاتورة", "يخسر المال"],
         "answer": "يتكفل بالدفع"

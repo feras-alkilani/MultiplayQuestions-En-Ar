@@ -1,4 +1,489 @@
 [{
+    "question": "تم تقييمه",
+    "options": ["assessed", "adjusted", "classified", "modified"],
+    "answer": "assessed"
+  },
+  {
+    "question": "ضد نفس المقياس",
+    "options": ["against the same scale", "in a different style", "below the threshold", "based on random logic"],
+    "answer": "against the same scale"
+  },
+  {
+    "question": "تحديد الأولويات",
+    "options": ["prioritization", "delegation", "distribution", "evaluation"],
+    "answer": "prioritization"
+  },
+  {
+    "question": "رسومات",
+    "options": ["drawings", "stories", "statements", "paragraphs"],
+    "answer": "drawings"
+  },
+  {
+    "question": "يمزج",
+    "options": ["blend", "shift", "slide", "trace"],
+    "answer": "blend"
+  },
+  {
+    "question": "تماماً",
+    "options": ["entirely", "partially", "roughly", "likely"],
+    "answer": "entirely"
+  },
+  {
+    "question": "يعدل",
+    "options": ["adjust", "approve", "attach", "assign"],
+    "answer": "adjust"
+  },
+  {
+    "question": "ترميز",
+    "options": ["Notation", "Caption", "Format", "Legend"],
+    "answer": "Notation"
+  },
+  {
+    "question": "متماسك",
+    "options": ["cohesive", "resistive", "exclusive", "incomplete"],
+    "answer": "cohesive"
+  },
+  {
+    "question": "مخترع",
+    "options": ["inventor", "creator", "engineer", "analyst"],
+    "answer": "inventor"
+  }
+]
+هل ترغب بأن أكمل المزيد من العناصر بنفس النمط؟
+
+
+
+
+
+
+
+You said:
+نعم
+اعطني جميع الكلمات برسالة واحدة
+
+
+ChatGPT said:
+بالطبع! إليك مصفوفة JSON تحتوي على جميع الكلمات التي زودتني بها (باستثناء "nailing" التي كانت في المثال)، وكل عنصر يتبع نفس النمط:
+
+json
+Copy
+Edit
+[
+  {
+    "question": "تم تقييمه",
+    "options": ["assessed", "classified", "analyzed", "examined"],
+    "answer": "assessed"
+  },
+  {
+    "question": "ضد نفس المقياس",
+    "options": ["against the same scale", "within the same level", "beyond the limit", "beneath the range"],
+    "answer": "against the same scale"
+  },
+  {
+    "question": "تحديد الأولويات",
+    "options": ["prioritization", "delegation", "distribution", "planning"],
+    "answer": "prioritization"
+  },
+  {
+    "question": "رسومات",
+    "options": ["drawings", "blueprints", "diagrams", "pictures"],
+    "answer": "drawings"
+  },
+  {
+    "question": "يمزج",
+    "options": ["blend", "split", "trace", "shake"],
+    "answer": "blend"
+  },
+  {
+    "question": "تماماً",
+    "options": ["entirely", "partially", "simply", "briefly"],
+    "answer": "entirely"
+  },
+  {
+    "question": "يعدل",
+    "options": ["adjust", "approve", "adapt", "submit"],
+    "answer": "adjust"
+  },
+  {
+    "question": "ترميز",
+    "options": ["Notation", "Translation", "Coding", "Symbolism"],
+    "answer": "Notation"
+  },
+  {
+    "question": "متماسك",
+    "options": ["cohesive", "chaotic", "fragile", "dispersed"],
+    "answer": "cohesive"
+  },
+  {
+    "question": "مخترع",
+    "options": ["inventor", "founder", "builder", "designer"],
+    "answer": "inventor"
+  },
+  {
+    "question": "موقف",
+    "options": ["stance", "position", "direction", "gesture"],
+    "answer": "stance"
+  },
+  {
+    "question": "مناقصات",
+    "options": ["tenders", "offers", "requests", "bids"],
+    "answer": "tenders"
+  },
+  {
+    "question": "مقترحات",
+    "options": ["proposals", "instructions", "invitations", "ideas"],
+    "answer": "proposals"
+  },
+  {
+    "question": "أطراف مختلفة",
+    "options": ["Various parties", "Several factors", "Multiple sources", "Different people"],
+    "answer": "Various parties"
+  },
+  {
+    "question": "تم الاتفاق عليه",
+    "options": ["is agreed upon", "is enforced", "is declared", "is announced"],
+    "answer": "is agreed upon"
+  },
+  {
+    "question": "غير متناسق",
+    "options": ["inconsistent", "unpredictable", "unreliable", "unstable"],
+    "answer": "inconsistent"
+  },
+  {
+    "question": "وفيات",
+    "options": ["fatalities", "accidents", "losses", "injuries"],
+    "answer": "fatalities"
+  },
+  {
+    "question": "تم توقيفه",
+    "options": ["halted", "delayed", "canceled", "skipped"],
+    "answer": "halted"
+  },
+  {
+    "question": "يوصف",
+    "options": ["Prescribe", "Describe", "Write", "Specify"],
+    "answer": "Prescribe"
+  },
+  {
+    "question": "قابلية التطبيق",
+    "options": ["applicability", "feasibility", "validity", "capability"],
+    "answer": "applicability"
+  },
+  {
+    "question": "تسريع",
+    "options": ["acceleration", "improvement", "movement", "amplification"],
+    "answer": "acceleration"
+  },
+  {
+    "question": "يُقيِّد",
+    "options": ["Constrain", "Combine", "Control", "Compress"],
+    "answer": "Constrain"
+  },
+  {
+    "question": "مثل",
+    "options": ["such", "like", "same", "so"],
+    "answer": "such"
+  },
+  {
+    "question": "دقة",
+    "options": ["accuracy", "clarity", "specificity", "exactness"],
+    "answer": "accuracy"
+  },
+  {
+    "question": "دقيق",
+    "options": ["precise", "concise", "detailed", "narrow"],
+    "answer": "precise"
+  },
+  {
+    "question": "استخلاص",
+    "options": ["elicitation", "extraction", "collection", "identification"],
+    "answer": "elicitation"
+  },
+  {
+    "question": "تفصيل",
+    "options": ["elaboration", "development", "extension", "illustration"],
+    "answer": "elaboration"
+  },
+  {
+    "question": "اقتراح مبدئي",
+    "options": ["preliminary draft proposal", "initial plan", "first idea", "conceptual design"],
+    "answer": "preliminary draft proposal"
+  },
+  {
+    "question": "مسرد",
+    "options": ["Glossary", "Index", "Reference", "Notes"],
+    "answer": "Glossary"
+  },
+  {
+    "question": "أعراض",
+    "options": ["symptoms", "signs", "signals", "effects"],
+    "answer": "symptoms"
+  },
+  {
+    "question": "أسباب",
+    "options": ["causes", "reasons", "triggers", "sources"],
+    "answer": "causes"
+  },
+  {
+    "question": "مرضي",
+    "options": ["satisfying", "pleasing", "acceptable", "comforting"],
+    "answer": "satisfying"
+  },
+  {
+    "question": "افتراضي",
+    "options": ["hypothetical", "fictional", "imaginary", "possible"],
+    "answer": "hypothetical"
+  },
+  {
+    "question": "تفاعل",
+    "options": ["interaction", "reaction", "relation", "engagement"],
+    "answer": "interaction"
+  },
+  {
+    "question": "افتراضات",
+    "options": ["assumptions", "guesses", "expectations", "ideas"],
+    "answer": "assumptions"
+  },
+  {
+    "question": "مبرر",
+    "options": ["rationale", "explanation", "reasoning", "logic"],
+    "answer": "rationale"
+  },
+  {
+    "question": "نماذج بديلة",
+    "options": ["variants", "types", "versions", "models"],
+    "answer": "variants"
+  },
+  {
+    "question": "تطورات",
+    "options": ["evolutions", "changes", "developments", "modifications"],
+    "answer": "evolutions"
+  },
+  {
+    "question": "متماسك",
+    "options": ["coherent", "logical", "clear", "organized"],
+    "answer": "coherent"
+  },
+  {
+    "question": "كافٍ",
+    "options": ["adequate", "sufficient", "fair", "reasonable"],
+    "answer": "adequate"
+  },
+  {
+    "question": "شامل",
+    "options": ["comprehensive", "complete", "total", "broad"],
+    "answer": "comprehensive"
+  },
+  {
+    "question": "مدرَك",
+    "options": ["perceived", "known", "noticed", "observed"],
+    "answer": "perceived"
+  },
+  {
+    "question": "محتمل",
+    "options": ["Potential", "Expected", "Possible", "Upcoming"],
+    "answer": "Potential"
+  },
+  {
+    "question": "أقارب",
+    "options": ["relatives", "friends", "members", "neighbors"],
+    "answer": "relatives"
+  },
+  {
+    "question": "نتاج مادي",
+    "options": ["Artefact", "Product", "Creation", "Tool"],
+    "answer": "Artefact"
+  },
+  {
+    "question": "استبيانات",
+    "options": ["Questionnaires", "Forms", "Surveys", "Checklists"],
+    "answer": "Questionnaires"
+  },
+  {
+    "question": "لوحات قصصية",
+    "options": ["Storyboards", "Sketches", "Drafts", "Panels"],
+    "answer": "Storyboards"
+  },
+  {
+    "question": "نماذج أولية",
+    "options": ["Prototypes", "Samples", "Models", "Mocks"],
+    "answer": "Prototypes"
+  },
+  {
+    "question": "نماذج وهمية",
+    "options": ["mockups", "layouts", "prototypes", "sketches"],
+    "answer": "mockups"
+  },
+  {
+    "question": "تشاركي",
+    "options": ["Participative", "Collaborative", "Interactive", "Engaging"],
+    "answer": "Participative"
+  },
+  {
+    "question": "ملاحظة",
+    "options": ["observation", "monitoring", "tracking", "watching"],
+    "answer": "observation"
+  },
+  {
+    "question": "توزين",
+    "options": ["Weighting", "Balancing", "Measuring", "Scaling"],
+    "answer": "Weighting"
+  },
+  {
+    "question": "نوعيًّا",
+    "options": ["qualitatively", "quantitatively", "theoretically", "logically"],
+    "answer": "qualitatively"
+  },
+  {
+    "question": "كميًّا",
+    "options": ["quantitatively", "numerically", "statistically", "countably"],
+    "answer": "quantitatively"
+  },
+  {
+    "question": "اكتساب",
+    "options": ["acquiring", "gaining", "obtaining", "receiving"],
+    "answer": "acquiring"
+  },
+  {
+    "question": "سرديات",
+    "options": ["narratives", "stories", "tales", "reports"],
+    "answer": "narratives"
+  },
+  {
+    "question": "لقطات",
+    "options": ["snapshots", "photos", "scenes", "clips"],
+    "answer": "snapshots"
+  },
+  {
+    "question": "رسم تخطيطي",
+    "options": ["sketch", "outline", "drawing", "diagram"],
+    "answer": "sketch"
+  },
+  {
+    "question": "تعليقات توضيحية",
+    "options": ["annotations", "notes", "comments", "labels"],
+    "answer": "annotations"
+  },
+  {
+    "question": "استكشاف مشترك",
+    "options": ["joint exploration", "collaborative search", "group study", "mutual inquiry"],
+    "answer": "joint exploration"
+  },
+  {
+    "question": "كفاية",
+    "options": ["adequacy", "sufficiency", "capacity", "efficiency"],
+    "answer": "adequacy"
+  },
+  {
+    "question": "جوانب",
+    "options": ["aspects", "elements", "points", "parts"],
+    "answer": "aspects"
+  },
+  {
+    "question": "ميل",
+    "options": ["tendency", "inclination", "habit", "trend"],
+    "answer": "tendency"
+  },
+  {
+    "question": "كفاءة",
+    "options": ["efficiency", "productivity", "performance", "accuracy"],
+    "answer": "efficiency"
+  },
+  {
+    "question": "مكوَّن",
+    "options": ["composed", "combined", "compiled", "structured"],
+    "answer": "composed"
+  },
+  {
+    "question": "خاصية",
+    "options": ["characteristic", "feature", "trait", "aspect"],
+    "answer": "characteristic"
+  },
+  {
+    "question": "استخدام",
+    "options": ["utilization", "application", "consumption", "execution"],
+    "answer": "utilization"
+  },
+  {
+    "question": "تعويض",
+    "options": ["compensated", "reimbursed", "paid", "adjusted"],
+    "answer": "compensated"
+  },
+  {
+    "question": "يُعتَبَر",
+    "options": ["deemed", "considered", "judged", "thought"],
+    "answer": "deemed"
+  },
+  {
+    "question": "اختصار",
+    "options": ["acronym", "abbreviation", "symbol", "initialism"],
+    "answer": "acronym"
+  },
+  {
+    "question": "عائد الاستثمار",
+    "options": ["payback", "return", "profit", "benefit"],
+    "answer": "payback"
+  },
+  {
+    "question": "مناسب",
+    "options": ["appropriate", "suitable", "relevant", "correct"],
+    "answer": "appropriate"
+  },
+  {
+    "question": "إدراج",
+    "options": ["inclusion", "insertion", "addition", "placement"],
+    "answer": "inclusion"
+  },
+  {
+    "question": "أحياناً",
+    "options": ["occasionally", "rarely", "frequently", "barely"],
+    "answer": "occasionally"
+  },
+  {
+    "question": "استبدل",
+    "options": ["substituted", "replaced", "swapped", "changed"],
+    "answer": "substituted"
+  },
+  {
+    "question": "مقاومة",
+    "options": ["resistance", "opposition", "rejection", "refusal"],
+    "answer": "resistance"
+  },
+  {
+    "question": "تمييز",
+    "options": ["distinction", "difference", "contrast", "variation"],
+    "answer": "distinction"
+  },
+  {
+    "question": "المستخدمون المتأثرون",
+    "options": ["users affected", "impacted users", "target users", "end users"],
+    "answer": "users affected"
+  },
+  {
+    "question": "قصة كبيرة",
+    "options": ["Epic", "Saga", "Storyline", "Adventure"],
+    "answer": "Epic"
+  },
+  {
+    "question": "تكيّف",
+    "options": ["accomodation", "adjustment", "modification", "adoption"],
+    "answer": "accomodation"
+  },
+  {
+    "question": "أداء",
+    "options": ["perform", "execute", "function", "deliver"],
+    "answer": "perform"
+  },
+  {
+    "question": "تقدير",
+    "options": ["apprication", "recognition", "evaluation", "gratitude"],
+    "answer": "apprication"
+  },
+  {
+    "question": "مناسب",
+    "options": ["convenient", "available", "quick", "correct"],
+    "answer": "convenient"
+  },{
     "question": "ينهار (عاطفيًا أو ميكانيكيًا)",
     "options": ["break down", "fall apart", "crack up", "slow down"],
     "answer": "break down"

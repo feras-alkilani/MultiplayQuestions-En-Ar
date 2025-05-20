@@ -1,5 +1,89 @@
 [
+    {
+    "question": "مناقصة",
+    "options": ["tender", "lend", "offer", "charge"],
+    "answer": "tender"
+  },
   {
+    "question": "قيود",
+    "options": ["freedom", "constraints", "tools", "strategies"],
+    "answer": "constraints"
+  },
+  {
+    "question": "مقترَح",
+    "options": ["proposed", "provided", "offered", "confirmed"],
+    "answer": "proposed"
+  },
+  {
+    "question": "تشغيلي",
+    "options": ["logical", "functional", "operational", "occasional"],
+    "answer": "operational"
+  },
+  {
+    "question": "مجاني",
+    "options": ["free of charge", "expensive", "limited", "taxed"],
+    "answer": "free of charge"
+  },
+  {
+    "question": "مواقف أو توجهات",
+    "options": ["positions", "attitudes", "decisions", "beliefs"],
+    "answer": "attitudes"
+  },
+  {
+    "question": "إدراك",
+    "options": ["observation", "reaction", "perception", "interaction"],
+    "answer": "perception"
+  },
+  {
+    "question": "منخرط / مشترك",
+    "options": ["engaged", "passive", "separated", "aware"],
+    "answer": "engaged"
+  },
+  {
+    "question": "متسامح",
+    "options": ["forgiving", "demanding", "strict", "judging"],
+    "answer": "forgiving"
+  },
+  {
+    "question": "صادق / حقيقي",
+    "options": ["genuine", "fake", "smart", "polite"],
+    "answer": "genuine"
+  },
+  {
+    "question": "مستعد / راغب",
+    "options": ["willing", "hesitant", "lazy", "refusing"],
+    "answer": "willing"
+  },
+  {
+    "question": "تبرز / تتميز",
+    "options": ["vanish", "stand out", "join in", "pass through"],
+    "answer": "stand out"
+  },
+  {
+    "question": "يظهر كـ / يُفهم على أنه",
+    "options": ["look away", "come across as", "stay behind", "pull back"],
+    "answer": "come across as"
+  },
+  {
+    "question": "بعيدًا عن الأنظار",
+    "options": ["out of place", "out of sight", "on the edge", "under control"],
+    "answer": "out of sight"
+  },
+  {
+    "question": "صغير لكن ذو معنى",
+    "options": ["big and useless", "small but meaningful", "tiny and boring", "long and empty"],
+    "answer": "small but meaningful"
+  },
+  {
+    "question": "يتعلم الأساسيات",
+    "options": ["forgetting the rules", "learning the ropes", "breaking the norms", "teaching the leaders"],
+    "answer": "learning the ropes"
+  },
+  {
+    "question": "كل لحظة لها قيمة",
+    "options": ["every moment counts", "sometimes it matters", "none of it matters", "time is useless"],
+    "answer": "every moment counts"
+  },{
     "question": "تم تقييمه",
     "options": ["assessed", "classified", "analyzed", "examined"],
     "answer": "assessed"

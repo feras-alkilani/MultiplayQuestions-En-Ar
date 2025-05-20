@@ -1,849 +1,1680 @@
 [
     {
-    "question": "مناقصة",
-    "options": ["tender", "lend", "offer", "charge"],
-    "answer": "tender"
-  },
-  {
-    "question": "قيود",
-    "options": ["freedom", "constraints", "tools", "strategies"],
-    "answer": "constraints"
-  },
-  {
-    "question": "مقترَح",
-    "options": ["proposed", "provided", "offered", "confirmed"],
-    "answer": "proposed"
-  },
-  {
-    "question": "تشغيلي",
-    "options": ["logical", "functional", "operational", "occasional"],
-    "answer": "operational"
-  },
-  {
-    "question": "مجاني",
-    "options": ["free of charge", "expensive", "limited", "taxed"],
-    "answer": "free of charge"
-  },
-  {
-    "question": "مواقف أو توجهات",
-    "options": ["positions", "attitudes", "decisions", "beliefs"],
-    "answer": "attitudes"
-  },
-  {
-    "question": "إدراك",
-    "options": ["observation", "reaction", "perception", "interaction"],
-    "answer": "perception"
-  },
-  {
-    "question": "منخرط / مشترك",
-    "options": ["engaged", "passive", "separated", "aware"],
-    "answer": "engaged"
-  },
-  {
-    "question": "متسامح",
-    "options": ["forgiving", "demanding", "strict", "judging"],
-    "answer": "forgiving"
-  },
-  {
-    "question": "صادق / حقيقي",
-    "options": ["genuine", "fake", "smart", "polite"],
-    "answer": "genuine"
-  },
-  {
-    "question": "مستعد / راغب",
-    "options": ["willing", "hesitant", "lazy", "refusing"],
-    "answer": "willing"
-  },
-  {
-    "question": "تبرز / تتميز",
-    "options": ["vanish", "stand out", "join in", "pass through"],
-    "answer": "stand out"
-  },
-  {
-    "question": "يظهر كـ / يُفهم على أنه",
-    "options": ["look away", "come across as", "stay behind", "pull back"],
-    "answer": "come across as"
-  },
-  {
-    "question": "بعيدًا عن الأنظار",
-    "options": ["out of place", "out of sight", "on the edge", "under control"],
-    "answer": "out of sight"
-  },
-  {
-    "question": "صغير لكن ذو معنى",
-    "options": ["big and useless", "small but meaningful", "tiny and boring", "long and empty"],
-    "answer": "small but meaningful"
-  },
-  {
-    "question": "يتعلم الأساسيات",
-    "options": ["forgetting the rules", "learning the ropes", "breaking the norms", "teaching the leaders"],
-    "answer": "learning the ropes"
-  },
-  {
-    "question": "كل لحظة لها قيمة",
-    "options": ["every moment counts", "sometimes it matters", "none of it matters", "time is useless"],
-    "answer": "every moment counts"
-  },{
-    "question": "تم تقييمه",
-    "options": ["assessed", "classified", "analyzed", "examined"],
-    "answer": "assessed"
-  },
-  {
-    "question": "ضد نفس المقياس",
-    "options": ["against the same scale", "within the same level", "beyond the limit", "beneath the range"],
-    "answer": "against the same scale"
-  },
-  {
-    "question": "تحديد الأولويات",
-    "options": ["prioritization", "delegation", "distribution", "planning"],
-    "answer": "prioritization"
-  },
-  {
-    "question": "رسومات",
-    "options": ["drawings", "blueprints", "diagrams", "pictures"],
-    "answer": "drawings"
-  },
-  {
-    "question": "يمزج",
-    "options": ["blend", "split", "trace", "shake"],
-    "answer": "blend"
-  },
-  {
-    "question": "تماماً",
-    "options": ["entirely", "partially", "simply", "briefly"],
-    "answer": "entirely"
-  },
-  {
-    "question": "يعدل",
-    "options": ["adjust", "approve", "adapt", "submit"],
-    "answer": "adjust"
-  },
-  {
-    "question": "ترميز",
-    "options": ["Notation", "Translation", "Coding", "Symbolism"],
-    "answer": "Notation"
-  },
-  {
-    "question": "متماسك",
-    "options": ["cohesive", "chaotic", "fragile", "dispersed"],
-    "answer": "cohesive"
-  },
-  {
-    "question": "مخترع",
-    "options": ["inventor", "founder", "builder", "designer"],
-    "answer": "inventor"
-  },
-  {
-    "question": "موقف",
-    "options": ["stance", "position", "direction", "gesture"],
-    "answer": "stance"
-  },
-  {
-    "question": "مناقصات",
-    "options": ["tenders", "offers", "requests", "bids"],
-    "answer": "tenders"
-  },
-  {
-    "question": "مقترحات",
-    "options": ["proposals", "instructions", "invitations", "ideas"],
-    "answer": "proposals"
-  },
-  {
-    "question": "أطراف مختلفة",
-    "options": ["Various parties", "Several factors", "Multiple sources", "Different people"],
-    "answer": "Various parties"
-  },
-  {
-    "question": "تم الاتفاق عليه",
-    "options": ["is agreed upon", "is enforced", "is declared", "is announced"],
-    "answer": "is agreed upon"
-  },
-  {
-    "question": "غير متناسق",
-    "options": ["inconsistent", "unpredictable", "unreliable", "unstable"],
-    "answer": "inconsistent"
-  },
-  {
-    "question": "وفيات",
-    "options": ["fatalities", "accidents", "losses", "injuries"],
-    "answer": "fatalities"
-  },
-  {
-    "question": "تم توقيفه",
-    "options": ["halted", "delayed", "canceled", "skipped"],
-    "answer": "halted"
-  },
-  {
-    "question": "يوصف",
-    "options": ["Prescribe", "Describe", "Write", "Specify"],
-    "answer": "Prescribe"
-  },
-  {
-    "question": "قابلية التطبيق",
-    "options": ["applicability", "feasibility", "validity", "capability"],
-    "answer": "applicability"
-  },
-  {
-    "question": "تسريع",
-    "options": ["acceleration", "improvement", "movement", "amplification"],
-    "answer": "acceleration"
-  },
-  {
-    "question": "يُقيِّد",
-    "options": ["Constrain", "Combine", "Control", "Compress"],
-    "answer": "Constrain"
-  },
-  {
-    "question": "مثل",
-    "options": ["such", "like", "same", "so"],
-    "answer": "such"
-  },
-  {
-    "question": "دقة",
-    "options": ["accuracy", "clarity", "specificity", "exactness"],
-    "answer": "accuracy"
-  },
-  {
-    "question": "دقيق",
-    "options": ["precise", "concise", "detailed", "narrow"],
-    "answer": "precise"
-  },
-  {
-    "question": "استخلاص",
-    "options": ["elicitation", "extraction", "collection", "identification"],
-    "answer": "elicitation"
-  },
-  {
-    "question": "تفصيل",
-    "options": ["elaboration", "development", "extension", "illustration"],
-    "answer": "elaboration"
-  },
-  {
-    "question": "اقتراح مبدئي",
-    "options": ["preliminary draft proposal", "initial plan", "first idea", "conceptual design"],
-    "answer": "preliminary draft proposal"
-  },
-  {
-    "question": "قاموس المصطلحات",
-    "options": ["Glossary", "Index", "Reference", "Notes"],
-    "answer": "Glossary"
-  },
-  {
-    "question": "أعراض",
-    "options": ["symptoms", "signs", "signals", "effects"],
-    "answer": "symptoms"
-  },
-  {
-    "question": "أسباب",
-    "options": ["causes", "reasons", "triggers", "sources"],
-    "answer": "causes"
-  },
-  {
-    "question": "مرضي",
-    "options": ["satisfying", "pleasing", "acceptable", "comforting"],
-    "answer": "satisfying"
-  },
-  {
-    "question": "افتراضي",
-    "options": ["hypothetical", "fictional", "imaginary", "possible"],
-    "answer": "hypothetical"
-  },
-  {
-    "question": "تفاعل",
-    "options": ["interaction", "reaction", "relation", "engagement"],
-    "answer": "interaction"
-  },
-  {
-    "question": "افتراضات",
-    "options": ["assumptions", "guesses", "expectations", "ideas"],
-    "answer": "assumptions"
-  },
-  {
-    "question": "مبرر",
-    "options": ["rationale", "explanation", "reasoning", "logic"],
-    "answer": "rationale"
-  },
-  {
-    "question": "نماذج بديلة",
-    "options": ["variants", "types", "versions", "models"],
-    "answer": "variants"
-  },
-  {
-    "question": "تطورات",
-    "options": ["evolutions", "changes", "developments", "modifications"],
-    "answer": "evolutions"
-  },
-  {
-    "question": "متماسك",
-    "options": ["coherent", "logical", "clear", "organized"],
-    "answer": "coherent"
-  },
-  {
-    "question": "كافٍ",
-    "options": ["adequate", "sufficient", "fair", "reasonable"],
-    "answer": "adequate"
-  },
-  {
-    "question": "شامل",
-    "options": ["comprehensive", "complete", "total", "broad"],
-    "answer": "comprehensive"
-  },
-  {
-    "question": "مدرَك",
-    "options": ["perceived", "known", "noticed", "observed"],
-    "answer": "perceived"
-  },
-  {
-    "question": "محتمل",
-    "options": ["Potential", "Expected", "Possible", "Upcoming"],
-    "answer": "Potential"
-  },
-  {
-    "question": "أقارب",
-    "options": ["relatives", "friends", "members", "neighbors"],
-    "answer": "relatives"
-  },
-  {
-    "question": "نتاج مادي",
-    "options": ["Artefact", "Product", "Creation", "Tool"],
-    "answer": "Artefact"
-  },
-  {
-    "question": "استبيانات",
-    "options": ["Questionnaires", "Forms", "Surveys", "Checklists"],
-    "answer": "Questionnaires"
-  },
-  {
-    "question": "لوحات قصصية",
-    "options": ["Storyboards", "Sketches", "Drafts", "Panels"],
-    "answer": "Storyboards"
-  },
-  {
-    "question": "نماذج أولية",
-    "options": ["Prototypes", "Samples", "Models", "Mocks"],
-    "answer": "Prototypes"
-  },
-  {
-    "question": "نماذج وهمية",
-    "options": ["mockups", "layouts", "prototypes", "sketches"],
-    "answer": "mockups"
-  },
-  {
-    "question": "تشاركي",
-    "options": ["Participative", "Collaborative", "Interactive", "Engaging"],
-    "answer": "Participative"
-  },
-  {
-    "question": "ملاحظة",
-    "options": ["observation", "monitoring", "tracking", "watching"],
-    "answer": "observation"
-  },
-  {
-    "question": "توزين",
-    "options": ["Weighting", "Balancing", "Measuring", "Scaling"],
-    "answer": "Weighting"
-  },
-  {
-    "question": "نوعيًّا",
-    "options": ["qualitatively", "quantitatively", "theoretically", "logically"],
-    "answer": "qualitatively"
-  },
-  {
-    "question": "كميًّا",
-    "options": ["quantitatively", "numerically", "statistically", "countably"],
-    "answer": "quantitatively"
-  },
-  {
-    "question": "اكتساب",
-    "options": ["acquiring", "gaining", "obtaining", "receiving"],
-    "answer": "acquiring"
-  },
-  {
-    "question": "سرديات",
-    "options": ["narratives", "stories", "tales", "reports"],
-    "answer": "narratives"
-  },
-  {
-    "question": "لقطات",
-    "options": ["snapshots", "photos", "scenes", "clips"],
-    "answer": "snapshots"
-  },
-  {
-    "question": "رسم تخطيطي",
-    "options": ["sketch", "outline", "drawing", "diagram"],
-    "answer": "sketch"
-  },
-  {
-    "question": "تعليقات توضيحية",
-    "options": ["annotations", "notes", "comments", "labels"],
-    "answer": "annotations"
-  },
-  {
-    "question": "استكشاف مشترك",
-    "options": ["joint exploration", "collaborative search", "group study", "mutual inquiry"],
-    "answer": "joint exploration"
-  },
-  {
-    "question": "كفاية",
-    "options": ["adequacy", "sufficiency", "capacity", "efficiency"],
-    "answer": "adequacy"
-  },
-  {
-    "question": "جوانب",
-    "options": ["aspects", "elements", "points", "parts"],
-    "answer": "aspects"
-  },
-  {
-    "question": "ميل",
-    "options": ["tendency", "inclination", "habit", "trend"],
-    "answer": "tendency"
-  },
-  {
-    "question": "كفاءة",
-    "options": ["efficiency", "productivity", "performance", "accuracy"],
-    "answer": "efficiency"
-  },
-  {
-    "question": "مكوَّن",
-    "options": ["composed", "combined", "compiled", "structured"],
-    "answer": "composed"
-  },
-  {
-    "question": "خاصية",
-    "options": ["characteristic", "feature", "trait", "aspect"],
-    "answer": "characteristic"
-  },
-  {
-    "question": "استخدام",
-    "options": ["utilization", "application", "consumption", "execution"],
-    "answer": "utilization"
-  },
-  {
-    "question": "تعويض",
-    "options": ["compensated", "reimbursed", "paid", "adjusted"],
-    "answer": "compensated"
-  },
-  {
-    "question": "يُعتَبَر",
-    "options": ["deemed", "considered", "judged", "thought"],
-    "answer": "deemed"
-  },
-  {
-    "question": "اختصار",
-    "options": ["acronym", "abbreviation", "symbol", "initialism"],
-    "answer": "acronym"
-  },
-  {
-    "question": "عائد الاستثمار",
-    "options": ["payback", "return", "profit", "benefit"],
-    "answer": "payback"
-  },
-  {
-    "question": "مناسب",
-    "options": ["appropriate", "suitable", "relevant", "correct"],
-    "answer": "appropriate"
-  },
-  {
-    "question": "إدراج",
-    "options": ["inclusion", "insertion", "addition", "placement"],
-    "answer": "inclusion"
-  },
-  {
-    "question": "أحياناً",
-    "options": ["occasionally", "rarely", "frequently", "barely"],
-    "answer": "occasionally"
-  },
-  {
-    "question": "استبدل",
-    "options": ["substituted", "replaced", "swapped", "changed"],
-    "answer": "substituted"
-  },
-  {
-    "question": "مقاومة",
-    "options": ["resistance", "opposition", "rejection", "refusal"],
-    "answer": "resistance"
-  },
-  {
-    "question": "تمييز",
-    "options": ["distinction", "difference", "contrast", "variation"],
-    "answer": "distinction"
-  },
-  {
-    "question": "المستخدمون المتأثرون",
-    "options": ["users affected", "impacted users", "target users", "end users"],
-    "answer": "users affected"
-  },
-  {
-    "question": "قصة كبيرة",
-    "options": ["Epic", "Saga", "Storyline", "Adventure"],
-    "answer": "Epic"
-  },
-  {
-    "question": "تكيّف",
-    "options": ["accomodation", "adjustment", "modification", "adoption"],
-    "answer": "accomodation"
-  },
-  {
-    "question": "أداء",
-    "options": ["perform", "execute", "function", "deliver"],
-    "answer": "perform"
-  },
-  {
-    "question": "تقدير",
-    "options": ["apprication", "recognition", "evaluation", "gratitude"],
-    "answer": "apprication"
-  },
-  {
-    "question": "مناسب",
-    "options": ["convenient", "available", "quick", "correct"],
-    "answer": "convenient"
-  },{
-    "question": "ينهار (عاطفيًا أو ميكانيكيًا)",
-    "options": ["break down", "fall apart", "crack up", "slow down"],
-    "answer": "break down"
-  },
-  {
-    "question": "يلغي",
-    "options": ["call off", "cancel out", "put off", "shut down"],
-    "answer": "call off"
-  },
-  {
-    "question": "يواصل، يستمر",
-    "options": ["carry on", "go by", "keep out", "stay back"],
-    "answer": "carry on"
-  },
-  {
-    "question": "يقلل من (الإنفاق أو الاستخدام)",
-    "options": ["cut back", "turn down", "scale up", "push off"],
-    "answer": "cut back"
-  },
-  {
-    "question": "يزور فجأة/دون موعد",
-    "options": ["drop by", "stop over", "pass on", "show off"],
-    "answer": "drop by"
-  },
-  {
-    "question": "يفشل (مخطط أو صفقة)",
-    "options": ["fall through", "break off", "pass away", "shut off"],
-    "answer": "fall through"
-  },
-  {
-    "question": "يوصل فكرة أو رسالة بوضوح",
-    "options": ["get across", "speak up", "hand in", "bring out"],
-    "answer": "get across"
-  },
-  {
-    "question": "يستسلم، يرضخ",
-    "options": ["give in", "give up", "hand out", "turn over"],
-    "answer": "give in"
-  },
-  {
-    "question": "يراجع أو يفحص بعناية",
-    "options": ["go over", "look after", "read up", "check off"],
-    "answer": "go over"
-  },
-  {
-    "question": "ينتظر أو يتمسك",
-    "options": ["hold on", "stick to", "wait out", "cling in"],
-    "answer": "hold on"
-  },
-  {
-    "question": "يواكب، يحافظ على نفس المستوى",
-    "options": ["keep up", "stay in", "keep off", "go out"],
-    "answer": "keep up"
-  },
-  {
-    "question": "يبحث في (موضوع أو قضية)",
-    "options": ["look into", "check over", "scan through", "peer at"],
-    "answer": "look into"
-  },
-  {
-    "question": "يختلق (عذرًا، قصة، سلامًا)",
-    "options": ["make up", "come out", "think through", "set off"],
-    "answer": "make up"
-  },
-  {
-    "question": "يفقد الوعي",
-    "options": ["pass out", "black out", "fade away", "knock off"],
-    "answer": "pass out"
-  },
-  {
-    "question": "يضايق، يتنمر على",
-    "options": ["pick on", "laugh at", "take down", "nag at"],
-    "answer": "pick on"
-  },
-  {
-    "question": "يؤجل",
-    "options": ["put off", "hold up", "shut down", "drag on"],
-    "answer": "put off"
-  },
-  {
-    "question": "ينفد من",
-    "options": ["run out of", "lose out on", "drain through", "give off"],
-    "answer": "run out of"
-  },
-  {
-    "question": "يؤسس أو يجهز شيئًا",
-    "options": ["set up", "fix in", "get over", "start off"],
-    "answer": "set up"
-  },
-  {
-    "question": "يستولي على، يتولى السيطرة",
-    "options": ["take over", "bring down", "step up", "push in"],
-    "answer": "take over"
-  },
-  {
-    "question": "طلب او دعوة) يرفض)",
-    "options": ["turn down", "shut out", "pass up", "drop off"],
-    "answer": "turn down"
-  },{
-    "question": "كامل، نافع، صحي",
-    "options": ["wholesome", "hostile", "grim", "sickly"],
-    "answer": "wholesome"
-  },
-  {
-    "question": "ناقل، حمّال، وسيلة نقل",
-    "options": ["carrier", "courier", "truck", "loader"],
-    "answer": "carrier"
-  },
-  {
-    "question": "صيغة المقارنة",
-    "options": ["comparative of", "superlative", "equative", "positive form"],
-    "answer": "comparative of"
-  },
-  {
-    "question": "يطرح، يضع سؤالًا أو مشكلة",
-    "options": ["to pose", "to lift", "to share", "to risk"],
-    "answer": "to pose"
-  },
-  {
-    "question": "شرفة",
-    "options": ["balcony", "roof", "attic", "ledge"],
-    "answer": "balcony"
-  },
-  {
-    "question": "ترتيب، تنظيف",
-    "options": ["tidying up", "messing up", "sorting out", "sweeping out"],
-    "answer": "tidying up"
-  },
-  {
-    "question": "ضعيف، متضرر",
-    "options": ["impaired", "healthy", "alert", "improved"],
-    "answer": "impaired"
-  },
-  {
-    "question": "مُعدّ، مقصود",
-    "options": ["intended", "random", "improvised", "mistaken"],
-    "answer": "intended"
-  },
-  {
-    "question": "أعمال شغب",
-    "options": ["riots", "protests", "marches", "votes"],
-    "answer": "riots"
-  },
-  {
-    "question": "يحرّض، يشجع على فعل شيء سلبي",
-    "options": ["egg on", "cheer up", "bring up", "walk off"],
-    "answer": "egg on"
-  },
-  {
-    "question": "يدفع الفاتورة",
-    "options": ["foot the bill", "sign the check", "pay off", "cash in"],
-    "answer": "foot the bill"
-  },
-  {
-    "question": "يشي بـ، يبلّغ عن",
-    "options": ["rat on", "snitch in", "lie about", "spy over"],
-    "answer": "rat on"
-  },
-  {
-    "question": "يسلم (وظيفة، واجب...)",
-    "options": ["hand in", "give out", "put out", "send up"],
-    "answer": "hand in"
-  },
-  {
-    "question": "يواجه (شيء صعب)",
-    "options": ["face up to", "turn into", "run away from", "go around"],
-    "answer": "face up to"
-  },
-  {
-    "question": "يفتش، يفتّش بدافع الفضول",
-    "options": ["nose around", "snoop out", "dig under", "peek through"],
-    "answer": "nose around"
-  },
-  {
-    "question": "يمنع، يوقف شيء قبل حدوثه",
-    "options": ["head off", "put down", "walk off", "drive by"],
-    "answer": "head off"
-  },
-  {
-    "question": "يتحمل اللوم",
-    "options": ["shoulder the blame", "take pride", "point fingers", "deny everything"],
-    "answer": "shoulder the blame"
-  },
-  {
-    "question": "يلتزم بالقواعد",
-    "options": ["toe the line", "break the rule", "step aside", "bend the law"],
-    "answer": "toe the line"
-  },
-  {
-    "question": "يتحدث بوقاحة",
-    "options": ["mouth off", "speak up", "talk down", "whisper away"],
-    "answer": "mouth off"
-  },
-  {
-    "question": "يحدق بشخص/شيء بإعجاب أو رغبة",
-    "options": ["eye up", "look out", "stare down", "gaze off"],
-    "answer": "eye up"
-  },
-  {
-    "question": "يُصغي، يستمع بتعاطف",
-    "options": ["lend an ear", "pay attention", "hear back", "lean in"],
-    "answer": "lend an ear"
-  },
-  {
-    "question": "يتراجع عن موقف",
-    "options": ["back down", "turn back", "give up", "pull away"],
-    "answer": "back down"
-  },
-  {
-    "question": "يتكلم بوقاحة (عامية)",
-    "options": ["lip off", "talk back", "argue up", "sass off"],
-    "answer": "lip off"
-  },
-  {
-    "question": "بشق الأنفس، بالكاد",
-    "options": ["by the skin of ( my,his,her,its,our, your,thier ) teeth", "by chance", "all of a sudden", "at ease"],
-    "answer": "skin of your teeth"
-  }
-
-    
-  ,{
-    "question": "التهاب / وجع حلق",
-    "options": ["ointment", "sore throat", "courageous", "prescription"],
-    "answer": "sore throat"
-  },
-  {
-    "question": "عضلات مؤلمة",
-    "options": ["sore muscles", "sovereign", "engagement", "deserve"],
-    "answer": "sore muscles"
-  },
-  {
-    "question": "جرح مفتوح",
-    "options": ["a sore (noun)", "hardship", "nail", "cooperation"],
-    "answer": "a sore (noun)"
-  },
-  {
-    "question": "موضوع حساس / مؤلم نفسيًا",
-    "options": ["sore subject", "persist", "empowering", "potentialy"],
-    "answer": "sore subject"
-  },
-  {
-    "question": "وصفة طبية",
-    "options": ["prescription", "nailing", "stability", "willing"],
-    "answer": "prescription"
-  },
-  {
-    "question": "جبناء",
-    "options": ["Cowards", "courageous", "sovereign", "conclude"],
-    "answer": "Cowards"
-  },
-  {
-    "question": "شجاع",
-    "options": ["courageous", "Cowards", "engagement", "prosperous"],
-    "answer": "courageous"
-  },
-  {
-    "question": "استقرار",
-    "options": ["stability", "exemption", "potentialy", "during"],
-    "answer": "stability"
-  },
-  {
-    "question": "سيادي",
-    "options": ["sovereign", "prescription", "willing", "hardship"],
-    "answer": "sovereign"
-  },
-  {
-    "question": "يستحق",
-    "options": ["deserve", "cooperation", "persist", "ointment"],
-    "answer": "deserve"
-  },
-  {
-    "question": "نتيجة هامة",
-    "options": ["consequntal", "empowering", "sore muscles", "nail"],
-    "answer": "consequntal"
-  },
-  {
-    "question": "مع ذلك",
-    "options": ["nonetheless", "sovereign", "a sore (noun)", "during"],
-    "answer": "nonetheless"
-  },
-  {
-    "question": "ارتباط / خطوبة",
-    "options": ["engagement", "Cowards", "persist", "hardship"],
-    "answer": "engagement"
-  },
-  {
-    "question": "تعاون",
-    "options": ["cooperation", "sore throat", "potentialy", "exemption"],
-    "answer": "cooperation"
-  },
-  {
-    "question": "تمكين",
-    "options": ["empowering", "persist", "ointment", "during"],
-    "answer": "empowering"
-  },
-  {
-    "question": "مزدهر",
-    "options": ["prosperous", "willing", "nail", "sovereign"],
-    "answer": "prosperous"
-  },
-  {
-    "question": "يختم / يستنتج",
-    "options": ["conclude", "persist", "nonetheless", "Cowards"],
-    "answer": "conclude"
-  },
-  {
-    "question": "مصاعب",
-    "options": ["hardship", "ointment", "sore subject", "engagement"],
-    "answer": "hardship"
-  },
-  {
-    "question": "مستعد",
-    "options": ["willing", "persist", "sovereign", "prescription"],
-    "answer": "willing"
-  },
-  {
-    "question": "بإمكانه",
-    "options": ["potentialy", "nail", "persist", "sore throat"],
-    "answer": "potentialy"
-  },
-  {
-    "question": "طيلة، في كل فترة الزمن، بشكل مستمر",
-    "options": ["Throughout", "During", "persist", "ointment"],
-    "answer": "Throughout"
-  },
-  {
-    "question": "خلال، في جزء من فترة الزمن",
-    "options": ["During", "Throughout", "willing", "empowering"],
-    "answer": "During"
-  }
-,{
+        "question": "مناقصة",
+        "options": [
+            "tender",
+            "lend",
+            "offer",
+            "charge"
+        ],
+        "answer": "tender"
+    },
+    {
+        "question": "قيود",
+        "options": [
+            "freedom",
+            "constraints",
+            "tools",
+            "strategies"
+        ],
+        "answer": "constraints"
+    },
+    {
+        "question": "مقترَح",
+        "options": [
+            "proposed",
+            "provided",
+            "offered",
+            "confirmed"
+        ],
+        "answer": "proposed"
+    },
+    {
+        "question": "تشغيلي",
+        "options": [
+            "logical",
+            "functional",
+            "operational",
+            "occasional"
+        ],
+        "answer": "operational"
+    },
+    {
+        "question": "مجاني",
+        "options": [
+            "free of charge",
+            "expensive",
+            "limited",
+            "taxed"
+        ],
+        "answer": "free of charge"
+    },
+    {
+        "question": "مواقف أو توجهات",
+        "options": [
+            "positions",
+            "attitudes",
+            "decisions",
+            "beliefs"
+        ],
+        "answer": "attitudes"
+    },
+    {
+        "question": "إدراك",
+        "options": [
+            "observation",
+            "reaction",
+            "perception",
+            "interaction"
+        ],
+        "answer": "perception"
+    },
+    {
+        "question": "منخرط / مشترك",
+        "options": [
+            "engaged",
+            "passive",
+            "separated",
+            "aware"
+        ],
+        "answer": "engaged"
+    },
+    {
+        "question": "متسامح",
+        "options": [
+            "forgiving",
+            "demanding",
+            "strict",
+            "judging"
+        ],
+        "answer": "forgiving"
+    },
+    {
+        "question": "صادق / حقيقي",
+        "options": [
+            "genuine",
+            "fake",
+            "smart",
+            "polite"
+        ],
+        "answer": "genuine"
+    },
+    {
+        "question": "مستعد / راغب",
+        "options": [
+            "willing",
+            "hesitant",
+            "lazy",
+            "refusing"
+        ],
+        "answer": "willing"
+    },
+    {
+        "question": "تبرز / تتميز",
+        "options": [
+            "vanish",
+            "stand out",
+            "join in",
+            "pass through"
+        ],
+        "answer": "stand out"
+    },
+    {
+        "question": "يظهر كـ / يُفهم على أنه",
+        "options": [
+            "look away",
+            "come across as",
+            "stay behind",
+            "pull back"
+        ],
+        "answer": "come across as"
+    },
+    {
+        "question": "بعيدًا عن الأنظار",
+        "options": [
+            "out of place",
+            "out of sight",
+            "on the edge",
+            "under control"
+        ],
+        "answer": "out of sight"
+    },
+    {
+        "question": "صغير لكن ذو معنى",
+        "options": [
+            "big and useless",
+            "small but meaningful",
+            "tiny and boring",
+            "long and empty"
+        ],
+        "answer": "small but meaningful"
+    },
+    {
+        "question": "يتعلم الأساسيات",
+        "options": [
+            "forgetting the rules",
+            "learning the ropes",
+            "breaking the norms",
+            "teaching the leaders"
+        ],
+        "answer": "learning the ropes"
+    },
+    {
+        "question": "كل لحظة لها قيمة",
+        "options": [
+            "every moment counts",
+            "sometimes it matters",
+            "none of it matters",
+            "time is useless"
+        ],
+        "answer": "every moment counts"
+    },
+    {
+        "question": "تم تقييمه",
+        "options": [
+            "assessed",
+            "classified",
+            "analyzed",
+            "examined"
+        ],
+        "answer": "assessed"
+    },
+    {
+        "question": "ضد نفس المقياس",
+        "options": [
+            "against the same scale",
+            "within the same level",
+            "beyond the limit",
+            "beneath the range"
+        ],
+        "answer": "against the same scale"
+    },
+    {
+        "question": "تحديد الأولويات",
+        "options": [
+            "prioritization",
+            "delegation",
+            "distribution",
+            "planning"
+        ],
+        "answer": "prioritization"
+    },
+    {
+        "question": "رسومات",
+        "options": [
+            "drawings",
+            "blueprints",
+            "diagrams",
+            "pictures"
+        ],
+        "answer": "drawings"
+    },
+    {
+        "question": "يمزج",
+        "options": [
+            "blend",
+            "split",
+            "trace",
+            "shake"
+        ],
+        "answer": "blend"
+    },
+    {
+        "question": "تماماً",
+        "options": [
+            "entirely",
+            "partially",
+            "simply",
+            "briefly"
+        ],
+        "answer": "entirely"
+    },
+    {
+        "question": "يعدل",
+        "options": [
+            "adjust",
+            "approve",
+            "adapt",
+            "submit"
+        ],
+        "answer": "adjust"
+    },
+    {
+        "question": "ترميز",
+        "options": [
+            "Notation",
+            "Translation",
+            "Coding",
+            "Symbolism"
+        ],
+        "answer": "Notation"
+    },
+    {
+        "question": "متماسك",
+        "options": [
+            "cohesive",
+            "chaotic",
+            "fragile",
+            "dispersed"
+        ],
+        "answer": "cohesive"
+    },
+    {
+        "question": "مخترع",
+        "options": [
+            "inventor",
+            "founder",
+            "builder",
+            "designer"
+        ],
+        "answer": "inventor"
+    },
+    {
+        "question": "موقف",
+        "options": [
+            "stance",
+            "position",
+            "direction",
+            "gesture"
+        ],
+        "answer": "stance"
+    },
+    {
+        "question": "مناقصات",
+        "options": [
+            "tenders",
+            "offers",
+            "requests",
+            "bids"
+        ],
+        "answer": "tenders"
+    },
+    {
+        "question": "مقترحات",
+        "options": [
+            "proposals",
+            "instructions",
+            "invitations",
+            "ideas"
+        ],
+        "answer": "proposals"
+    },
+    {
+        "question": "أطراف مختلفة",
+        "options": [
+            "Various parties",
+            "Several factors",
+            "Multiple sources",
+            "Different people"
+        ],
+        "answer": "Various parties"
+    },
+    {
+        "question": "تم الاتفاق عليه",
+        "options": [
+            "is agreed upon",
+            "is enforced",
+            "is declared",
+            "is announced"
+        ],
+        "answer": "is agreed upon"
+    },
+    {
+        "question": "غير متناسق",
+        "options": [
+            "inconsistent",
+            "unpredictable",
+            "unreliable",
+            "unstable"
+        ],
+        "answer": "inconsistent"
+    },
+    {
+        "question": "وفيات",
+        "options": [
+            "fatalities",
+            "accidents",
+            "losses",
+            "injuries"
+        ],
+        "answer": "fatalities"
+    },
+    {
+        "question": "تم توقيفه",
+        "options": [
+            "halted",
+            "delayed",
+            "canceled",
+            "skipped"
+        ],
+        "answer": "halted"
+    },
+    {
+        "question": "يوصف",
+        "options": [
+            "Prescribe",
+            "Describe",
+            "Write",
+            "Specify"
+        ],
+        "answer": "Prescribe"
+    },
+    {
+        "question": "قابلية التطبيق",
+        "options": [
+            "applicability",
+            "feasibility",
+            "validity",
+            "capability"
+        ],
+        "answer": "applicability"
+    },
+    {
+        "question": "تسريع",
+        "options": [
+            "acceleration",
+            "improvement",
+            "movement",
+            "amplification"
+        ],
+        "answer": "acceleration"
+    },
+    {
+        "question": "يُقيِّد",
+        "options": [
+            "Constrain",
+            "Combine",
+            "Control",
+            "Compress"
+        ],
+        "answer": "Constrain"
+    },
+    {
+        "question": "مثل",
+        "options": [
+            "such",
+            "like",
+            "same",
+            "so"
+        ],
+        "answer": "such"
+    },
+    {
+        "question": "دقة",
+        "options": [
+            "accuracy",
+            "clarity",
+            "specificity",
+            "exactness"
+        ],
+        "answer": "accuracy"
+    },
+    {
+        "question": "دقيق",
+        "options": [
+            "precise",
+            "concise",
+            "detailed",
+            "narrow"
+        ],
+        "answer": "precise"
+    },
+    {
+        "question": "استخلاص",
+        "options": [
+            "elicitation",
+            "extraction",
+            "collection",
+            "identification"
+        ],
+        "answer": "elicitation"
+    },
+    {
+        "question": "تفصيل",
+        "options": [
+            "elaboration",
+            "development",
+            "extension",
+            "illustration"
+        ],
+        "answer": "elaboration"
+    },
+    {
+        "question": "اقتراح مبدئي",
+        "options": [
+            "preliminary draft proposal",
+            "initial plan",
+            "first idea",
+            "conceptual design"
+        ],
+        "answer": "preliminary draft proposal"
+    },
+    {
+        "question": "قاموس المصطلحات",
+        "options": [
+            "Glossary",
+            "Index",
+            "Reference",
+            "Notes"
+        ],
+        "answer": "Glossary"
+    },
+    {
+        "question": "أعراض",
+        "options": [
+            "symptoms",
+            "signs",
+            "signals",
+            "effects"
+        ],
+        "answer": "symptoms"
+    },
+    {
+        "question": "أسباب",
+        "options": [
+            "causes",
+            "reasons",
+            "triggers",
+            "sources"
+        ],
+        "answer": "causes"
+    },
+    {
+        "question": "مرضي",
+        "options": [
+            "satisfying",
+            "pleasing",
+            "acceptable",
+            "comforting"
+        ],
+        "answer": "satisfying"
+    },
+    {
+        "question": "افتراضي",
+        "options": [
+            "hypothetical",
+            "fictional",
+            "imaginary",
+            "possible"
+        ],
+        "answer": "hypothetical"
+    },
+    {
+        "question": "تفاعل",
+        "options": [
+            "interaction",
+            "reaction",
+            "relation",
+            "engagement"
+        ],
+        "answer": "interaction"
+    },
+    {
+        "question": "افتراضات",
+        "options": [
+            "assumptions",
+            "guesses",
+            "expectations",
+            "ideas"
+        ],
+        "answer": "assumptions"
+    },
+    {
+        "question": "مبرر",
+        "options": [
+            "rationale",
+            "explanation",
+            "reasoning",
+            "logic"
+        ],
+        "answer": "rationale"
+    },
+    {
+        "question": "نماذج بديلة",
+        "options": [
+            "variants",
+            "types",
+            "versions",
+            "models"
+        ],
+        "answer": "variants"
+    },
+    {
+        "question": "تطورات",
+        "options": [
+            "evolutions",
+            "changes",
+            "developments",
+            "modifications"
+        ],
+        "answer": "evolutions"
+    },
+    {
+        "question": "متماسك",
+        "options": [
+            "coherent",
+            "logical",
+            "clear",
+            "organized"
+        ],
+        "answer": "coherent"
+    },
+    {
+        "question": "كافٍ",
+        "options": [
+            "adequate",
+            "sufficient",
+            "fair",
+            "reasonable"
+        ],
+        "answer": "adequate"
+    },
+    {
+        "question": "شامل",
+        "options": [
+            "comprehensive",
+            "complete",
+            "total",
+            "broad"
+        ],
+        "answer": "comprehensive"
+    },
+    {
+        "question": "مدرَك",
+        "options": [
+            "perceived",
+            "known",
+            "noticed",
+            "observed"
+        ],
+        "answer": "perceived"
+    },
+    {
+        "question": "محتمل",
+        "options": [
+            "Potential",
+            "Expected",
+            "Possible",
+            "Upcoming"
+        ],
+        "answer": "Potential"
+    },
+    {
+        "question": "أقارب",
+        "options": [
+            "relatives",
+            "friends",
+            "members",
+            "neighbors"
+        ],
+        "answer": "relatives"
+    },
+    {
+        "question": "نتاج مادي",
+        "options": [
+            "Artefact",
+            "Product",
+            "Creation",
+            "Tool"
+        ],
+        "answer": "Artefact"
+    },
+    {
+        "question": "استبيانات",
+        "options": [
+            "Questionnaires",
+            "Forms",
+            "Surveys",
+            "Checklists"
+        ],
+        "answer": "Questionnaires"
+    },
+    {
+        "question": "لوحات قصصية",
+        "options": [
+            "Storyboards",
+            "Sketches",
+            "Drafts",
+            "Panels"
+        ],
+        "answer": "Storyboards"
+    },
+    {
+        "question": "نماذج أولية",
+        "options": [
+            "Prototypes",
+            "Samples",
+            "Models",
+            "Mocks"
+        ],
+        "answer": "Prototypes"
+    },
+    {
+        "question": "نماذج وهمية",
+        "options": [
+            "mockups",
+            "layouts",
+            "prototypes",
+            "sketches"
+        ],
+        "answer": "mockups"
+    },
+    {
+        "question": "تشاركي",
+        "options": [
+            "Participative",
+            "Collaborative",
+            "Interactive",
+            "Engaging"
+        ],
+        "answer": "Participative"
+    },
+    {
+        "question": "ملاحظة",
+        "options": [
+            "observation",
+            "monitoring",
+            "tracking",
+            "watching"
+        ],
+        "answer": "observation"
+    },
+    {
+        "question": "توزين",
+        "options": [
+            "Weighting",
+            "Balancing",
+            "Measuring",
+            "Scaling"
+        ],
+        "answer": "Weighting"
+    },
+    {
+        "question": "نوعيًّا",
+        "options": [
+            "qualitatively",
+            "quantitatively",
+            "theoretically",
+            "logically"
+        ],
+        "answer": "qualitatively"
+    },
+    {
+        "question": "كميًّا",
+        "options": [
+            "quantitatively",
+            "numerically",
+            "statistically",
+            "countably"
+        ],
+        "answer": "quantitatively"
+    },
+    {
+        "question": "اكتساب",
+        "options": [
+            "acquiring",
+            "gaining",
+            "obtaining",
+            "receiving"
+        ],
+        "answer": "acquiring"
+    },
+    {
+        "question": "سرديات",
+        "options": [
+            "narratives",
+            "stories",
+            "tales",
+            "reports"
+        ],
+        "answer": "narratives"
+    },
+    {
+        "question": "لقطات",
+        "options": [
+            "snapshots",
+            "photos",
+            "scenes",
+            "clips"
+        ],
+        "answer": "snapshots"
+    },
+    {
+        "question": "رسم تخطيطي",
+        "options": [
+            "sketch",
+            "outline",
+            "drawing",
+            "diagram"
+        ],
+        "answer": "sketch"
+    },
+    {
+        "question": "تعليقات توضيحية",
+        "options": [
+            "annotations",
+            "notes",
+            "comments",
+            "labels"
+        ],
+        "answer": "annotations"
+    },
+    {
+        "question": "استكشاف مشترك",
+        "options": [
+            "joint exploration",
+            "collaborative search",
+            "group study",
+            "mutual inquiry"
+        ],
+        "answer": "joint exploration"
+    },
+    {
+        "question": "كفاية",
+        "options": [
+            "adequacy",
+            "sufficiency",
+            "capacity",
+            "efficiency"
+        ],
+        "answer": "adequacy"
+    },
+    {
+        "question": "جوانب",
+        "options": [
+            "aspects",
+            "elements",
+            "points",
+            "parts"
+        ],
+        "answer": "aspects"
+    },
+    {
+        "question": "ميل",
+        "options": [
+            "tendency",
+            "inclination",
+            "habit",
+            "trend"
+        ],
+        "answer": "tendency"
+    },
+    {
+        "question": "كفاءة",
+        "options": [
+            "efficiency",
+            "productivity",
+            "performance",
+            "accuracy"
+        ],
+        "answer": "efficiency"
+    },
+    {
+        "question": "مكوَّن",
+        "options": [
+            "composed",
+            "combined",
+            "compiled",
+            "structured"
+        ],
+        "answer": "composed"
+    },
+    {
+        "question": "خاصية",
+        "options": [
+            "characteristic",
+            "feature",
+            "trait",
+            "aspect"
+        ],
+        "answer": "characteristic"
+    },
+    {
+        "question": "استخدام",
+        "options": [
+            "utilization",
+            "application",
+            "consumption",
+            "execution"
+        ],
+        "answer": "utilization"
+    },
+    {
+        "question": "تعويض",
+        "options": [
+            "compensated",
+            "reimbursed",
+            "paid",
+            "adjusted"
+        ],
+        "answer": "compensated"
+    },
+    {
+        "question": "يُعتَبَر",
+        "options": [
+            "deemed",
+            "considered",
+            "judged",
+            "thought"
+        ],
+        "answer": "deemed"
+    },
+    {
+        "question": "اختصار",
+        "options": [
+            "acronym",
+            "abbreviation",
+            "symbol",
+            "initialism"
+        ],
+        "answer": "acronym"
+    },
+    {
+        "question": "عائد الاستثمار",
+        "options": [
+            "payback",
+            "return",
+            "profit",
+            "benefit"
+        ],
+        "answer": "payback"
+    },
+    {
+        "question": "مناسب",
+        "options": [
+            "appropriate",
+            "suitable",
+            "relevant",
+            "correct"
+        ],
+        "answer": "appropriate"
+    },
+    {
+        "question": "إدراج",
+        "options": [
+            "inclusion",
+            "insertion",
+            "addition",
+            "placement"
+        ],
+        "answer": "inclusion"
+    },
+    {
+        "question": "أحياناً",
+        "options": [
+            "occasionally",
+            "rarely",
+            "frequently",
+            "barely"
+        ],
+        "answer": "occasionally"
+    },
+    {
+        "question": "استبدل",
+        "options": [
+            "substituted",
+            "replaced",
+            "swapped",
+            "changed"
+        ],
+        "answer": "substituted"
+    },
+    {
+        "question": "مقاومة",
+        "options": [
+            "resistance",
+            "opposition",
+            "rejection",
+            "refusal"
+        ],
+        "answer": "resistance"
+    },
+    {
+        "question": "تمييز",
+        "options": [
+            "distinction",
+            "difference",
+            "contrast",
+            "variation"
+        ],
+        "answer": "distinction"
+    },
+    {
+        "question": "المستخدمون المتأثرون",
+        "options": [
+            "users affected",
+            "impacted users",
+            "target users",
+            "end users"
+        ],
+        "answer": "users affected"
+    },
+    {
+        "question": "قصة كبيرة",
+        "options": [
+            "Epic",
+            "Saga",
+            "Storyline",
+            "Adventure"
+        ],
+        "answer": "Epic"
+    },
+    {
+        "question": "تكيّف",
+        "options": [
+            "accomodation",
+            "adjustment",
+            "modification",
+            "adoption"
+        ],
+        "answer": "accomodation"
+    },
+    {
+        "question": "أداء",
+        "options": [
+            "perform",
+            "execute",
+            "function",
+            "deliver"
+        ],
+        "answer": "perform"
+    },
+    {
+        "question": "تقدير",
+        "options": [
+            "apprication",
+            "recognition",
+            "evaluation",
+            "gratitude"
+        ],
+        "answer": "apprication"
+    },
+    {
+        "question": "مناسب",
+        "options": [
+            "convenient",
+            "available",
+            "quick",
+            "correct"
+        ],
+        "answer": "convenient"
+    },
+    {
+        "question": "ينهار (عاطفيًا أو ميكانيكيًا)",
+        "options": [
+            "break down",
+            "fall apart",
+            "crack up",
+            "slow down"
+        ],
+        "answer": "break down"
+    },
+    {
+        "question": "يلغي",
+        "options": [
+            "call off",
+            "cancel out",
+            "put off",
+            "shut down"
+        ],
+        "answer": "call off"
+    },
+    {
+        "question": "يواصل، يستمر",
+        "options": [
+            "carry on",
+            "go by",
+            "keep out",
+            "stay back"
+        ],
+        "answer": "carry on"
+    },
+    {
+        "question": "يقلل من (الإنفاق أو الاستخدام)",
+        "options": [
+            "cut back",
+            "turn down",
+            "scale up",
+            "push off"
+        ],
+        "answer": "cut back"
+    },
+    {
+        "question": "يزور فجأة/دون موعد",
+        "options": [
+            "drop by",
+            "stop over",
+            "pass on",
+            "show off"
+        ],
+        "answer": "drop by"
+    },
+    {
+        "question": "يفشل (مخطط أو صفقة)",
+        "options": [
+            "fall through",
+            "break off",
+            "pass away",
+            "shut off"
+        ],
+        "answer": "fall through"
+    },
+    {
+        "question": "يوصل فكرة أو رسالة بوضوح",
+        "options": [
+            "get across",
+            "speak up",
+            "hand in",
+            "bring out"
+        ],
+        "answer": "get across"
+    },
+    {
+        "question": "يستسلم، يرضخ",
+        "options": [
+            "give in",
+            "give up",
+            "hand out",
+            "turn over"
+        ],
+        "answer": "give in"
+    },
+    {
+        "question": "يراجع أو يفحص بعناية",
+        "options": [
+            "go over",
+            "look after",
+            "read up",
+            "check off"
+        ],
+        "answer": "go over"
+    },
+    {
+        "question": "ينتظر أو يتمسك",
+        "options": [
+            "hold on",
+            "stick to",
+            "wait out",
+            "cling in"
+        ],
+        "answer": "hold on"
+    },
+    {
+        "question": "يواكب، يحافظ على نفس المستوى",
+        "options": [
+            "keep up",
+            "stay in",
+            "keep off",
+            "go out"
+        ],
+        "answer": "keep up"
+    },
+    {
+        "question": "يبحث في (موضوع أو قضية)",
+        "options": [
+            "look into",
+            "check over",
+            "scan through",
+            "peer at"
+        ],
+        "answer": "look into"
+    },
+    {
+        "question": "يختلق (عذرًا، قصة، سلامًا)",
+        "options": [
+            "make up",
+            "come out",
+            "think through",
+            "set off"
+        ],
+        "answer": "make up"
+    },
+    {
+        "question": "يفقد الوعي",
+        "options": [
+            "pass out",
+            "black out",
+            "fade away",
+            "knock off"
+        ],
+        "answer": "pass out"
+    },
+    {
+        "question": "يضايق، يتنمر على",
+        "options": [
+            "pick on",
+            "laugh at",
+            "take down",
+            "nag at"
+        ],
+        "answer": "pick on"
+    },
+    {
+        "question": "يؤجل",
+        "options": [
+            "put off",
+            "hold up",
+            "shut down",
+            "drag on"
+        ],
+        "answer": "put off"
+    },
+    {
+        "question": "ينفد من",
+        "options": [
+            "run out of",
+            "lose out on",
+            "drain through",
+            "give off"
+        ],
+        "answer": "run out of"
+    },
+    {
+        "question": "يؤسس أو يجهز شيئًا",
+        "options": [
+            "set up",
+            "fix in",
+            "get over",
+            "start off"
+        ],
+        "answer": "set up"
+    },
+    {
+        "question": "يستولي على، يتولى السيطرة",
+        "options": [
+            "take over",
+            "bring down",
+            "step up",
+            "push in"
+        ],
+        "answer": "take over"
+    },
+    {
+        "question": "طلب او دعوة) يرفض)",
+        "options": [
+            "turn down",
+            "shut out",
+            "pass up",
+            "drop off"
+        ],
+        "answer": "turn down"
+    },
+    {
+        "question": "كامل، نافع، صحي",
+        "options": [
+            "wholesome",
+            "hostile",
+            "grim",
+            "sickly"
+        ],
+        "answer": "wholesome"
+    },
+    {
+        "question": "ناقل، حمّال، وسيلة نقل",
+        "options": [
+            "carrier",
+            "courier",
+            "truck",
+            "loader"
+        ],
+        "answer": "carrier"
+    },
+    {
+        "question": "صيغة المقارنة",
+        "options": [
+            "comparative of",
+            "superlative",
+            "equative",
+            "positive form"
+        ],
+        "answer": "comparative of"
+    },
+    {
+        "question": "يطرح، يضع سؤالًا أو مشكلة",
+        "options": [
+            "to pose",
+            "to lift",
+            "to share",
+            "to risk"
+        ],
+        "answer": "to pose"
+    },
+    {
+        "question": "شرفة",
+        "options": [
+            "balcony",
+            "roof",
+            "attic",
+            "ledge"
+        ],
+        "answer": "balcony"
+    },
+    {
+        "question": "ترتيب، تنظيف",
+        "options": [
+            "tidying up",
+            "messing up",
+            "sorting out",
+            "sweeping out"
+        ],
+        "answer": "tidying up"
+    },
+    {
+        "question": "ضعيف، متضرر",
+        "options": [
+            "impaired",
+            "healthy",
+            "alert",
+            "improved"
+        ],
+        "answer": "impaired"
+    },
+    {
+        "question": "مُعدّ، مقصود",
+        "options": [
+            "intended",
+            "random",
+            "improvised",
+            "mistaken"
+        ],
+        "answer": "intended"
+    },
+    {
+        "question": "أعمال شغب",
+        "options": [
+            "riots",
+            "protests",
+            "marches",
+            "votes"
+        ],
+        "answer": "riots"
+    },
+    {
+        "question": "يحرّض، يشجع على فعل شيء سلبي",
+        "options": [
+            "egg on",
+            "cheer up",
+            "bring up",
+            "walk off"
+        ],
+        "answer": "egg on"
+    },
+    {
+        "question": "يدفع الفاتورة",
+        "options": [
+            "foot the bill",
+            "sign the check",
+            "pay off",
+            "cash in"
+        ],
+        "answer": "foot the bill"
+    },
+    {
+        "question": "يشي بـ، يبلّغ عن",
+        "options": [
+            "rat on",
+            "snitch in",
+            "lie about",
+            "spy over"
+        ],
+        "answer": "rat on"
+    },
+    {
+        "question": "يسلم (وظيفة، واجب...)",
+        "options": [
+            "hand in",
+            "give out",
+            "put out",
+            "send up"
+        ],
+        "answer": "hand in"
+    },
+    {
+        "question": "يواجه (شيء صعب)",
+        "options": [
+            "face up to",
+            "turn into",
+            "run away from",
+            "go around"
+        ],
+        "answer": "face up to"
+    },
+    {
+        "question": "يفتش، يفتّش بدافع الفضول",
+        "options": [
+            "nose around",
+            "snoop out",
+            "dig under",
+            "peek through"
+        ],
+        "answer": "nose around"
+    },
+    {
+        "question": "يمنع، يوقف شيء قبل حدوثه",
+        "options": [
+            "head off",
+            "put down",
+            "walk off",
+            "drive by"
+        ],
+        "answer": "head off"
+    },
+    {
+        "question": "يتحمل اللوم",
+        "options": [
+            "shoulder the blame",
+            "take pride",
+            "point fingers",
+            "deny everything"
+        ],
+        "answer": "shoulder the blame"
+    },
+    {
+        "question": "يلتزم بالقواعد",
+        "options": [
+            "toe the line",
+            "break the rule",
+            "step aside",
+            "bend the law"
+        ],
+        "answer": "toe the line"
+    },
+    {
+        "question": "يتحدث بوقاحة",
+        "options": [
+            "mouth off",
+            "speak up",
+            "talk down",
+            "whisper away"
+        ],
+        "answer": "mouth off"
+    },
+    {
+        "question": "يحدق بشخص/شيء بإعجاب أو رغبة",
+        "options": [
+            "eye up",
+            "look out",
+            "stare down",
+            "gaze off"
+        ],
+        "answer": "eye up"
+    },
+    {
+        "question": "يُصغي، يستمع بتعاطف",
+        "options": [
+            "lend an ear",
+            "pay attention",
+            "hear back",
+            "lean in"
+        ],
+        "answer": "lend an ear"
+    },
+    {
+        "question": "يتراجع عن موقف",
+        "options": [
+            "back down",
+            "turn back",
+            "give up",
+            "pull away"
+        ],
+        "answer": "back down"
+    },
+    {
+        "question": "يتكلم بوقاحة (عامية)",
+        "options": [
+            "lip off",
+            "talk back",
+            "argue up",
+            "sass off"
+        ],
+        "answer": "lip off"
+    },
+    {
+        "question": "بشق الأنفس، بالكاد",
+        "options": [
+            "by the skin of ( my,his,her,its,our, your,thier ) teeth",
+            "by chance",
+            "all of a sudden",
+            "at ease"
+        ],
+        "answer": "skin of your teeth"
+    },
+    {
+        "question": "التهاب / وجع حلق",
+        "options": [
+            "ointment",
+            "sore throat",
+            "courageous",
+            "prescription"
+        ],
+        "answer": "sore throat"
+    },
+    {
+        "question": "عضلات مؤلمة",
+        "options": [
+            "sore muscles",
+            "sovereign",
+            "engagement",
+            "deserve"
+        ],
+        "answer": "sore muscles"
+    },
+    {
+        "question": "جرح مفتوح",
+        "options": [
+            "a sore (noun)",
+            "hardship",
+            "nail",
+            "cooperation"
+        ],
+        "answer": "a sore (noun)"
+    },
+    {
+        "question": "موضوع حساس / مؤلم نفسيًا",
+        "options": [
+            "sore subject",
+            "persist",
+            "empowering",
+            "potentialy"
+        ],
+        "answer": "sore subject"
+    },
+    {
+        "question": "وصفة طبية",
+        "options": [
+            "prescription",
+            "nailing",
+            "stability",
+            "willing"
+        ],
+        "answer": "prescription"
+    },
+    {
+        "question": "جبناء",
+        "options": [
+            "Cowards",
+            "courageous",
+            "sovereign",
+            "conclude"
+        ],
+        "answer": "Cowards"
+    },
+    {
+        "question": "شجاع",
+        "options": [
+            "courageous",
+            "Cowards",
+            "engagement",
+            "prosperous"
+        ],
+        "answer": "courageous"
+    },
+    {
+        "question": "استقرار",
+        "options": [
+            "stability",
+            "exemption",
+            "potentialy",
+            "during"
+        ],
+        "answer": "stability"
+    },
+    {
+        "question": "سيادي",
+        "options": [
+            "sovereign",
+            "prescription",
+            "willing",
+            "hardship"
+        ],
+        "answer": "sovereign"
+    },
+    {
+        "question": "يستحق",
+        "options": [
+            "deserve",
+            "cooperation",
+            "persist",
+            "ointment"
+        ],
+        "answer": "deserve"
+    },
+    {
+        "question": "نتيجة هامة",
+        "options": [
+            "consequntal",
+            "empowering",
+            "sore muscles",
+            "nail"
+        ],
+        "answer": "consequntal"
+    },
+    {
+        "question": "مع ذلك",
+        "options": [
+            "nonetheless",
+            "sovereign",
+            "a sore (noun)",
+            "during"
+        ],
+        "answer": "nonetheless"
+    },
+    {
+        "question": "ارتباط / خطوبة",
+        "options": [
+            "engagement",
+            "Cowards",
+            "persist",
+            "hardship"
+        ],
+        "answer": "engagement"
+    },
+    {
+        "question": "تعاون",
+        "options": [
+            "cooperation",
+            "sore throat",
+            "potentialy",
+            "exemption"
+        ],
+        "answer": "cooperation"
+    },
+    {
+        "question": "تمكين",
+        "options": [
+            "empowering",
+            "persist",
+            "ointment",
+            "during"
+        ],
+        "answer": "empowering"
+    },
+    {
+        "question": "مزدهر",
+        "options": [
+            "prosperous",
+            "willing",
+            "nail",
+            "sovereign"
+        ],
+        "answer": "prosperous"
+    },
+    {
+        "question": "يختم / يستنتج",
+        "options": [
+            "conclude",
+            "persist",
+            "nonetheless",
+            "Cowards"
+        ],
+        "answer": "conclude"
+    },
+    {
+        "question": "مصاعب",
+        "options": [
+            "hardship",
+            "ointment",
+            "sore subject",
+            "engagement"
+        ],
+        "answer": "hardship"
+    },
+    {
+        "question": "مستعد",
+        "options": [
+            "willing",
+            "persist",
+            "sovereign",
+            "prescription"
+        ],
+        "answer": "willing"
+    },
+    {
+        "question": "بإمكانه",
+        "options": [
+            "potentialy",
+            "nail",
+            "persist",
+            "sore throat"
+        ],
+        "answer": "potentialy"
+    },
+    {
+        "question": "طيلة، في كل فترة الزمن، بشكل مستمر",
+        "options": [
+            "Throughout",
+            "During",
+            "persist",
+            "ointment"
+        ],
+        "answer": "Throughout"
+    },
+    {
+        "question": "خلال، في جزء من فترة الزمن",
+        "options": [
+            "During",
+            "Throughout",
+            "willing",
+            "empowering"
+        ],
+        "answer": "During"
+    },
+    {
         "question": "طبقة",
         "options": [
-            "'crowdfunding'",
+            "crowdfunding",
             "Tier",
-            "'narrow'",
-            "'discount rate'"
+            "narrow",
+            "discount rate"
         ],
         "answer": "Tier"
     },
     {
         "question": "توقع",
         "options": [
-            "'nominated'",
-            "'discount rate'",
-            "'forecastable'",
+            "nominated",
+            "discount rate",
+            "forecastable",
             "Projection"
         ],
         "answer": "Projection"
@@ -852,961 +1683,961 @@
         "question": "حجم ضخم",
         "options": [
             "Bulk",
-            "'crowdfunding'",
-            "'compounding'",
-            "'onboarding'"
+            "crowdfunding",
+            "compounding",
+            "onboarding"
         ],
         "answer": "Bulk"
     },
     {
         "question": "شجع",
         "options": [
-            "'proposition'",
-            "'initiative'",
+            "proposition",
+            "initiative",
             "prompted",
-            "'feasibility'"
+            "feasibility"
         ],
         "answer": "prompted"
     },
     {
         "question": "يصدر",
         "options": [
-            "'point out'",
-            "'Takeaway'",
+            "point out",
+            "Takeaway",
             "to issue",
-            "'effort estimation'"
+            "effort estimation"
         ],
         "answer": "to issue"
     },
     {
         "question": "تقريبًا",
         "options": [
-            "'discount rate'",
-            "'roughly'",
-            "'innovative'",
-            "'conduct'"
+            "discount rate",
+            "roughly",
+            "innovative",
+            "conduct"
         ],
-        "answer": "'roughly'"
+        "answer": "roughly"
     },
     {
         "question": "وهكذا",
         "options": [
-            "'innovative'",
-            "'and so on'",
-            "'deliverables'",
-            "'interaction'"
+            "innovative",
+            "and so on",
+            "deliverables",
+            "interaction"
         ],
-        "answer": "'and so on'"
+        "answer": "and so on"
     },
     {
         "question": "خاتمة",
         "options": [
-            "'close note'",
-            "'innovative'",
-            "'premium'",
-            "'initiative'"
+            "close note",
+            "innovative",
+            "premium",
+            "initiative"
         ],
-        "answer": "'close note'"
+        "answer": "close note"
     },
     {
         "question": "أنت في طريقك إلى",
         "options": [
-            "'deviation'",
-            "'crowdfunding'",
-            "'You're off to'",
-            "'proposal'"
+            "deviation",
+            "crowdfunding",
+            "You're off to",
+            "proposal"
         ],
-        "answer": "'You're off to'"
+        "answer": "You're off to"
     },
     {
         "question": "يمزج",
         "options": [
-            "'blend'",
-            "'constraints'",
-            "'disaster'",
-            "'initiative'"
+            "blend",
+            "constraints",
+            "disaster",
+            "initiative"
         ],
-        "answer": "'blend'"
+        "answer": "blend"
     },
     {
         "question": "توقعات مالية",
         "options": [
-            "'Financial Projections'",
-            "'continuou process improvement'",
-            "'nominated'",
-            "'premium'"
+            "Financial Projections",
+            "continuou process improvement",
+            "nominated",
+            "premium"
         ],
-        "answer": "'Financial Projections'"
+        "answer": "Financial Projections"
     },
     {
         "question": "مشكلة نفسية",
         "options": [
-            "'psychological problem'",
-            "'compounding'",
-            "'stakeholders'",
-            "'conduct'"
+            "psychological problem",
+            "compounding",
+            "stakeholders",
+            "conduct"
         ],
-        "answer": "'psychological problem'"
+        "answer": "psychological problem"
     },
     {
         "question": "يشير إلى",
         "options": [
-            "'point out'",
-            "'prototype'",
-            "'disaster'",
-            "'proposal'"
+            "point out",
+            "prototype",
+            "disaster",
+            "proposal"
         ],
-        "answer": "'point out'"
+        "answer": "point out"
     },
     {
         "question": "رُشّح",
         "options": [
-            "'nominated'",
-            "'deliverables'",
-            "'prototype'",
-            "'compounding'"
+            "nominated",
+            "deliverables",
+            "prototype",
+            "compounding"
         ],
-        "answer": "'nominated'"
+        "answer": "nominated"
     },
     {
         "question": "قفزة هائلة",
         "options": [
-            "'a giant leap'",
-            "'premium'",
-            "'consistency'",
-            "'prototype'"
+            "a giant leap",
+            "premium",
+            "consistency",
+            "prototype"
         ],
-        "answer": "'a giant leap'"
+        "answer": "a giant leap"
     },
     {
         "question": "اقتراح",
         "options": [
-            "'proposal'",
-            "'stakeholders'",
-            "'premium'",
-            "'infrastructure'"
+            "proposal",
+            "stakeholders",
+            "premium",
+            "infrastructure"
         ],
-        "answer": "'proposal'"
+        "answer": "proposal"
     },
     {
         "question": "تكاليف طارئة",
         "options": [
-            "'Contingency costs'",
-            "'proposition'",
-            "'point out'",
-            "'innovation'"
+            "Contingency costs",
+            "proposition",
+            "point out",
+            "innovation"
         ],
-        "answer": "'Contingency costs'"
+        "answer": "Contingency costs"
     },
     {
         "question": "تعديل",
         "options": [
-            "'adjusting'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "adjusting",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'adjusting'"
+        "answer": "adjusting"
     },
     {
         "question": "مقدمًا",
         "options": [
-            "'upfront'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "upfront",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'upfront'"
+        "answer": "upfront"
     },
     {
         "question": "خلاصة",
         "options": [
-            "'Takeaway'",
-            "'initiative'",
-            "'consistency'",
-            "'proposal'"
+            "Takeaway",
+            "initiative",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'Takeaway'"
+        "answer": "Takeaway"
     },
     {
         "question": "أعاد لك",
         "options": [
-            "'gave you back'",
-            "'stakeholders'",
-            "'premium'",
-            "'proposal'"
+            "gave you back",
+            "stakeholders",
+            "premium",
+            "proposal"
         ],
-        "answer": "'gave you back'"
+        "answer": "gave you back"
     },
     {
         "question": "المقام والبسط",
         "options": [
-            "'Denominator and numerator'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "Denominator and numerator",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'Denominator and numerator'"
+        "answer": "Denominator and numerator"
     },
     {
         "question": "كلمة الختام في المؤتمر",
         "options": [
-            "'close note'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "close note",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'close note'"
+        "answer": "close note"
     },
     {
         "question": "الأعمال المتراكمة",
         "options": [
-            "'Backlog'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "Backlog",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'Backlog'"
+        "answer": "Backlog"
     },
     {
         "question": "المخرجات المتوقعة للمشروع",
         "options": [
-            "'deliverables'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "deliverables",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'deliverables'"
+        "answer": "deliverables"
     },
     {
         "question": "اجتماع اتخاذ القرار (المتابعة أو التوقف)",
         "options": [
-            "'Go/No-Go meeting'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "Go/No-Go meeting",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'Go/No-Go meeting'"
+        "answer": "Go/No-Go meeting"
     },
     {
         "question": "التخفيف",
         "options": [
-            "'Mitigation'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "Mitigation",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'Mitigation'"
+        "answer": "Mitigation"
     },
     {
         "question": "إجراء",
         "options": [
-            "'Conduct'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "Conduct",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'Conduct'"
+        "answer": "Conduct"
     },
     {
         "question": "ضيّق",
         "options": [
-            "'narrow'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "narrow",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'narrow'"
+        "answer": "narrow"
     },
     {
         "question": "اقتراح",
         "options": [
-            "'proposal'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "proposal",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'proposal'"
+        "answer": "proposal"
     },
     {
         "question": "اتساق",
         "options": [
-            "'consistency'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "consistency",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'consistency'"
+        "answer": "consistency"
     },
     {
         "question": "مبتكر",
         "options": [
-            "'innovative'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "innovative",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'innovative'"
+        "answer": "innovative"
     },
     {
         "question": "قيود",
         "options": [
-            "'constraints'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "constraints",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'constraints'"
+        "answer": "constraints"
     },
     {
         "question": "معجم",
         "options": [
-            "'lexicon'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "lexicon",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'lexicon'"
+        "answer": "lexicon"
     },
     {
         "question": "نموذج أولي",
         "options": [
-            "'prototype'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "prototype",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'prototype'"
+        "answer": "prototype"
     },
     {
         "question": "مقاييس",
         "options": [
-            "'metrics'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "metrics",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'metrics'"
+        "answer": "metrics"
     },
     {
         "question": "يُشكّل",
         "options": [
-            "'constitute'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "constitute",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'constitute'"
+        "answer": "constitute"
     },
     {
         "question": "مقترح",
         "options": [
-            "'proposition'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "proposition",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'proposition'"
+        "answer": "proposition"
     },
     {
         "question": "مؤسسة",
         "options": [
-            "'enterprise'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "enterprise",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'enterprise'"
+        "answer": "enterprise"
     },
     {
         "question": "رضا",
         "options": [
-            "'satisfaction'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "satisfaction",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'satisfaction'"
+        "answer": "satisfaction"
     },
     {
         "question": "يعبر بوضوح",
         "options": [
-            "'articulate'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "articulate",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'articulate'"
+        "answer": "articulate"
     },
     {
         "question": "الأساس المنطقي",
         "options": [
-            "'rationale'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "rationale",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'rationale'"
+        "answer": "rationale"
     },
     {
         "question": "شامل",
         "options": [
-            "'comprehensive'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "comprehensive",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'comprehensive'"
+        "answer": "comprehensive"
     },
     {
         "question": "غموض",
         "options": [
-            "'ambiguity'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "ambiguity",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'ambiguity'"
+        "answer": "ambiguity"
     },
     {
         "question": "الجدوى",
         "options": [
-            "'feasibility'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "feasibility",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'feasibility'"
+        "answer": "feasibility"
     },
     {
         "question": "مسعى",
         "options": [
-            "'endeavour'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "endeavour",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'endeavour'"
+        "answer": "endeavour"
     },
     {
         "question": "مبادرة",
         "options": [
-            "'initiative'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "initiative",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'initiative'"
+        "answer": "initiative"
     },
     {
         "question": "أصحاب المصلحة",
         "options": [
-            "'stakeholders'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "stakeholders",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'stakeholders'"
+        "answer": "stakeholders"
     },
     {
         "question": "تخصص",
         "options": [
-            "'specialization'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "specialization",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'specialization'"
+        "answer": "specialization"
     },
     {
         "question": "تفاعل",
         "options": [
-            "'interaction'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "interaction",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'interaction'"
+        "answer": "interaction"
     },
     {
         "question": "توقعات",
         "options": [
-            "'expectations'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "expectations",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'expectations'"
+        "answer": "expectations"
     },
     {
         "question": "قابل للقياس",
         "options": [
-            "'measurable'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "measurable",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'measurable'"
+        "answer": "measurable"
     },
     {
         "question": "تقدير",
         "options": [
-            "'estimate'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "estimate",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'estimate'"
+        "answer": "estimate"
     },
     {
         "question": "المنهجية",
         "options": [
-            "'methodology'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "methodology",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'methodology'"
+        "answer": "methodology"
     },
     {
         "question": "الصلابة",
         "options": [
-            "'robustness'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "robustness",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'robustness'"
+        "answer": "robustness"
     },
     {
         "question": "الخفاية (استخدام مجازي في المشاريع البرمجية)",
         "options": [
-            "'invisibility'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "invisibility",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'invisibility'"
+        "answer": "invisibility"
     },
     {
         "question": "إدارة شاملة",
         "options": [
-            "'holistic management'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "holistic management",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'holistic management'"
+        "answer": "holistic management"
     },
     {
         "question": "تحسين العمليات المستمر",
         "options": [
-            "'continuous process improvement'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "continuous process improvement",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'continuous process improvement'"
+        "answer": "continuous process improvement"
     },
     {
         "question": "فلسفة أجايل",
         "options": [
-            "'agile philosophy'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "agile philosophy",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'agile philosophy'"
+        "answer": "agile philosophy"
     },
     {
         "question": "رضا المستخدم",
         "options": [
-            "'user satisfaction'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "user satisfaction",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'user satisfaction'"
+        "answer": "user satisfaction"
     },
     {
         "question": "تعريف ستاندش",
         "options": [
-            "'Standish definition'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "Standish definition",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'Standish definition'"
+        "answer": "Standish definition"
     },
     {
         "question": "الهيكلية القديمة",
         "options": [
-            "'legacy architecture'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "legacy architecture",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'legacy architecture'"
+        "answer": "legacy architecture"
     },
     {
         "question": "زحف الميزات",
         "options": [
-            "'feature creep'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "feature creep",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'feature creep'"
+        "answer": "feature creep"
     },
     {
         "question": "الموازنة بين التكلفة والمخاطرة والجودة",
         "options": [
-            "'cost-risk-quality tradeoff'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "cost-risk-quality tradeoff",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'cost-risk-quality tradeoff'"
+        "answer": "cost-risk-quality tradeoff"
     },
     {
         "question": "الجمهور",
         "options": [
-            "'audience'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "audience",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'audience'"
+        "answer": "audience"
     },
     {
         "question": "دليل",
         "options": [
-            "'evidence'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "evidence",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'evidence'"
+        "answer": "evidence"
     },
     {
         "question": "مبسط",
         "options": [
-            "'simplified'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "simplified",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'simplified'"
+        "answer": "simplified"
     },
     {
         "question": "عقبة",
         "options": [
-            "'obstacle'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "obstacle",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'obstacle'"
+        "answer": "obstacle"
     },
     {
         "question": "يبدأ",
         "options": [
-            "'initiate'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "initiate",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'initiate'"
+        "answer": "initiate"
     },
     {
         "question": "انحراف",
         "options": [
-            "'deviation'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "deviation",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'deviation'"
+        "answer": "deviation"
     },
     {
         "question": "التمويل الجماعي",
         "options": [
-            "'crowdfunding'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "crowdfunding",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'crowdfunding'"
+        "answer": "crowdfunding"
     },
     {
         "question": "ريادة الأعمال",
         "options": [
-            "'entrepreneurship'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "entrepreneurship",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'entrepreneurship'"
+        "answer": "entrepreneurship"
     },
     {
         "question": "منافس",
         "options": [
-            "'competitor'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "competitor",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'competitor'"
+        "answer": "competitor"
     },
     {
         "question": "علاوة / مكافأة",
         "options": [
-            "'premium'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "premium",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'premium'"
+        "answer": "premium"
     },
     {
         "question": "تقدير الجهد",
         "options": [
-            "'effort estimation'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "effort estimation",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'effort estimation'"
+        "answer": "effort estimation"
     },
     {
         "question": "معدل الخصم",
         "options": [
-            "'discount rate'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "discount rate",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'discount rate'"
+        "answer": "discount rate"
     },
     {
         "question": "متطلبات",
         "options": [
-            "'requirement'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "requirement",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'requirement'"
+        "answer": "requirement"
     },
     {
         "question": "الإعداد الأولي للمستخدمين",
         "options": [
-            "'onboarding'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "onboarding",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'onboarding'"
+        "answer": "onboarding"
     },
     {
         "question": "الشراء / التوريد",
         "options": [
-            "'procurement'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "procurement",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'procurement'"
+        "answer": "procurement"
     },
     {
         "question": "معدل استهلاك الميزانية",
         "options": [
-            "'burn rate'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "burn rate",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'burn rate'"
+        "answer": "burn rate"
     },
     {
         "question": "منصات قابلة للتوسع",
         "options": [
-            "'expandable platforms'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "expandable platforms",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'expandable platforms'"
+        "answer": "expandable platforms"
     },
     {
         "question": "أنشطة مترابطة",
         "options": [
-            "'interrelated activities'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "interrelated activities",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'interrelated activities'"
+        "answer": "interrelated activities"
     },
     {
         "question": "البنية التحتية",
         "options": [
-            "'infrastructure'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "infrastructure",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'infrastructure'"
+        "answer": "infrastructure"
     },
     {
         "question": "العملاء التجريبيون",
         "options": [
-            "'pilot customers'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "pilot customers",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'pilot customers'"
+        "answer": "pilot customers"
     },
     {
         "question": "القيمة الحالية الصافية",
         "options": [
-            "'net present value (NPV)'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "net present value (NPV)",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'net present value (NPV)'"
+        "answer": "net present value (NPV)"
     },
     {
         "question": "معدل العائد الداخلي",
         "options": [
-            "'internal rate of return (IRR)'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "internal rate of return (IRR)",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'internal rate of return (IRR)'"
+        "answer": "internal rate of return (IRR)"
     },
     {
         "question": "التركيب (في الفائدة أو الخصم)",
         "options": [
-            "'compounding'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "compounding",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'compounding'"
+        "answer": "compounding"
     },
     {
         "question": "راعي المشروع / مجلس المشروع",
         "options": [
-            "'project sponsor / board'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "project sponsor / board",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'project sponsor / board'"
+        "answer": "project sponsor / board"
     },
     {
         "question": "قابل للتنبؤ به",
         "options": [
-            "'forecastable'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "forecastable",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'forecastable'"
+        "answer": "forecastable"
     },
     {
         "question": "المتطلبات السابقة (قبل البدء)",
         "options": [
-            "'precedent requirements'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "precedent requirements",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'precedent requirements'"
+        "answer": "precedent requirements"
     },
     {
         "question": "التقليل من التقدير",
         "options": [
-            "'underestimation'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "underestimation",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'underestimation'"
+        "answer": "underestimation"
     },
     {
         "question": "المخرجات المتوقعة للمشروع",
         "options": [
-            "'deliverables'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "deliverables",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'deliverables'"
+        "answer": "deliverables"
     },
     {
         "question": "اختيار السيناريو",
         "options": [
-            "'scenario choice'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "scenario choice",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'scenario choice'"
+        "answer": "scenario choice"
     },
     {
         "question": "وقت اتخاذ القرار",
         "options": [
-            "'decision lead time'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "decision lead time",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'decision lead time'"
+        "answer": "decision lead time"
     },
     {
         "question": "الأثر المالي بمرور الوقت",
         "options": [
-            "'financial impact over time'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "financial impact over time",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'financial impact over time'"
+        "answer": "financial impact over time"
     },
     {
         "question": "مخصصات المخاطر",
         "options": [
-            "'risk allowances'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "risk allowances",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'risk allowances'"
+        "answer": "risk allowances"
     },
     {
         "question": "الاحتمالات",
         "options": [
-            "'probabilities'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "probabilities",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'probabilities'"
+        "answer": "probabilities"
     },
     {
         "question": "الاحتمالات",
         "options": [
-            "'probabilities'",
-            "'premium'",
-            "'consistency'",
-            "'proposal'"
+            "probabilities",
+            "premium",
+            "consistency",
+            "proposal"
         ],
-        "answer": "'probabilities'"
+        "answer": "probabilities"
     },
     {
         "question": "تراكم",
@@ -4368,7 +5199,6 @@
         ],
         "answer": "ongoing"
     },
-   
     {
         "question": "إتقان",
         "options": [

@@ -1,5 +1,94 @@
 [
     {
+        "question": "rebels",
+        "options": ["ثوار", "ملوك", "تجار", "طلاب"],
+        "answer": "ثوار"
+    },
+    {
+        "question": "copper",
+        "options": ["نحاس", "ذهب", "حديد", "خشب"],
+        "answer": "نحاس"
+    },
+    {
+        "question": "coils",
+        "options": ["لفائف", "صخور", "كرات", "ألواح"],
+        "answer": "لفائف"
+    },
+    {
+        "question": "conditioning",
+        "options": ["تهيئة", "تخريب", "تجميد", "تحريك"],
+        "answer": "تهيئة"
+    },
+    {
+        "question": "territory",
+        "options": ["إقليم", "قارة", "نهر", "مزرعة"],
+        "answer": "إقليم"
+    },
+    {
+        "question": "brutal",
+        "options": ["وحشي", "لطيف", "ذكي", "ضعيف"],
+        "answer": "وحشي"
+    },
+    {
+        "question": "dictator",
+        "options": ["دكتاتور", "رئيس منتخب", "قائد جماعي", "وزير"],
+        "answer": "دكتاتور"
+    },
+    {
+        "question": "poultry",
+        "options": ["دواجن", "أبقار", "أسماك", "أغنام"],
+        "answer": "دواجن"
+    },
+    {
+        "question": "jews",
+        "options": ["يهود", "نصارى", "مسلمون", "بوذيون"],
+        "answer": "يهود"
+    },
+    {
+        "question": "nearly",
+        "options": ["تقريباً", "أبداً", "تماماً", "نادراً"],
+        "answer": "تقريباً"
+    },
+    {
+        "question": "motability",
+        "options": ["القدرة على الحركة", "العمى", "الكسل", "الثبات"],
+        "answer": "القدرة على الحركة"
+    },
+    {
+        "question": "criteria",
+        "options": ["معايير", "مفاهيم", "أهداف", "أدوات"],
+        "answer": "معايير"
+    },
+    {
+        "question": "Flagship",
+        "options": ["الرائد", "تابع", "قديم", "مؤقت"],
+        "answer": "الرائد"
+    },
+    {
+        "question": "dome",
+        "options": ["قبة", "مئذنة", "برج", "شباك"],
+        "answer": "قبة"
+    },
+    {
+        "question": "interpreter",
+        "options": ["مترجم", "كاتب", "رسام", "مصور"],
+        "answer": "مترجم"
+    },
+    {
+        "question": "Harnessing",
+        "options": ["تسخير، استغلال، استخدام بفعالية", "تضييع", "إهمال", "تجريب"],
+        "answer": "تسخير، استغلال، استخدام بفعالية"
+    },
+    {
+        "question": "Elevate",
+        "options": ["رفع", "سحب", "كسر", "دفع"],
+        "answer": "رفع"
+    },
+    {
+        "question": "laboratory",
+        "options": ["مختبر", "مكتب", "صف", "مكتبة"],
+        "answer": "مختبر"
+    },{
         "question": "tender",
         "options": [
             "مناقصة",

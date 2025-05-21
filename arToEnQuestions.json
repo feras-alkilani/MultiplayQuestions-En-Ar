@@ -1,5 +1,94 @@
 [
-    {
+   {
+    "question": " متمردون , ثوار",
+    "options": ["fighters", "rebels", "scholars", "tourists"],
+    "answer": "rebels"
+  },
+  {
+    "question": "نحاس",
+    "options": ["metal", "gold", "wood", "copper"],
+    "answer": "copper"
+  },
+  {
+    "question": "لفائف",
+    "options": ["coils", "sheets", "planks", "bolts"],
+    "answer": "coils"
+  },
+  {
+    "question": "تهيئة أو تكييف",
+    "options": ["training", "conditioning", "punishing", "judging"],
+    "answer": "conditioning"
+  },
+  {
+    "question": "إقليم، منطقة",
+    "options": ["location", "border", "territory", "neighbor"],
+    "answer": "territory"
+  },
+  {
+    "question": "وحشي، قاسٍ",
+    "options": ["brutal", "kind", "tired", "gentle"],
+    "answer": "brutal"
+  },
+  {
+    "question": "ديكتاتور",
+    "options": ["king", "dictator", "mayor", "president"],
+    "answer": "dictator"
+  },
+  {
+    "question": "دواجن",
+    "options": ["poultry", "fish", "meat", "beef"],
+    "answer": "poultry"
+  },
+  {
+    "question": "اليهود",
+    "options": ["arabs", "jews", "greeks", "turks"],
+    "answer": "jews"
+  },
+  {
+    "question": "تقريبًا",
+    "options": ["completely", "partially", "exactly", "nearly"],
+    "answer": "nearly"
+  },
+  {
+    "question": "قابلية الحركة",
+    "options": ["flexibility", "motability", "mobility", "motion"],
+    "answer": "motability"
+  },
+  {
+    "question": "معايير",
+    "options": ["criteria", "results", "options", "values"],
+    "answer": "criteria"
+  },
+  {
+    "question": "الأكثر تميزًا أو رائد",
+    "options": ["model", "sample", "Flagship", "basic"],
+    "answer": "Flagship"
+  },
+  {
+    "question": "قبة",
+    "options": ["roof", "dome", "tower", "tent"],
+    "answer": "dome"
+  },
+  {
+    "question": "مترجم فوري",
+    "options": ["speaker", "interpreter", "listener", "writer"],
+    "answer": "interpreter"
+  },
+  {
+    "question": "تسخير، استغلال، استخدام بفعالية",
+    "options": ["wasting", "harnessing", "ignoring", "breaking"],
+    "answer": "harnessing"
+  },
+  {
+    "question": "رفع، تحسين",
+    "options": ["Elevate", "drop", "lower", "reduce"],
+    "answer": "Elevate"
+  },
+  {
+    "question": "مختبر",
+    "options": ["clinic", "office", "laboratory", "warehouse"],
+    "answer": "laboratory"
+  } ,{
         "question": "مناقصة",
         "options": [
             "tender",

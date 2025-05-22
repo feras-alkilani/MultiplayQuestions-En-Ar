@@ -1,5 +1,194 @@
 [
    {
+    "question": "تقدير",
+    "options": ["ignore", "punish", "recognition", "mislead"],
+    "answer": "recognition"
+  },
+  {
+    "question": "مهندس معماري",
+    "options": ["engineer", "architect", "builder", "designer"],
+    "answer": "architect"
+  },
+  {
+    "question": "جولات تعليمية",
+    "options": ["walkthroughs", "lectures", "readings", "flights"],
+    "answer": "walkthroughs"
+  },
+  {
+    "question": "بقيادة خبير",
+    "options": ["random", "guest-led", "expert-led", "user-led"],
+    "answer": "expert-led"
+  },
+  {
+    "question": "أهم النقاط",
+    "options": ["takeaways", "advertisements", "introductions", "scripts"],
+    "answer": "takeaways"
+  },
+  {
+    "question": "ينزع",
+    "options": ["add", "peel off", "stick", "cover"],
+    "answer": "peel off"
+  },
+  {
+    "question": "غير ملزم",
+    "options": ["compulsory", "mandatory", "non-binding", "official"],
+    "answer": "non-binding"
+  },
+  {
+    "question": "يمسك (فعل)",
+    "options": ["grap", "run", "fold", "jump"],
+    "answer": "grap"
+  },
+  {
+    "question": "قبضة (اسم)",
+    "options": ["grab", "slide", "push", "bend"],
+    "answer": "grab"
+  },
+  {
+    "question": "متميز",
+    "options": ["distinguished", "average", "common", "mediocre"],
+    "answer": "distinguished"
+  },
+  {
+    "question": "كشك",
+    "options": ["room", "booth", "hall", "seat"],
+    "answer": "booth"
+  },
+  {
+    "question": "فضولي",
+    "options": ["bored", "tired", "curious", "lazy"],
+    "answer": "curious"
+  },
+  {
+    "question": "يراجع",
+    "options": ["revise", "delete", "copy", "forget"],
+    "answer": "revise"
+  },
+  {
+    "question": "إعلان",
+    "options": ["note", "advert", "comment", "plan"],
+    "answer": "advert"
+  },
+  {
+    "question": "تنازل",
+    "options": ["refusal", "compromise", "comprossery", "resistance"],
+    "answer": "comprossery"
+  },
+  {
+    "question": "مفاوضات",
+    "options": ["negotiations", "debates", "orders", "instructions"],
+    "answer": "negagotions"
+  },
+  {
+    "question": "رمح - حربة",
+    "options": ["spear", "lans", "stick", "arrow"],
+    "answer": "lans"
+  },
+  {
+    "question": "يستعيد",
+    "options": ["lose", "reclaim", "hide", "ignore"],
+    "answer": "reclaim"
+  },
+  {
+    "question": "عيب - سلبية",
+    "options": ["feature", "drawback", "benefit", "advantage"],
+    "answer": "drawback"
+  },
+  {
+    "question": "دعم",
+    "options": ["championed", "rejected", "avoided", "ignored"],
+    "answer": "championed"
+  },
+  {
+    "question": "يجسد",
+    "options": ["hide", "embodying", "separate", "remove"],
+    "answer": "embodying"
+  },
+  {
+    "question": "ترميز",
+    "options": ["notation", "rotation", "motion", "emotion"],
+    "answer": "notation"
+  },
+  {
+    "question": "يُقال",
+    "options": ["confirmed", "it is said", "guaranteed", "witnessed"],
+    "answer": "It is said"
+  },
+  {
+    "question": "تجربة مكررة",
+    "options": ["unique", "cookie-cutter", "random", "open-ended"],
+    "answer": "cookie-cutter"
+  },
+  {
+    "question": "يحل",
+    "options": ["delay", "pause", "resolve", "freeze"],
+    "answer": "resolve - solve"
+  },
+  {
+    "question": "شخصية افتراضية",
+    "options": ["avatar", "persona", "ghost", "clone"],
+    "answer": "persona"
+  },
+  {
+    "question": "أساسي",
+    "options": ["optional", "secondary", "fundamental", "complex"],
+    "answer": "fundamental"
+  },
+  {
+    "question": "حفرة",
+    "options": ["pothole", "rock", "path", "turn"],
+    "answer": "pothole"
+  },
+  {
+    "question": "حطام",
+    "options": ["dust", "debris", "crystals", "fog"],
+    "answer": "debris"
+  },
+  {
+    "question": "آخر سؤال حتى الآن",
+    "options": ["last answer", "finished", "last question so far", "next"],
+    "answer": "last question so far"
+  },
+  {
+    "question": "إلحاح",
+    "options": ["urgency", "delay", "option", "patience"],
+    "answer": "urgency"
+  },
+  {
+    "question": "عاجل",
+    "options": ["urgent", "lazy", "calm", "later"],
+    "answer": "urgent"
+  },
+  {
+    "question": "مخطط",
+    "options": ["plan", "blueprint", "design", "paper"],
+    "answer": "blueprint"
+  },
+  {
+    "question": "إقراض",
+    "options": ["borrowing", "stealing", "lending", "sharing"],
+    "answer": "lending"
+  },
+  {
+    "question": "مُلح",
+    "options": ["later", "propt", "delayed", "forgotten"],
+    "answer": "propt"
+  },
+  {
+    "question": "محفز",
+    "options": ["instulant", "delay", "barrier", "pause"],
+    "answer": "instulant"
+  },
+  {
+    "question": "مدى الإغلاق",
+    "options": ["How locked", "how open", "when closed", "fully locked"],
+    "answer": "How locked"
+  },
+  {
+    "question": "إرث",
+    "options": ["legacy", "trend", "habit", "pattern"],
+    "answer": "legacy"
+  },{
     "question": " متمردون , ثوار",
     "options": ["fighters", "rebels", "scholars", "tourists"],
     "answer": "rebels"

@@ -1,191 +1,191 @@
 [
    {
-    "question": " 'recognition'",
+    "question": "recognition",
     "options": ["تقدير", "إهانة", "نسيان", "رفض"],
     "answer": "تقدير"
   },
   {
-    "question": " 'architect'",
+    "question": "architect",
     "options": ["مهندس معماري", "نجار", "بائع", "طبيب"],
     "answer": "مهندس معماري"
   },
   {
-    "question": " 'walkthroughs'",
+    "question": "walkthroughs",
     "options": ["جولات توضيحية", "مباريات", "مغامرات", "صفقات"],
     "answer": "جولات توضيحية"
   },
   {
-    "question": " 'expert-led'",
+    "question": "expert-led",
     "options": ["بقيادة خبير", "عشوائي", "تجريبي", "مبتدئ"],
     "answer": "بقيادة خبير"
   },
   {
-    "question": " 'takeaways'",
+    "question": "takeaways",
     "options": ["نقاط مستفادة", "وجبات جاهزة", "خسائر", "مواقف"],
     "answer": "نقاط مستفادة"
   },
   {
-    "question": " 'peel off'",
+    "question": "peel off",
     "options": ["ينفصل", "يلتصق", "يتوسع", "ينكمش"],
     "answer": "ينفصل"
   },
   {
-    "question": " 'non-binding'",
+    "question": "non-binding",
     "options": ["غير ملزم", "ملزم", "صارم", "قانوني"],
     "answer": "غير ملزم"
   },
   {
-    "question": " 'grap (Verb)'",
+    "question": "grap (Verb)",
     "options": ["يمسك", "يهرب", "يرمي", "ينكر"],
     "answer": "يمسك"
   },
   {
-    "question": " 'grab (name)'",
+    "question": "grab (name)",
     "options": ["إمساك", "سرعة", "بداية", "طلب"],
     "answer": "إمساك"
   },
   {
-    "question": " 'distinguished'",
+    "question": "distinguished",
     "options": ["بارز", "عادي", "مغمور", "جديد"],
     "answer": "بارز"
   },
   {
-    "question": " 'booth'",
+    "question": "booth",
     "options": ["كشك", "مدرج", "قاعة", "طاولة"],
     "answer": "كشك"
   },
   {
-    "question": " 'Curious'",
+    "question": "Curious",
     "options": ["فضولي", "غير مهتم", "مرتبك", "متوتر"],
     "answer": "فضولي"
   },
   {
-    "question": " 'revise'",
+    "question": "revise",
     "options": ["يراجع", "ينسخ", "يكتب", "يحذف"],
     "answer": "يراجع"
   },
   {
-    "question": " 'advert'",
+    "question": "advert",
     "options": ["إعلان", "مقال", "رسالة", "تقرير"],
     "answer": "إعلان"
   },
   {
-    "question": " 'comprossery'",
+    "question": "comprossery",
     "options": ["إجباري", "اختياري", "تجريبي", "غير ملزم"],
     "answer": "إجباري"
   },
   {
-    "question": " 'negagotions'",
+    "question": "negagotions",
     "options": ["مفاوضات", "أحداث", "مشاكل", "نقاشات عامة"],
     "answer": "مفاوضات"
   },
   {
-    "question": " 'lans'",
+    "question": "lans",
     "options": ["رمح - حربة", "بندقية", "درع", "سكين"],
     "answer": "رمح - حربة"
   },
   {
-    "question": " 'reclaim'",
+    "question": "reclaim",
     "options": ["يستعيد", "يرمي", "يفقد", "يترك"],
     "answer": "يستعيد"
   },
   {
-    "question": " 'drawback'",
+    "question": "drawback",
     "options": ["عيب", "ميزة", "فرصة", "تطور"],
     "answer": "عيب"
   },
   {
-    "question": " 'champoined'",
+    "question": "champoined",
     "options": ["دافع عن", "انتقد", "رفض", "أهمل"],
     "answer": "دافع عن"
   },
   {
-    "question": " 'embodying'",
+    "question": "embodying",
     "options": ["يجسد", "يقلد", "يخفي", "يراقب"],
     "answer": "يجسد"
   },
   {
-    "question": " 'notation'",
+    "question": "notation",
     "options": ["ترميز", "رسم", "موسيقى", "نقش"],
     "answer": "ترميز"
   },
   {
-    "question": " 'It is said'",
+    "question": "It is said",
     "options": ["يُقال", "يُنفذ", "يُحظر", "يُطلب"],
     "answer": "يُقال"
   },
   {
-    "question": " 'cookie-cutter'",
+    "question": "cookie-cutter",
     "options": ["تجربة مكررة", "فريدة", "معقدة", "عشوائية"],
     "answer": "تجربة مكررة"
   },
   {
-    "question": " 'resolve - solve'",
+    "question": "resolve - solve",
     "options": ["يحل", "يتجاهل", "يؤجل", "يعقد"],
     "answer": "يحل"
   },
   {
-    "question": " 'persona'",
+    "question": "persona",
     "options": ["شخصية", "مهنة", "شكل", "رأي"],
     "answer": "شخصية"
   },
   {
-    "question": " 'fundamental'",
+    "question": "fundamental",
     "options": ["أساسي", "فرعي", "قديم", "مكرر"],
     "answer": "أساسي"
   },
   {
-    "question": " 'pothole'",
+    "question": "pothole",
     "options": ["حفرة", "مطب", "قناة", "شارع"],
     "answer": "حفرة"
   },
   {
-    "question": " 'debris'",
+    "question": "debris",
     "options": ["حطام", "مواد", "هواء", "ضوء"],
     "answer": "حطام"
   },
   {
-    "question": " 'last question so far'",
+    "question": "last question so far",
     "options": ["آخر سؤال حتى الآن", "سؤال مكرر", "السؤال الأول", "كل الأسئلة"],
     "answer": "آخر سؤال حتى الآن"
   },
   {
-    "question": " 'urgency'",
+    "question": "urgency",
     "options": ["إلحاح", "تأجيل", "أهمية بسيطة", "بطء"],
     "answer": "إلحاح"
   },
   {
-    "question": " 'urgent'",
+    "question": "urgent",
     "options": ["عاجل", "متأخر", "مؤجل", "غير مهم"],
     "answer": "عاجل"
   },
   {
-    "question": " 'blueprint'",
+    "question": "blueprint",
     "options": ["مخطط", "خريطة", "فكرة", "صورة"],
     "answer": "مخطط"
   },
   {
-    "question": " 'lending'",
+    "question": "lending",
     "options": ["إقراض", "اقتراض", "دفع", "شراء"],
     "answer": "إقراض"
   },
   {
-    "question": " 'propt'",
+    "question": "propt",
     "options": ["حافز", "تأخير", "تهديد", "طلب"],
     "answer": "حافز"
   },
   {
-    "question": " 'instulant'",
+    "question": "instulant",
     "options": ["منشط", "مهدئ", "مثبط", "مخدر"],
     "answer": "منشط"
   },
   {
-    "question": " 'How locked'",
+    "question": "How locked",
     "options": ["مدى الإغلاق", "كمية الأمان", "مكان المفتاح", "كيفية الفتح"],
     "answer": "مدى الإغلاق"
   },
   {
-    "question": " 'legacy'",
+    "question": "legacy",
     "options": ["إرث", "تاريخ", "حدث", "حاضر"],
     "answer": "إرث"
   } ,{

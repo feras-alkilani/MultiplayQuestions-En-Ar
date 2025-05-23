@@ -58,7 +58,7 @@ body {
 }
 
 #enToAr,
-#arToEn {
+#arToEn,#duToEn {
   height: 250px;
   width: 250px;
   font-size: 50px;

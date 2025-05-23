@@ -71,7 +71,8 @@ body {
 }
 
 #enToAr:hover,
-#arToEn:hover {
+#arToEn:hoverو
+#duToEn:hover {
   background-color: #00BFFF; 
   color: #ffeb3b;
   cursor: pointer;

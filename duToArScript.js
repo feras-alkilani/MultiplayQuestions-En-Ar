@@ -1,5 +1,3 @@
-
-
 // to make the randomly answers
 function shuffleOptions(array) {
   for (let i = array.length - 1; i > 0; i--) {
@@ -48,9 +46,19 @@ function renderQuiz(questions) {
     const questionDiv = document.createElement("div");
     questionDiv.classList.add("question-container");
 
-    const questionText = document.createElement("p");
+    const questionText = document.createElement("button");
     questionText.classList.add("question");
+
+    let word = q.question.toLowerCase();
+    q.audio = `https://api.dictionaryapi.dev/media/pronunciations/en/${word}-us.mp3`;
+
+    questionText.onclick = () => {
+      const audio = new Audio(q.audio);
+      audio.play();
+    };
+
     questionText.innerText = `${index + 1} - ${q.question}`;
+
     questionDiv.appendChild(questionText);
 
     // mix the options

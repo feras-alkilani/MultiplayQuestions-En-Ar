@@ -1,4 +1,4 @@
-[{
+{
   "question": "allebei",
   "options": [
     "كلاهما",
@@ -5211,108 +5211,15 @@
     ],
     "answer": "يستمر"
 },
-{
-    "question": "het huisbezoek",
-    "options": [
-        "زيارة منزلية",
-        "يطلب",
-        "مرهم",
-        "مرهم"
-    ],
-    "answer": "زيارة منزلية"
-},
-{
-    "question": "het medicijn",
-    "options": [
-        "دواء",
-        "مرهم",
-        "مرهم",
-        "مرهم"
-    ],
-    "answer": "دواء"
-},
-{
-    "question": "het spoedgeval",
-    "options": [
-        "حالة طارئة",
-        "مرهم",
-        "مرهم",
-        "مرهم"
-    ],
-    "answer": "حالة طارئة"
-},
-{
-    "question": "het spreekuur",
-    "options": [
-        "ساعات العمل",
-        "مرهم",
-        "مرهم",
-        "مرهم"
-    ],
-    "answer": "ساعات العمل"
-},
-{
-    "question": "het weekend",
-    "options": [
-        "عطلة نهاية الأسبوع",
-        "مرهم",
-        "مرهم",
-        "مرهم"
-    ],
-    "answer": "عطلة نهاية الأسبوع"
-},
-
-{
-    "question": "tussen",
-    "options": [
-        "بين",
-        "مرهم",
-        "مرهم",
-        "مرهم"
-    ],
-    "answer": "بين"
-},
-{
-    "question": "verkouden",
-    "options": [
-        "نزلة برد",
-        "مرهم",
-        "مرهم",
-        "مرهم"
-    ],
-    "answer": "نزلة برد"
-},
-{
-    "question": "zeggen tegen",
-    "options": [
-        "يخبر",
-        "مرهم",
-        "مرهم",
-        "مرهم"
-    ],
-    "answer": "يخبر"
-},
-{
-    "question": "blijven",
-    "options": [
-        "يبقى",
-        "مرهم",
-        "مرهم",
-        "مرهم"
-    ],
-    "answer": "يبقى"
-},
-{
-    "question": "de buikpijn",
-    "options": [
-        "ألم في البطن",
-        "مرهم",
-        "مرهم",
-        "مرهم"
-    ],
-    "answer": "ألم في البطن"
-}
 
 
 
-]
+
+
+
+
+
+
+
+
+

@@ -1,5 +1,219 @@
 [
-   {
+    {
+    "question": "مثير للإزعاج",
+    "options": ["pleasant", "boost", "irritant", "inferior"],
+    "answer": "irritant"
+  },
+  {
+    "question": "بصعوبة",
+    "options": ["barely", "afford", "swinging", "varies"],
+    "answer": "barely"
+  },
+  {
+    "question": "ممتع",
+    "options": ["pleasant", "inferior", "elimination of", "apparatus"],
+    "answer": "pleasant"
+  },
+  {
+    "question": "دراجة نارية صغيرة",
+    "options": ["moped", "cyclist", "lawn", "mower"],
+    "answer": "moped"
+  },
+  {
+    "question": "في هذه الأثناء",
+    "options": ["meanwhile", "instant", "coincidence", "fixed income"],
+    "answer": "meanwhile"
+  },
+  {
+    "question": "يقنع",
+    "options": ["convinces", "inferior", "ruler", "revokes"],
+    "answer": "convinces"
+  },
+  {
+    "question": "راكب دراجة",
+    "options": ["cyclist", "moped", "widow", "barely"],
+    "answer": "cyclist"
+  },
+  {
+    "question": "مضطرب",
+    "options": ["disrupted", "coincidence", "apparatus", "territorries"],
+    "answer": "disrupted"
+  },
+  {
+    "question": "يواجه (بالهولندية)",
+    "options": ["confronteert", "recognize", "ruler", "nailing"],
+    "answer": "confronteert"
+  },
+  {
+    "question": "يلغي",
+    "options": ["revokes", "legitimacy", "obligation", "foremost"],
+    "answer": "revokes"
+  },
+  {
+    "question": "طلاب دوليين",
+    "options": ["intl students", "barely", "coincidence", "boost"],
+    "answer": "intl students"
+  },
+  {
+    "question": "يعزز",
+    "options": ["boost", "inferior", "afford", "anomaly"],
+    "answer": "boost"
+  },
+  {
+    "question": "التزام",
+    "options": ["obligation", "recognize", "apparatus", "mower"],
+    "answer": "obligation"
+  },
+  {
+    "question": "مصادفة",
+    "options": ["coincidence", "anomaly", "swinging", "meanwhile"],
+    "answer": "coincidence"
+  },
+  {
+    "question": "يتنوع",
+    "options": ["varies", "afford", "liberate", "swerving"],
+    "answer": "varies"
+  },
+  {
+    "question": "تعاني من",
+    "options": ["struggling with", "fixed income", "tresspassing", "instant"],
+    "answer": "struggling with"
+  },
+  {
+    "question": "قليل القيمة",
+    "options": ["inferior", "superior", "boost", "revokes"],
+    "answer": "inferior"
+  },
+  {
+    "question": "عال القيمة",
+    "options": ["superior", "inferior", "widow", "fixed income"],
+    "answer": "superior"
+  },
+  {
+    "question": "مجرد من السلاح",
+    "options": ["disarmed", "afford", "barely", "get fiend"],
+    "answer": "disarmed"
+  },
+  {
+    "question": "شذوذ / حالة غير طبيعية",
+    "options": ["anomaly", "legitimacy", "instant", "foremost"],
+    "answer": "anomaly"
+  },
+  {
+    "question": "ينتهك",
+    "options": ["infringing", "recognize", "cyclist", "destruction"],
+    "answer": "infringing"
+  },
+  {
+    "question": "يحرر",
+    "options": ["liberate", "mower", "apparatus", "obligation"],
+    "answer": "liberate"
+  },
+  {
+    "question": "أراضٍ",
+    "options": ["territorries", "barely", "revokes", "coincidence"],
+    "answer": "territorries"
+  },
+  {
+    "question": "منهجي",
+    "options": ["systematic", "instant", "get fiend", "recognize"],
+    "answer": "systematic"
+  },
+  {
+    "question": "تدمير",
+    "options": ["destruction", "liberate", "afford", "swerving"],
+    "answer": "destruction"
+  },
+  {
+    "question": "إزالة",
+    "options": ["elimination of", "recognize", "fixed income", "superior"],
+    "answer": "elimination of"
+  },
+  {
+    "question": "يعترف بـ",
+    "options": ["recognize", "convinces", "tresspassing", "foremost"],
+    "answer": "recognize"
+  },
+  {
+    "question": "الشرعية",
+    "options": ["legitimacy", "apparatus", "swinging", "barely"],
+    "answer": "legitimacy"
+  },
+  {
+    "question": "حاكم",
+    "options": ["ruler", "revokes", "inferior", "fixed income"],
+    "answer": "ruler"
+  },
+  {
+    "question": "يدمج",
+    "options": ["incorporate", "inferior", "anomaly", "revokes"],
+    "answer": "incorporate"
+  },
+  {
+    "question": "جهاز / أداة",
+    "options": ["apparatus", "instant", "cardboard", "territorries"],
+    "answer": "apparatus"
+  },
+  {
+    "question": "الأبرز",
+    "options": ["foremost", "coincidence", "get fiend", "tresspassing"],
+    "answer": "foremost"
+  },
+  {
+    "question": "كرتون",
+    "options": ["cardboard", "swinging", "fixed income", "boost"],
+    "answer": "cardboard"
+  },
+  {
+    "question": "ينحرف عن الطريق",
+    "options": ["swerving", "mower", "superior", "instant"],
+    "answer": "swerving"
+  },
+  {
+    "question": "فوري",
+    "options": ["instant", "barely", "revokes", "apparatus"],
+    "answer": "instant"
+  },
+  {
+    "question": "يستطيع تحمل التكاليف",
+    "options": ["afford", "liberate", "recognize", "foremost"],
+    "answer": "afford"
+  },
+  {
+    "question": "أرملة",
+    "options": ["widow", "territorries", "barely", "moped"],
+    "answer": "widow"
+  },
+  {
+    "question": "عشب الحديقة",
+    "options": ["lawn", "fixed income", "anomaly", "incorporate"],
+    "answer": "lawn"
+  },
+  {
+    "question": "دخل ثابت",
+    "options": ["fixed income", "coincidence", "barely", "obligation"],
+    "answer": "fixed income"
+  },
+  {
+    "question": "يحصل على صديق/رفيق",
+    "options": ["get fiend", "instant", "revokes", "superior"],
+    "answer": "get fiend"
+  },
+  {
+    "question": "يتأرجح",
+    "options": ["swinging", "fixed income", "legitimacy", "territorries"],
+    "answer": "swinging"
+  },
+  {
+    "question": "آلة جز العشب",
+    "options": ["mower", "cyclist", "afford", "cardboard"],
+    "answer": "mower"
+  },
+  {
+    "question": "تعدٍ على ممتلكات الغير",
+    "options": ["tresspassing", "elimination of", "pleasant", "disarmed"],
+    "answer": "tresspassing"
+  },{
     "question": "تقدير",
     "options": ["ignore", "punish", "recognition", "mislead"],
     "answer": "recognition"

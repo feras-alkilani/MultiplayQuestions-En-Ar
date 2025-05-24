@@ -58,7 +58,9 @@ body {
 }
 
 #enToAr,
-#arToEn,#duToEn {
+#arToEn,
+#duToEn,
+#duToAr {
   height: 250px;
   width: 250px;
   font-size: 50px;
@@ -71,8 +73,10 @@ body {
 }
 
 #enToAr:hover,
-#arToEn:hoverو
-#duToEn:hover {
+#arToEn:hover,
+#duToEn:hover,
+#duToAr:hover
+ {
   background-color: #00BFFF; 
   color: #ffeb3b;
   cursor: pointer;

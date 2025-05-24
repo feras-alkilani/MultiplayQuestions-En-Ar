@@ -1,5 +1,218 @@
 [
    {
+        "question": "Irritant",
+        "options": ["مُسبب تهيج", "مُسكن", "مُهدئ", "مغذي"],
+        "answer": "مُسبب تهيج"
+    },
+    {
+        "question": "Barely",
+        "options": ["بالكاد", "بوضوح", "دائمًا", "فجأة"],
+        "answer": "بالكاد"
+    },
+    {
+        "question": "Pleasant",
+        "options": ["لطيف", "مزعج", "عنيف", "مؤلم"],
+        "answer": "لطيف"
+    },
+    {
+        "question": "Moped",
+        "options": ["دراجة نارية صغيرة", "طائرة", "سفينة", "سيارة"],
+        "answer": "دراجة نارية صغيرة"
+    },
+    {
+        "question": "Meanwhile",
+        "options": ["في هذه الأثناء", "لاحقًا", "سابقًا", "بسبب"],
+        "answer": "في هذه الأثناء"
+    },
+    {
+        "question": "convinces",
+        "options": ["يقنع", "يعارض", "يهرب", "يتجاهل"],
+        "answer": "يقنع"
+    },
+    {
+        "question": "cyclist",
+        "options": ["راكب دراجة", "سائق شاحنة", "راكب حصان", "بحار"],
+        "answer": "راكب دراجة"
+    },
+    {
+        "question": "disrupted",
+        "options": ["عطّل", "نظم", "أصلح", "بنى"],
+        "answer": "عطّل"
+    },
+    {
+        "question": "confronteert",
+        "options": ["يواجه", "يهرب", "يخفي", "يتجاهل"],
+        "answer": "يواجه"
+    },
+    {
+        "question": "revokes",
+        "options": ["يلغي", "يوافق", "يؤيد", "يمنح"],
+        "answer": "يلغي"
+    },
+    {
+        "question": "intl students",
+        "options": ["طلاب دوليين", "طلاب محليين", "مدرسين", "مهاجرين"],
+        "answer": "طلاب دوليين"
+    },
+    {
+        "question": "boost",
+        "options": ["يعزز", "يقلل", "يمنع", "يتجاهل"],
+        "answer": "يعزز"
+    },
+    {
+        "question": "obligation",
+        "options": ["التزام", "اختيار", "هواية", "مزاج"],
+        "answer": "التزام"
+    },
+    {
+        "question": "coincidence",
+        "options": ["مصادفة", "قصد", "خطة", "تنسيق"],
+        "answer": "مصادفة"
+    },
+    {
+        "question": "varies",
+        "options": ["يتنوع", "يثبت", "يتكرر", "يتراجع"],
+        "answer": "يتنوع"
+    },
+    {
+        "question": "disarmed",
+        "options": ["نزع السلاح", "هاجم", "سلّح", "استعد"],
+        "answer": "نزع السلاح"
+    },
+    {
+        "question": "anomaly",
+        "options": ["شذوذ", "نمط", "قاعدة", "روتين"],
+        "answer": "شذوذ"
+    },
+    {
+        "question": "infringing",
+        "options": ["انتهاك", "احترام", "تنفيذ", "تطبيق"],
+        "answer": "انتهاك"
+    },
+    {
+        "question": "liberate",
+        "options": ["يحرر", "يستعبد", "يمنع", "يقيد"],
+        "answer": "يحرر"
+    },
+    {
+        "question": "territorries",
+        "options": ["أقاليم", "أشخاص", "أهداف", "أسلحة"],
+        "answer": "أقاليم"
+    },
+    {
+        "question": "systematic",
+        "options": ["منهجي", "عشوائي", "عفوي", "مرتبك"],
+        "answer": "منهجي"
+    },
+    {
+        "question": "destruction",
+        "options": ["تدمير", "إصلاح", "بناء", "تطوير"],
+        "answer": "تدمير"
+    },
+    {
+        "question": "elimination of",
+        "options": ["إزالة", "إضافة", "حفظ", "دعم"],
+        "answer": "إزالة"
+    },
+    {
+        "question": "recognize",
+        "options": ["يعترف", "ينكر", "يتجاهل", "يتردد"],
+        "answer": "يعترف"
+    },
+    {
+        "question": "legitimacy",
+        "options": ["شرعية", "باطل", "احتيال", "كذب"],
+        "answer": "شرعية"
+    },
+    {
+        "question": "ruler",
+        "options": ["حاكم", "مواطن", "شرطي", "جندي"],
+        "answer": "حاكم"
+    },
+    {
+        "question": "incorporate",
+        "options": ["يُدرج", "يفصل", "يحذف", "يتجنب"],
+        "answer": "يُدرج"
+    },
+    {
+        "question": "apparatus",
+        "options": ["جهاز", "مادة", "خريطة", "أداة"],
+        "answer": "جهاز"
+    },
+    {
+        "question": "foremost",
+        "options": ["الأهم", "الأخير", "الأقل", "العادي"],
+        "answer": "الأهم"
+    },
+    {
+        "question": "cardboard",
+        "options": ["كرتون", "قماش", "زجاج", "خشب"],
+        "answer": "كرتون"
+    },
+    {
+        "question": "swerving",
+        "options": ["الانحراف", "التوقف", "الثبات", "العبور"],
+        "answer": "الانحراف"
+    },
+    {
+        "question": "instant",
+        "options": ["فوري", "متأخر", "بطيء", "نادر"],
+        "answer": "فوري"
+    },
+    {
+        "question": "afford",
+        "options": ["يستطيع تحمل", "يتجاهل", "يرفض", "يمنع"],
+        "answer": "يستطيع تحمل"
+    },
+    {
+        "question": "widow",
+        "options": ["أرملة", "خطيبة", "زوجة", "أم"],
+        "answer": "أرملة"
+    },
+    {
+        "question": "lawn",
+        "options": ["عشب", "شارع", "رمل", "شجر"],
+        "answer": "عشب"
+    },
+    {
+        "question": "fixed income",
+        "options": ["دخل ثابت", "ربح متغير", "دين مرتفع", "أموال إضافية"],
+        "answer": "دخل ثابت"
+    },
+    {
+        "question": "get fiend",
+        "options": ["يحصل على صديق", "يخسر المال", "يرتكب خطأ", "يذهب للعمل"],
+        "answer": "يحصل على صديق"
+    },
+    {
+        "question": "swinging",
+        "options": ["يتأرجح", "يتوقف", "يندفع", "يقفز"],
+        "answer": "يتأرجح"
+    },
+    {
+        "question": "mower",
+        "options": ["آلة جز العشب", "مطرقة", "مجرفة", "مقص"],
+        "answer": "آلة جز العشب"
+    },
+    {
+        "question": "tresspassing",
+        "options": ["تعدي", "زيارة", "تنظيف", "استضافة"],
+        "answer": "تعدي"
+    },{
+        "question": "struggling with",
+        "options": ["تعاني من", "تقاوم", "تدير", "تغلبت على"],
+        "answer": "تعاني من"
+    },
+    {
+        "question": "inferior",
+        "options": ["عال القيمة", "عديم الفائدة", "قليل القيمة", "مهم"],
+        "answer": "قليل القيمة"
+    },
+    {
+        "question": "superior",
+        "options": ["سيء", "عال القيمة", "ضعيف", "متأخر"],
+        "answer": "عال القيمة"
+    },{
     "question": "recognition",
     "options": ["تقدير", "إهانة", "نسيان", "رفض"],
     "answer": "تقدير"
